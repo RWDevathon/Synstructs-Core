@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_MentalState_Synstruct_Exterminator.label>seeking targets</ABF_MentalState_Synstruct_Exterminator.label>
+  <ABF_MentalState_Synstruct_Exterminator.baseInspectLine>Seeking targets</ABF_MentalState_Synstruct_Exterminator.baseInspectLine>
+
+  <ABF_MentalState_Synstruct_Directive_Berserker.label>berserk directives</ABF_MentalState_Synstruct_Directive_Berserker.label>
+  <ABF_MentalState_Synstruct_Directive_Berserker.recoveryMessage>{0}'s berserk directives have terminated.</ABF_MentalState_Synstruct_Directive_Berserker.recoveryMessage>
+  <ABF_MentalState_Synstruct_Directive_Berserker.baseInspectLine>Mental state: Berserk directives</ABF_MentalState_Synstruct_Directive_Berserker.baseInspectLine>
+
+
+</LanguageData>

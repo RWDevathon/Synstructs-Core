@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Hediff_Synstruct_Directive_Berserker.label>berserking</ABF_Hediff_Synstruct_Directive_Berserker.label>
+  <ABF_Hediff_Synstruct_Directive_Berserker.description>This drone has had berserker directives activated, giving it unnatural durability and responsiveness at the cost of increased energy consumption. Curiously, the effects of the directive outlast the amount of time the IFF sensors are offline for, meaning the unit can benefit from the directives while accepting orders after the initial berserker state terminates.</ABF_Hediff_Synstruct_Directive_Berserker.description>
+
+  <ABF_Hediff_Synstruct_Directive_Interdictor.label>interference</ABF_Hediff_Synstruct_Directive_Interdictor.label>
+  <ABF_Hediff_Synstruct_Directive_Interdictor.description>This individual has been hit by a concussive blast of overwhelming audio and radiological signals, greatly impairing their hearing and focus, as well as causing a great deal of pain.</ABF_Hediff_Synstruct_Directive_Interdictor.description>
+
+
+</LanguageData>

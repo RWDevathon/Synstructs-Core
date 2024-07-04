@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coherence Retention -->
+
+  <ABF_Stat_Synstruct_CoherenceRetention.label>coherence retention efficiency</ABF_Stat_Synstruct_CoherenceRetention.label>
+  <ABF_Stat_Synstruct_CoherenceRetention.description>How well this synstruct retains its level of coherence over time. This stat affects how quickly the pawn's coherence need naturally falls, and is primarily affected by coolant filtration and pumping.</ABF_Stat_Synstruct_CoherenceRetention.description>
+
+
+</LanguageData>

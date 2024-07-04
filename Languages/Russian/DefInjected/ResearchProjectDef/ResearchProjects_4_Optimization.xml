@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_ResearchProject_Synstruct_Optimization.label>synstruct optimization</ABF_ResearchProject_Synstruct_Optimization.label>
+  <ABF_ResearchProject_Synstruct_Optimization.description>Pave the way for assembling and upgrading synstructs with Ultratechnology.</ABF_ResearchProject_Synstruct_Optimization.description>
+
+  <ABF_ResearchProject_Synstruct_Ultraparts.label>ultra parts</ABF_ResearchProject_Synstruct_Ultraparts.label>
+  <ABF_ResearchProject_Synstruct_Ultraparts.description>Create highly sophisticated replacement parts that enhance synstructs greatly.</ABF_ResearchProject_Synstruct_Ultraparts.description>
+
+  <ABF_ResearchProject_Synstruct_CoreAssistants.label>core assistants</ABF_ResearchProject_Synstruct_CoreAssistants.label>
+  <ABF_ResearchProject_Synstruct_CoreAssistants.description>Create advanced chips that can greatly enhance individual aspects of a synstruct.</ABF_ResearchProject_Synstruct_CoreAssistants.description>
+
+
+</LanguageData>

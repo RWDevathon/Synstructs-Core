@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mechanical Part Pack -->
+
+  <ABF_Thing_Synstruct_PartPack.label>synstruct part pack</ABF_Thing_Synstruct_PartPack.label>
+  <ABF_Thing_Synstruct_PartPack.description>This pack of half-assembled parts is designed to replace standard components ranging from whole legs and arms to intricate batteries and adaptors. Basic materials are included for rapid creation of more specific pieces.</ABF_Thing_Synstruct_PartPack.description>
+
+
+  <!-- Simple Repair Stim -->
+
+  <ABF_Thing_Synstruct_RepairStimMinor.label>minor repair stim</ABF_Thing_Synstruct_RepairStimMinor.label>
+  <ABF_Thing_Synstruct_RepairStimMinor.description>A small, simple assembled kit of industrial components, and tools for assisting and stimulating synstruct repairs. The kit lacks a number of very helpful assets for more serious injuries or operations, and is suited more for battlefield triage than professional use.</ABF_Thing_Synstruct_RepairStimMinor.description>
+
+
+  <!-- Repair Stim -->
+
+  <ABF_Thing_Synstruct_RepairStim.label>repair stim</ABF_Thing_Synstruct_RepairStim.label>
+  <ABF_Thing_Synstruct_RepairStim.description>An assembled kit of industrial components and tools for assisting and stimulating mechanical repairs. Stimulation kits like this are the core tools of any synstruct's artificer who believes in quality. Well-suited to a range of tasks, it is functionally capable and practical.</ABF_Thing_Synstruct_RepairStim.description>
+
+
+  <!-- Ultra Repair Stim -->
+
+  <ABF_Thing_Synstruct_RepairStimUltra.label>ultra repair stim</ABF_Thing_Synstruct_RepairStimUltra.label>
+  <ABF_Thing_Synstruct_RepairStimUltra.description>An array of high-tech tools for assisting and stimulating mechanical repairs. Relatively uncommon outside Glitterworlds, kits like these are highly prized by artificers and any self-respecting synstruct. This can make even poor artificers seem very competent.</ABF_Thing_Synstruct_RepairStimUltra.description>
+
+
+  <!-- Resurrection Kit for sapient synstructs -->
+
+  <ABF_Thing_Synstruct_RestructKitSapient.label>sapient restruct kit</ABF_Thing_Synstruct_RestructKitSapient.label>
+  <ABF_Thing_Synstruct_RestructKitSapient.description>A one-use highly specialized suite of tools and components specifically designed to recover and restore a lost sapient synstruct's personality and consciousness. Due to those precisely specialized tools, these are useless for resuscitating non-sapient synstructs. Synstructs which have had their core destroyed cannot be recovered, but these tools would still be necessary to reconstruct the body.\n\nSynstructs resurrected with these tools must undergo a long startup sequence to return to full functionality.</ABF_Thing_Synstruct_RestructKitSapient.description>
+  <ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>Use restruct kit</ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>
+
+
+  <!-- Resurrection Kit for drone synstructs -->
+
+  <ABF_Thing_Synstruct_RestructKitDrone.label>drone restruct kit</ABF_Thing_Synstruct_RestructKitDrone.label>
+  <ABF_Thing_Synstruct_RestructKitDrone.description>A one-use suite of tools and components specifically designed to recover and restore a lost sapient synstruct's personality and consciousness. Due to those precisely specialized tools, these are useless for resuscitating non-sapient synstructs. Synstructs which have had their core destroyed cannot be recovered, but these tools would still be necessary to reconstruct the body.\n\nSynstructs resurrected with these tools must undergo a long startup sequence to return to full functionality.</ABF_Thing_Synstruct_RestructKitDrone.description>
+  <ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>Use restruct kit</ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>
+
+
+  <!-- Mechanical Need Fulfillment Items -->
+
+  <ABF_Thing_Synstruct_CoolantPack.label>coolant pack</ABF_Thing_Synstruct_CoolantPack.label>
+  <ABF_Thing_Synstruct_CoolantPack.description>A tightly sealed package of coolant for synstructs that can consume it to replenish internal coolant reserves. It only fills the reserve and can not replenish immediately lost coolant.</ABF_Thing_Synstruct_CoolantPack.description>
+
+  <ABF_Thing_Synstruct_LubricantPack.label>lubricant pack</ABF_Thing_Synstruct_LubricantPack.label>
+  <ABF_Thing_Synstruct_LubricantPack.description>A tightly sealed package of lubricant for synstructs that can consume it to replenish internal lubricant reserves.</ABF_Thing_Synstruct_LubricantPack.description>
+
+
+</LanguageData>

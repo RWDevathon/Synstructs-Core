@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian -->
+
+  <ABF_Recipe_Synstruct_Chassis_Guardian.label>install guardian chassis</ABF_Recipe_Synstruct_Chassis_Guardian.label>
+  <ABF_Recipe_Synstruct_Chassis_Guardian.description>Replaces the chassis of this unit with a guardian chassis, greatly enhancing environmental survivability and police capabilities.</ABF_Recipe_Synstruct_Chassis_Guardian.description>
+  <ABF_Recipe_Synstruct_Chassis_Guardian.jobString>Replacing chassis.</ABF_Recipe_Synstruct_Chassis_Guardian.jobString>
+
+
+  <!-- Hydraulic -->
+
+  <ABF_Recipe_Synstruct_Chassis_Hydraulic.label>install hydraulic chassis</ABF_Recipe_Synstruct_Chassis_Hydraulic.label>
+  <ABF_Recipe_Synstruct_Chassis_Hydraulic.description>Replaces the chassis of this unit with a hydraulic chassis, greatly enhancing weight capacity and general labor efficiency.</ABF_Recipe_Synstruct_Chassis_Hydraulic.description>
+  <ABF_Recipe_Synstruct_Chassis_Hydraulic.jobString>Replacing chassis.</ABF_Recipe_Synstruct_Chassis_Hydraulic.jobString>
+
+
+  <!-- Repression -->
+
+  <ABF_Recipe_Synstruct_Chassis_Repression.label>install repression chassis</ABF_Recipe_Synstruct_Chassis_Repression.label>
+  <ABF_Recipe_Synstruct_Chassis_Repression.description>Replaces the chassis of this unit with a repression chassis, greatly reducing the combat capabilities of this unit.</ABF_Recipe_Synstruct_Chassis_Repression.description>
+  <ABF_Recipe_Synstruct_Chassis_Repression.jobString>Replacing chassis.</ABF_Recipe_Synstruct_Chassis_Repression.jobString>
+
+
+  <!-- Mobility -->
+
+  <ABF_Recipe_Synstruct_Chassis_Mobility.label>install mobility chassis</ABF_Recipe_Synstruct_Chassis_Mobility.label>
+  <ABF_Recipe_Synstruct_Chassis_Mobility.description>Replaces the chassis of this unit with a mobility chassis, greatly enhancing its movement capabilities and agility.</ABF_Recipe_Synstruct_Chassis_Mobility.description>
+  <ABF_Recipe_Synstruct_Chassis_Mobility.jobString>Replacing chassis.</ABF_Recipe_Synstruct_Chassis_Mobility.jobString>
+
+
+</LanguageData>

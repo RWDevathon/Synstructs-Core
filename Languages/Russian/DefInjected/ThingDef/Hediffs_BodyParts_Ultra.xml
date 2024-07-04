@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ultra Arm -->
+
+  <ABF_Thing_Synstruct_Ultrapart_Arm.label>ultra arm</ABF_Thing_Synstruct_Ultrapart_Arm.label>
+  <ABF_Thing_Synstruct_Ultrapart_Arm.description>Higher plasteel temperance with higher efficiency components grants this arm a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_Arm.description>
+
+
+  <!-- Ultra Leg -->
+
+  <ABF_Thing_Synstruct_Ultrapart_Leg.label>ultra leg</ABF_Thing_Synstruct_Ultrapart_Leg.label>
+  <ABF_Thing_Synstruct_Ultrapart_Leg.description>Higher plasteel temperance with higher efficiency components grants this leg a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_Leg.description>
+
+
+  <!-- Ultra Visual Sensor -->
+
+  <ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>ultra visual sensor</ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>
+  <ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>Higher plasteel temperance with higher efficiency components grants this visual sensor a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>
+
+
+  <!-- Ultra Audial Sensor -->
+
+  <ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>ultra audial sensor</ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>
+  <ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>Higher plasteel temperance with higher efficiency components grants this audial sensor a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>
+
+
+  <!-- Ultra Heatsink -->
+
+  <ABF_Thing_Synstruct_Ultrapart_Heatsink.label>ultra heatsink</ABF_Thing_Synstruct_Ultrapart_Heatsink.label>
+  <ABF_Thing_Synstruct_Ultrapart_Heatsink.description>Higher plasteel temperance with higher efficiency components grants this heatsink a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_Heatsink.description>
+
+
+  <!-- Ultra Coolant Pump -->
+
+  <ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>ultra coolant pump</ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>
+  <ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>Higher plasteel temperance with higher efficiency components grants this coolant pump a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>
+
+
+  <!-- Ultra Battery -->
+
+  <ABF_Thing_Synstruct_Ultrapart_Battery.label>ultra battery pack</ABF_Thing_Synstruct_Ultrapart_Battery.label>
+  <ABF_Thing_Synstruct_Ultrapart_Battery.description>Higher plasteel temperance with higher efficiency components grants this battery a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_Battery.description>
+
+
+  <!-- Ultra Reactor -->
+
+  <ABF_Thing_Synstruct_Ultrapart_Reactor.label>ultra reactor</ABF_Thing_Synstruct_Ultrapart_Reactor.label>
+  <ABF_Thing_Synstruct_Ultrapart_Reactor.description>Higher plasteel temperance with higher efficiency components grants this reactor a significant advantage over standard issue parts.</ABF_Thing_Synstruct_Ultrapart_Reactor.description>
+
+
+  <!-- Organic Charger -->
+
+  <ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>organic charger</ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>
+  <ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>A highly advanced bionic part that allows organics that have this installed to charge. It requires considerable energy itself, leading to faster consumption, and reduces the amount of nutrition absorbed when eating food.</ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>
+
+
+</LanguageData>

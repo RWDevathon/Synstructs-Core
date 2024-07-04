@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Insight Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Insight.label>insight assistant</ABF_Hediff_Synstruct_Assistant_Insight.label>
+  <ABF_Hediff_Synstruct_Assistant_Insight.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized in the identification, categorization, and application of new insights and opportunities for learning in whatever field the core intelligence handles. It is also capable of independently generating new theories and assisting with research.</ABF_Hediff_Synstruct_Assistant_Insight.description>
+
+
+  <!-- General Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_General.label>general assistant</ABF_Hediff_Synstruct_Assistant_General.label>
+  <ABF_Hediff_Synstruct_Assistant_General.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is deliberately unspecialized, instead possessing dedicated processes to a wide range of tasks. This results in vast speed increases in the rate at which any task where quality is a concern can be completed - it allows the core intelligence to focus on quality while it handles less intricate details.</ABF_Hediff_Synstruct_Assistant_General.description>
+
+
+  <!-- Combat Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Combat.label>combat assistant</ABF_Hediff_Synstruct_Assistant_Combat.label>
+  <ABF_Hediff_Synstruct_Assistant_Combat.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for combat and threat analysis scenarios. Capable of autonomously identifying tactical opportunities and suggesting real-time responses to incoming fire on the battlefield, this chip is widely considered to be responsible for stories of veteran synstructs making tactical analysts and commanders look obsolete.\n\nThe assistant's constant tactical analysis drains work efficiency, however.</ABF_Hediff_Synstruct_Assistant_Combat.description>
+
+
+  <!-- Mechanic Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Artificer.label>artificer assistant</ABF_Hediff_Synstruct_Assistant_Artificer.label>
+  <ABF_Hediff_Synstruct_Assistant_Artificer.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for engineering and artificing tasks. Possessing a large library of sub-routines for optimally designing and creating parts as well as installing, repairing, or altering them, chips like these are often banned on worlds with strong unions to prevent total dominance of the industry by purpose built machines.</ABF_Hediff_Synstruct_Assistant_Artificer.description>
+
+
+  <!-- Construction Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Construction.label>construction assistant</ABF_Hediff_Synstruct_Assistant_Construction.label>
+  <ABF_Hediff_Synstruct_Assistant_Construction.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for architecture and construction tasks. An in-depth archive of the exact characteristics of building materials, tools, practices, and styles ensures the unit has every piece of information it could possibly need when approaching a task. Automatic sub-routines for measuring, examining, and analyzing physical objects and spaces also permit quicker calculations on placement, force, and safety.</ABF_Hediff_Synstruct_Assistant_Construction.description>
+
+
+  <!-- Excavation Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Excavation.label>excavation assistant</ABF_Hediff_Synstruct_Assistant_Excavation.label>
+  <ABF_Hediff_Synstruct_Assistant_Excavation.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for optimizing mineral identification, categorization, and extraction. A comprehension archive of mineral and material properties permits much more precise and efficient mining operations, leading to significant yield increases and operational capacity. Autonomous sub-routines also optimize the processes of excavator technology like deep drills.</ABF_Hediff_Synstruct_Assistant_Excavation.description>
+
+
+  <!-- Victual Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Victual.label>victual assistant</ABF_Hediff_Synstruct_Assistant_Victual.label>
+  <ABF_Hediff_Synstruct_Assistant_Victual.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for the processing and preparation of organic substances - namely, food and drugs. An array of autonomous sub-routines combined with a vast library of references on the nature, composition, and behavior of organic matter tailored with a focus on their proper usage ensures top-of-the-line quality substances with minimal waste.</ABF_Hediff_Synstruct_Assistant_Victual.description>
+
+
+  <!-- Cultivation Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Cultivation.label>cultivation assistant</ABF_Hediff_Synstruct_Assistant_Cultivation.label>
+  <ABF_Hediff_Synstruct_Assistant_Cultivation.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for the cultivation of flora and fauna. With a massive archive of data with painstakingly accurate insights on every plant and animal known to exist on the planet, autonomous sub-routines allow the unit to identify key behaviors, stressors, and to some base extent allow "communication" with target species via specific behaviors and pheromones. \n\nCuriously, this occasionally makes the synstruct itself display almost parental affection for lesser intelligences.</ABF_Hediff_Synstruct_Assistant_Cultivation.description>
+
+
+  <!-- Medicine Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Medicine.label>medicine assistant</ABF_Hediff_Synstruct_Assistant_Medicine.label>
+  <ABF_Hediff_Synstruct_Assistant_Medicine.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for treatment of organic injuries and for organic surgeries. An array of sub-routines and procedures assists in identifying, categorizing, and analyzing organic issues and provides remedial suggestions. \n\nThis device also lends itself well to performing simple repairs on artifical beings.</ABF_Hediff_Synstruct_Assistant_Medicine.description>
+
+
+  <!-- Social Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Social.label>social assistant</ABF_Hediff_Synstruct_Assistant_Social.label>
+  <ABF_Hediff_Synstruct_Assistant_Social.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for social situations. From reading individual body movements and expressions to referencing all known histories of targets, every day negotiations are optimized and analyzed for advancing the core intelligence's ability to handle social situations. Maximizing popularity, infamy, prestige - all are considered viable objectives.</ABF_Hediff_Synstruct_Assistant_Social.description>
+
+
+  <!-- Mental Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Mental.label>mental assistant</ABF_Hediff_Synstruct_Assistant_Mental.label>
+  <ABF_Hediff_Synstruct_Assistant_Mental.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant is specialized for imbuing the core intelligence with a much stronger mental resilience. A suite of individualized sub-routines remove many stressors and unpleasant issues from the intelligence's cognition, while training a greater capacity for overcoming difficult situations. Many synstructs view devices like this as a trusted - if somewhat dimwitted - friend, and find their own immortal-like existence much more bearable with it around.</ABF_Hediff_Synstruct_Assistant_Mental.description>
+
+
+  <!-- Complexity Assistant -->
+
+  <ABF_Hediff_Synstruct_Assistant_Complexity.label>complexity assistant</ABF_Hediff_Synstruct_Assistant_Complexity.label>
+  <ABF_Hediff_Synstruct_Assistant_Complexity.description>A chip installed into the core assistant slot, this device aids the core intelligence with a variety of tasks. This assistant has relatively little specialization in itself. Instead, it serves as a high powered storage and processing center for whatever the core assistant may need at a moment's notice. Synstructs develop internal sub-routines for it to run to assist with maintaining coherence, and increases the maximum complexity achievable for reprogrammable drones.</ABF_Hediff_Synstruct_Assistant_Complexity.description>
+
+
+</LanguageData>

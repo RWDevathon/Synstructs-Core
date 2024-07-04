@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Hediff_Synstruct_CoolantLoss.label>coolant loss</ABF_Hediff_Synstruct_CoolantLoss.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.description>Loss of coolant in the chassis, resulting in reduced cooling capacity and loss of finetuned motor control. Lack of circulation prevents restorative mechanites from functioning properly, leading to extended recovery times. \n\nPrioritization ensures core functionality receives sufficient coolant flow until critical levels are reached.</ABF_Hediff_Synstruct_CoolantLoss.description>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>nominal</ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>minor</ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>moderate</ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>significant</ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>threatening</ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>severe</ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>critical</ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>
+
+  <ABF_Hediff_Synstruct_Overheating.label>overheating</ABF_Hediff_Synstruct_Overheating.label>
+  <ABF_Hediff_Synstruct_Overheating.description>Unsafe levels of heat retention in the chassis. At minor levels, artificial units can reduce some high power/heat functionality to offset the impact. At major levels, the unit will suffer from increasing system failures. If it surpasses a critical threshold, the core will shut down and the unit will die.</ABF_Hediff_Synstruct_Overheating.description>
+  <ABF_Hediff_Synstruct_Overheating.stages.0.label>nominal</ABF_Hediff_Synstruct_Overheating.stages.0.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.1.label>minute</ABF_Hediff_Synstruct_Overheating.stages.1.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.2.label>minor</ABF_Hediff_Synstruct_Overheating.stages.2.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.3.label>moderate</ABF_Hediff_Synstruct_Overheating.stages.3.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.4.label>significant</ABF_Hediff_Synstruct_Overheating.stages.4.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.5.label>severe</ABF_Hediff_Synstruct_Overheating.stages.5.label>
+
+  <ABF_Hediff_Synstruct_Hypothermia.label>hypothermic reaction</ABF_Hediff_Synstruct_Hypothermia.label>
+  <ABF_Hediff_Synstruct_Hypothermia.description>While artificial parts do not suffer from frostbite like organic flesh does, cold is an existential threat to machinery. At critical levels, the unit must focus all heat generation to internal systems - effectively immobilizing it - and power drains at an alarming rate.</ABF_Hediff_Synstruct_Hypothermia.description>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.0.label>insignificant</ABF_Hediff_Synstruct_Hypothermia.stages.0.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.1.label>minor</ABF_Hediff_Synstruct_Hypothermia.stages.1.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.2.label>moderate</ABF_Hediff_Synstruct_Hypothermia.stages.2.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.3.label>significant</ABF_Hediff_Synstruct_Hypothermia.stages.3.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.4.label>threatening</ABF_Hediff_Synstruct_Hypothermia.stages.4.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.5.label>critical</ABF_Hediff_Synstruct_Hypothermia.stages.5.label>
+
+
+</LanguageData>

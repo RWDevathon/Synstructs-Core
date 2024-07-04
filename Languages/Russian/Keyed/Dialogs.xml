@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_ResurrectionSuccessful>{0} was successfully reactivated to minimal capacity. The synstruct must reboot before returning to full functionality.</ABF_ResurrectionSuccessful>
+
+  <ABF_SelectPassionsUpToLimit>Select up to {0} passions.</ABF_SelectPassionsUpToLimit>
+  <ABF_SelectPassionsUpToLimitHeader>Choose up to {0} skills for {1_nameDef} to increase {1_possessive} passion for</ABF_SelectPassionsUpToLimitHeader>
+
+</LanguageData>

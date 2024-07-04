@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_ResearchProject_Synstruct_Infrastructure.label>synstruct infrastructure</ABF_ResearchProject_Synstruct_Infrastructure.label>
+  <ABF_ResearchProject_Synstruct_Infrastructure.description>Discover the basic infrastructure needed to produce and maintain synstructs.</ABF_ResearchProject_Synstruct_Infrastructure.description>
+
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.label>interchangeable parts</ABF_ResearchProject_Synstruct_InterchangeableParts.label>
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.description>Establish a standard for repairing and restoring synstructs. Create tools to upgrade their parts.</ABF_ResearchProject_Synstruct_InterchangeableParts.description>
+
+  <ABF_ResearchProject_Synstruct_Stimulators.label>synstruct stimulators</ABF_ResearchProject_Synstruct_Stimulators.label>
+  <ABF_ResearchProject_Synstruct_Stimulators.description>Formulate chemical solutions to provide short-term enhancements for synstructs.</ABF_ResearchProject_Synstruct_Stimulators.description>
+
+
+</LanguageData>

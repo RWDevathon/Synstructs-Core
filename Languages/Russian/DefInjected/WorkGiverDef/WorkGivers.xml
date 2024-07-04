@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_WorkGiver_Synstruct_AssembleSynstruct.label>assemble synstructs at cradle</ABF_WorkGiver_Synstruct_AssembleSynstruct.label>
+  <ABF_WorkGiver_Synstruct_AssembleSynstruct.verb>work</ABF_WorkGiver_Synstruct_AssembleSynstruct.verb>
+  <ABF_WorkGiver_Synstruct_AssembleSynstruct.gerund>working at</ABF_WorkGiver_Synstruct_AssembleSynstruct.gerund>
+
+  <ABF_WorkGiver_Synstruct_ManufactureParts.label>assemble synstruct parts at parts workbench</ABF_WorkGiver_Synstruct_ManufactureParts.label>
+  <ABF_WorkGiver_Synstruct_ManufactureParts.verb>work</ABF_WorkGiver_Synstruct_ManufactureParts.verb>
+  <ABF_WorkGiver_Synstruct_ManufactureParts.gerund>working at</ABF_WorkGiver_Synstruct_ManufactureParts.gerund>
+
+
+</LanguageData>

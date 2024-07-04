@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Thing_Synstruct_CoherenceSpot.label>coherence spot</ABF_Thing_Synstruct_CoherenceSpot.label>
+  <ABF_Thing_Synstruct_CoherenceSpot.description>Designates a spot for coherence. Synstructs will prefer to build coherence here, and can be assigned to specific pawns.</ABF_Thing_Synstruct_CoherenceSpot.description>
+  <ABF_Thing_Synstruct_CoherenceSpot_Blueprint.label>coherence spot (blueprint)</ABF_Thing_Synstruct_CoherenceSpot_Blueprint.label>
+  <ABF_Thing_Synstruct_CoherenceSpot_Frame.label>coherence spot (building)</ABF_Thing_Synstruct_CoherenceSpot_Frame.label>
+  <ABF_Thing_Synstruct_CoherenceSpot_Frame.description>Designates a spot for coherence. Synstructs will prefer to build coherence here, and can be assigned to specific pawns.</ABF_Thing_Synstruct_CoherenceSpot_Frame.description>
+
+
+</LanguageData>

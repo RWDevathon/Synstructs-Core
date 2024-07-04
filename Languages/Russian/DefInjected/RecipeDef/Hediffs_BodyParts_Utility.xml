@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_MiningArm.label>install mining arm</ABF_Recipe_Synstruct_Utility_MiningArm.label>
+  <ABF_Recipe_Synstruct_Utility_MiningArm.description>Installs a mining arm.</ABF_Recipe_Synstruct_Utility_MiningArm.description>
+  <ABF_Recipe_Synstruct_Utility_MiningArm.jobString>Installing mining arm.</ABF_Recipe_Synstruct_Utility_MiningArm.jobString>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_AgricultureArm.label>install agriculture arm</ABF_Recipe_Synstruct_Utility_AgricultureArm.label>
+  <ABF_Recipe_Synstruct_Utility_AgricultureArm.description>Installs an agriculture arm.</ABF_Recipe_Synstruct_Utility_AgricultureArm.description>
+  <ABF_Recipe_Synstruct_Utility_AgricultureArm.jobString>Installing agriculture arm.</ABF_Recipe_Synstruct_Utility_AgricultureArm.jobString>
+
+
+  <!-- Pacification Utility Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_PacificationArm.label>install pacification arm</ABF_Recipe_Synstruct_Utility_PacificationArm.label>
+  <ABF_Recipe_Synstruct_Utility_PacificationArm.description>Installs a pacification arm.</ABF_Recipe_Synstruct_Utility_PacificationArm.description>
+  <ABF_Recipe_Synstruct_Utility_PacificationArm.jobString>Installing pacification arm.</ABF_Recipe_Synstruct_Utility_PacificationArm.jobString>
+
+
+  <!-- Scalpel Utility Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_ScalpelArm.label>install scalpel arm</ABF_Recipe_Synstruct_Utility_ScalpelArm.label>
+  <ABF_Recipe_Synstruct_Utility_ScalpelArm.description>Installs a scalpel arm.</ABF_Recipe_Synstruct_Utility_ScalpelArm.description>
+  <ABF_Recipe_Synstruct_Utility_ScalpelArm.jobString>Installing scalpel arm.</ABF_Recipe_Synstruct_Utility_ScalpelArm.jobString>
+
+
+  <!-- Rending Utility Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_RendingArm.label>install rending arm</ABF_Recipe_Synstruct_Utility_RendingArm.label>
+  <ABF_Recipe_Synstruct_Utility_RendingArm.description>Installs a rending arm.</ABF_Recipe_Synstruct_Utility_RendingArm.description>
+  <ABF_Recipe_Synstruct_Utility_RendingArm.jobString>Installing rending arm.</ABF_Recipe_Synstruct_Utility_RendingArm.jobString>
+
+
+  <!-- Inducive Vocalizer -->
+
+  <ABF_Recipe_Synstruct_Utility_InduciveVocalizer.label>install inducive vocalizer</ABF_Recipe_Synstruct_Utility_InduciveVocalizer.label>
+  <ABF_Recipe_Synstruct_Utility_InduciveVocalizer.description>Installs an inducive vocalizer.</ABF_Recipe_Synstruct_Utility_InduciveVocalizer.description>
+  <ABF_Recipe_Synstruct_Utility_InduciveVocalizer.jobString>Installing inducive vocalizer.</ABF_Recipe_Synstruct_Utility_InduciveVocalizer.jobString>
+
+
+  <!-- Coercive Vocalizer -->
+
+  <ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.label>install coercive vocalizer</ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.label>
+  <ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.description>Installs a coercive vocalizer.</ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.description>
+  <ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.jobString>Installing coercive vocalizer.</ABF_Recipe_Synstruct_Utility_CoerciveVocalizer.jobString>
+
+
+  <!-- Makeshift Leg -->
+
+  <ABF_Recipe_Synstruct_Utility_MakeshiftLeg.label>install makeshift leg</ABF_Recipe_Synstruct_Utility_MakeshiftLeg.label>
+  <ABF_Recipe_Synstruct_Utility_MakeshiftLeg.description>Installs a makeshift mechanical leg.</ABF_Recipe_Synstruct_Utility_MakeshiftLeg.description>
+  <ABF_Recipe_Synstruct_Utility_MakeshiftLeg.jobString>Installing makeshift mechanical leg.</ABF_Recipe_Synstruct_Utility_MakeshiftLeg.jobString>
+
+
+  <!-- Makeshift Arm -->
+
+  <ABF_Recipe_Synstruct_Utility_MakeshiftArm.label>install makeshift mechanical arm</ABF_Recipe_Synstruct_Utility_MakeshiftArm.label>
+  <ABF_Recipe_Synstruct_Utility_MakeshiftArm.description>Installs a makeshift mechanical arm.</ABF_Recipe_Synstruct_Utility_MakeshiftArm.description>
+  <ABF_Recipe_Synstruct_Utility_MakeshiftArm.jobString>Installing makeshift mechanical arm.</ABF_Recipe_Synstruct_Utility_MakeshiftArm.jobString>
+
+
+</LanguageData>

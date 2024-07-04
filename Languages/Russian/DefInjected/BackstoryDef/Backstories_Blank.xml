@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blank -->
+
+  <ABF_Backstory_Synstruct_Childhood_Blank.title>blank</ABF_Backstory_Synstruct_Childhood_Blank.title>
+  <ABF_Backstory_Synstruct_Childhood_Blank.titleShort>unit</ABF_Backstory_Synstruct_Childhood_Blank.titleShort>
+  <ABF_Backstory_Synstruct_Childhood_Blank.baseDesc>{PAWN_nameDef} was left entirely devoid of character and individuality, and has no concept of childhood.</ABF_Backstory_Synstruct_Childhood_Blank.baseDesc>
+
+  <ABF_Backstory_Synstruct_Adulthood_Blank.title>blank</ABF_Backstory_Synstruct_Adulthood_Blank.title>
+  <ABF_Backstory_Synstruct_Adulthood_Blank.titleShort>unit</ABF_Backstory_Synstruct_Adulthood_Blank.titleShort>
+  <ABF_Backstory_Synstruct_Adulthood_Blank.baseDesc>This unit has neither intelligence nor memory. {PAWN_pronoun} is entirely devoid of character and utility.</ABF_Backstory_Synstruct_Adulthood_Blank.baseDesc>
+
+
+</LanguageData>

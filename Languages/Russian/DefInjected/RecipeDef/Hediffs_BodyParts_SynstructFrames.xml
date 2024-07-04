@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plasteel Plating -->
+
+  <ABF_Recipe_Synstruct_Frame_Plasteel.label>install plasteel frame</ABF_Recipe_Synstruct_Frame_Plasteel.label>
+  <ABF_Recipe_Synstruct_Frame_Plasteel.description>Replaces the frame of this unit with a tempered plasteel-infused frame, enhancing combat survivability.</ABF_Recipe_Synstruct_Frame_Plasteel.description>
+  <ABF_Recipe_Synstruct_Frame_Plasteel.jobString>Replacing frame.</ABF_Recipe_Synstruct_Frame_Plasteel.jobString>
+
+
+  <!-- Refined -->
+
+  <ABF_Recipe_Synstruct_Frame_Refined.label>install refined frame</ABF_Recipe_Synstruct_Frame_Refined.label>
+  <ABF_Recipe_Synstruct_Frame_Refined.description>Replaces the frame of this unit with a refined frame, accentuating sociability and imbuing a distinctly noble and striking look. The frame itself is not physically much different and is thus exceedingly easy to install - the difficulty lies in the requisite artistic skills of its installer, as there is no way to standardize the beauty of the intricate design.</ABF_Recipe_Synstruct_Frame_Refined.description>
+  <ABF_Recipe_Synstruct_Frame_Refined.jobString>Replacing frame.</ABF_Recipe_Synstruct_Frame_Refined.jobString>
+
+
+  <!-- Sanitary -->
+
+  <ABF_Recipe_Synstruct_Frame_Sanitary.label>install sanitary frame</ABF_Recipe_Synstruct_Frame_Sanitary.label>
+  <ABF_Recipe_Synstruct_Frame_Sanitary.description>Replaces the frame of this unit with a sanitary frame, ensuring it is completely free of filth and completely sanitized.</ABF_Recipe_Synstruct_Frame_Sanitary.description>
+  <ABF_Recipe_Synstruct_Frame_Sanitary.jobString>Replacing frame.</ABF_Recipe_Synstruct_Frame_Sanitary.jobString>
+
+
+</LanguageData>

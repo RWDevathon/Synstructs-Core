@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Surgery to reprogram drones to serve the colony -->
+
+  <ABF_Recipe_Synstruct_ReprogramDrone.label>reprogram drone</ABF_Recipe_Synstruct_ReprogramDrone.label>
+  <ABF_Recipe_Synstruct_ReprogramDrone.description>A straightforward but delicate operation on foreign drones, taking command of one to suit the colony's purposes is an excellent way to strengthen capabilities. However, the previous owners may have installed safeguards against such operations, so there is a high risk of death should it fail.\n\nOn colony drones, it is a completely harmless but rather time consuming operation that can reprogram appropriate drones to reallocate its work capacities, skills, and directives.</ABF_Recipe_Synstruct_ReprogramDrone.description>
+  <ABF_Recipe_Synstruct_ReprogramDrone.jobString>Reprogramming drone.</ABF_Recipe_Synstruct_ReprogramDrone.jobString>
+
+
+  <!-- Surgery to remove programming from a programmed drone -->
+
+  <ABF_Recipe_Synstruct_RemoveProgramming.label>deprogram</ABF_Recipe_Synstruct_RemoveProgramming.label>
+  <ABF_Recipe_Synstruct_RemoveProgramming.description>A straightforward operation for cleanly wiping out all directives and programming from a drone, leaving it completely blank and in stand-by.</ABF_Recipe_Synstruct_RemoveProgramming.description>
+  <ABF_Recipe_Synstruct_RemoveProgramming.jobString>Reprogramming drone.</ABF_Recipe_Synstruct_RemoveProgramming.jobString>
+
+
+  <!-- Surgery to provide drones with higher complexity -->
+
+  <ABF_Recipe_Synstruct_InstallExtraHardware.label>install additional hardware</ABF_Recipe_Synstruct_InstallExtraHardware.label>
+  <ABF_Recipe_Synstruct_InstallExtraHardware.description>More hardware does not always mean more computational power, but additional memory and hardware can enhance the maximum complexity of a drone at the cost of power and coherence efficiency.</ABF_Recipe_Synstruct_InstallExtraHardware.description>
+  <ABF_Recipe_Synstruct_InstallExtraHardware.jobString>Installing hardware.</ABF_Recipe_Synstruct_InstallExtraHardware.jobString>
+
+
+  <!-- Surgery to remove some of the drone's extra higher complexity -->
+
+  <ABF_Recipe_Synstruct_RemoveExtraHardware.label>remove additional hardware</ABF_Recipe_Synstruct_RemoveExtraHardware.label>
+  <ABF_Recipe_Synstruct_RemoveExtraHardware.description>Sometimes exceeding a unit's physical standard specifications is no longer required. Drones, luckily, do not complain when it comes time to remove that which makes them more advanced. They do, however, need to restart to adjust to the lost capacity.</ABF_Recipe_Synstruct_RemoveExtraHardware.description>
+  <ABF_Recipe_Synstruct_RemoveExtraHardware.jobString>Uninstalling hardware.</ABF_Recipe_Synstruct_RemoveExtraHardware.jobString>
+
+
+</LanguageData>

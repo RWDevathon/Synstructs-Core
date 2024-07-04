@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coherence -->
+  <ABF_CoherenceGizmoLabel>Coherence</ABF_CoherenceGizmoLabel>
+  <ABF_CoherenceDesc>Coherence is a measure of a pawn's core memory and system health - it is only tangentially related to physical part health and is primarily meditative. Coherence degrades over time, and is reinforced by pawns having sufficient free time to tend to their internal health. Poor coherence degrades efficiency, and may lead to physical part failures due to critical repair errors if allowed to persist for too long.\n\nA high level of coherence provides small benefits, but also increases coherence loss - many pawns will be better off maintaining a middle of the road approach.\n\nNote: provided values are baseline rates, actual fall rate depends on the pawn's coherence efficiency (in info tab)</ABF_CoherenceDesc>
+  <ABF_CoherenceTargetLabel>Target coherence</ABF_CoherenceTargetLabel>
+  <ABF_CoherenceTargetLabelDesc>Click to set desired coherence level.</ABF_CoherenceTargetLabelDesc>
+  <ABF_CoherenceLevelInfoRange>{0}-{1}%</ABF_CoherenceLevelInfoRange>
+  <ABF_CoherenceLevelInfoFallRate>Coherence falls {0} per day.</ABF_CoherenceLevelInfoFallRate>
+
+  <ABF_CoherenceEffectGizmoLabel>Average Coherence, {0}: {1} day(s)</ABF_CoherenceEffectGizmoLabel>
+  <ABF_CoherenceEffectGizmoLabelPositive>Positive</ABF_CoherenceEffectGizmoLabelPositive>
+  <ABF_CoherenceEffectGizmoLabelNegative>Negative</ABF_CoherenceEffectGizmoLabelNegative>
+  <ABF_CoherenceEffectDesc>Average coherence is a measure of how well maintained this unit's core memory and internal systems have been over time, and changes based on the coherence level of the pawn. High levels will improve mood, while low levels will degrade both mood and health. It rises if coherence is above 70% and falls if below 30%, and otherwise slowly returns to a baseline.\n\nNote: Coherence is personal and deeply introspective to each individual and cannot be handled by others.</ABF_CoherenceEffectDesc>
+
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.label>decaying part</ABF_Hediff_Synstruct_Coherence_PartDecay.label>
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.description>This part of this unit has suffered significant decay and is performing suboptimally. Repairs are needed to alleviate this.</ABF_Hediff_Synstruct_Coherence_PartDecay.description>
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>a decaying part</ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>
+
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.label>rusted part</ABF_Hediff_Synstruct_Coherence_RustedPart.label>
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.description>This part has rusted. While it is not performing any noticeably worse, it is very displeasing to see, hear, and use. Repairs are needed to alleviate this.</ABF_Hediff_Synstruct_Coherence_RustedPart.description>
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>a rusted part</ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>
+
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.label>part blackout</ABF_Hediff_Synstruct_Coherence_PowerLoss.label>
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.description>This part has suffered a near total power loss. While the part is still somewhat manipulatable by adjacent parts, it is severely impairing functionality and increasing power usage. Repairs can alleviate this, but it will pass on its own as mechanites repair the system.</ABF_Hediff_Synstruct_Coherence_PowerLoss.description>
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>a part blackout</ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>
+
+  <ABF_Hediff_Synstruct_Coherence_CoreDamage.label>core damage</ABF_Hediff_Synstruct_Coherence_CoreDamage.label>
+  <ABF_Hediff_Synstruct_Coherence_CoreDamage.description>The memory core of this unit has suffered internal physical damage and is not operating at an appropriate level. All recent skill memory of the day of the incident has been lost. This will impair learning capacity and consciousness until repaired.</ABF_Hediff_Synstruct_Coherence_CoreDamage.description>
+
+  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>optical aberrations</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>
+  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>Due to poor coherence and overuse, the optical drivers in this sensor have failed and are producing severe abberrations in visual feedback for the entire unit, leading to hallucinations and misidentified entities. The unit can resolve this with enough time, or by reaching stable coherence.</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>
+
+  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>joint misalignment</ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>
+  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>This part has had its joints weaken and become misaligned, leading to ungainly functionality and difficulty using it. This will lead to unpredictable and unnerving movement in melee combat, as a curious side effect, until repairs are completed.</ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>
+
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.label>failing coolant valves</ABF_Hediff_Synstruct_Coherence_FailingValves.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.description>The internal coolant valves of this unit are degrading. Over time, the chassis will lose the ability to circulate coolant, leading to severe impediments to repairs and cooling efficiency until repaired.</ABF_Hediff_Synstruct_Coherence_FailingValves.description>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>initial</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>minor</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>moderate</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>significant</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>severe</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>
+
+
+  <!-- Good Random Coherence Effects -->
+
+  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>practiced adaptation</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>
+  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>This unit has managed an undermaintained chassis well enough that it has come to understand how to deal with the situation, and learned a great deal about itself and existence as a whole. It is able to better learn from its experiences and efficiently deal with coherence issues for a short while.</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>
+
+
+  <!-- Coherence Stage Effects -->
+
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.label>critical integrity</ABF_Hediff_Synstruct_Coherence_CriticalStage.label>
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.description>This unit is suffering from critically poor coherence and may suffer spontaneous major breakdowns or many small scale failures. The lack of coherence is also reducing overall efficiency and the chassis' ability to repair itself.</ABF_Hediff_Synstruct_Coherence_CriticalStage.description>
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>critical vulnerability</ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>
+
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.label>poor integrity</ABF_Hediff_Synstruct_Coherence_PoorStage.label>
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.description>This unit is suffering from poor coherence and may suffer spontaneous small scale failures if left unattended for too long. The lack of coherence is slightly reducing the chassis' ability to repair itself.</ABF_Hediff_Synstruct_Coherence_PoorStage.description>
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>minor vulnerability</ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>
+
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>high integrity</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>This unit is benefitting from proper coherence and is immune to spontaneous part failure. The well-maintained chassis is slightly more power efficient and able to repair itself.</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>heightened stability</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>
+
+
+</LanguageData>

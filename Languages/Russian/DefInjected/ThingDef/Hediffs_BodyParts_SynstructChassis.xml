@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Guardian -->
+
+  <ABF_Thing_Synstruct_Chassis_Guardian.label>guardian chassis</ABF_Thing_Synstruct_Chassis_Guardian.label>
+  <ABF_Thing_Synstruct_Chassis_Guardian.description>A chassis designed to withstand extreme temperature variance and exude intimidation. This chassis was designed with dealing with fire - be it natural, accidental, or delivered by molotov - and all the threats that come with it. The insulatory measures also preserves the unit in extreme cold.</ABF_Thing_Synstruct_Chassis_Guardian.description>
+
+
+  <!-- Hydraulic -->
+
+  <ABF_Thing_Synstruct_Chassis_Hydraulic.label>hydraulic chassis</ABF_Thing_Synstruct_Chassis_Hydraulic.label>
+  <ABF_Thing_Synstruct_Chassis_Hydraulic.description>A chassis designed to maximize the amount of weight the structure can safely handle for short and long term needs. The restructured chassis also lends itself to greater efficiency in a wide range of tasks.</ABF_Thing_Synstruct_Chassis_Hydraulic.description>
+
+
+  <!-- Repression -->
+
+  <ABF_Thing_Synstruct_Chassis_Repression.label>repression chassis</ABF_Thing_Synstruct_Chassis_Repression.label>
+  <ABF_Thing_Synstruct_Chassis_Repression.description>A chassis designed to selectively restrict combative capabilities. This chassis uses internal, isolated software to impede the unit's body when attempting to utilize weaponry, and is intentionally more fragile than standard chassis to reduce combat performance without impairing work capabilities.</ABF_Thing_Synstruct_Chassis_Repression.description>
+
+
+  <!-- Mobility -->
+
+  <ABF_Thing_Synstruct_Chassis_Mobility.label>mobility chassis</ABF_Thing_Synstruct_Chassis_Mobility.label>
+  <ABF_Thing_Synstruct_Chassis_Mobility.description>A chassis designed and optimized for fluency and efficiency of motion. This chassis has unique design choices alongside specialized counterweights to minimize drag, maximize momentum gain and loss, and grant superior flexibility and agility.</ABF_Thing_Synstruct_Chassis_Mobility.description>
+
+
+</LanguageData>

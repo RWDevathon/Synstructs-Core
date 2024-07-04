@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Thing_Synstruct_Cradle.label>synstruct cradle</ABF_Thing_Synstruct_Cradle.label>
+  <ABF_Thing_Synstruct_Cradle.description>A specialized workbench that holds the chassis and frame of a synstruct in place while they are under construction. Many synstructs hold fond opinions of these workbenches, regarding them almost like a wellspring of life.</ABF_Thing_Synstruct_Cradle.description>
+  <ABF_Thing_Synstruct_Cradle_Blueprint.label>synstruct cradle (blueprint)</ABF_Thing_Synstruct_Cradle_Blueprint.label>
+  <ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>synstruct cradle (blueprint)</ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_Cradle_Frame.label>synstruct cradle (building)</ABF_Thing_Synstruct_Cradle_Frame.label>
+  <ABF_Thing_Synstruct_Cradle_Frame.description>A specialized workbench that holds the chassis and frame of a synstruct in place while they are under construction. Many synstructs hold fond opinions of these workbenches, regarding them almost like a wellspring of life.</ABF_Thing_Synstruct_Cradle_Frame.description>
+
+  <ABF_Thing_Synstruct_PartWorkbench.label>synstruct parts workbench</ABF_Thing_Synstruct_PartWorkbench.label>
+  <ABF_Thing_Synstruct_PartWorkbench.description>A workbench that holds all equipment needed to make a variety of synstruct parts.</ABF_Thing_Synstruct_PartWorkbench.description>
+  <ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>synstruct parts workbench (blueprint)</ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>synstruct parts workbench (blueprint)</ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Frame.label>synstruct parts workbench (building)</ABF_Thing_Synstruct_PartWorkbench_Frame.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Frame.description>A workbench that holds all equipment needed to make a variety of synstruct parts.</ABF_Thing_Synstruct_PartWorkbench_Frame.description>
+
+
+</LanguageData>

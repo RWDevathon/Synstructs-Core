@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mining Utility Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_MiningArm.label>mining arm</ABF_Hediff_Synstruct_Utility_MiningArm.label>
+  <ABF_Hediff_Synstruct_Utility_MiningArm.description>A simple mechanical arm designed with the extraction and processing of minerals in mind. The arm prominently features a plasteel drill which feeds contents into an internal processor, separating minerals efficiently and swiftly discarding waste to ensure maximal drilling and minimal sorting time.</ABF_Hediff_Synstruct_Utility_MiningArm.description>
+  <ABF_Hediff_Synstruct_Utility_MiningArm.comps.0.tools.0.label>drill</ABF_Hediff_Synstruct_Utility_MiningArm.comps.0.tools.0.label>
+
+
+  <!-- Agriculture Utility Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_AgricultureArm.label>agriculture arm</ABF_Hediff_Synstruct_Utility_AgricultureArm.label>
+  <ABF_Hediff_Synstruct_Utility_AgricultureArm.description>A simple mechanical arm designed with agriculture and horticulture in mind. The arm features several internal multi-tools that appropriately harvest products and feeds contents into an internal processor, discarding waste products to ensure optimal harvest and minimal sorting time. Ejecting products out of specialized elbow ports is efficient, if rather odd to observe.</ABF_Hediff_Synstruct_Utility_AgricultureArm.description>
+  <ABF_Hediff_Synstruct_Utility_AgricultureArm.comps.0.tools.0.label>scythe</ABF_Hediff_Synstruct_Utility_AgricultureArm.comps.0.tools.0.label>
+
+
+  <!-- Pacification Utility Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_PacificationArm.label>pacification arm</ABF_Hediff_Synstruct_Utility_PacificationArm.label>
+  <ABF_Hediff_Synstruct_Utility_PacificationArm.description>A simple mechanical arm with built-in energy absorbers and generators. The fists are capable of reaching dangerously high temperatures and are able to vent heat upon impacting something - effectively scorching a target - and applying an overloading amount of energy - an EMP in all but name. They are often used by riot police to impart highly painful but non-lethal burns and disable vehicles.\n\nEccentric chefs appreciate the consistent and rapid heat transfer.</ABF_Hediff_Synstruct_Utility_PacificationArm.description>
+  <ABF_Hediff_Synstruct_Utility_PacificationArm.comps.0.tools.0.label>charged fist</ABF_Hediff_Synstruct_Utility_PacificationArm.comps.0.tools.0.label>
+
+
+  <!-- Scalpel Utility Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_ScalpelArm.label>scalpel arm</ABF_Hediff_Synstruct_Utility_ScalpelArm.label>
+  <ABF_Hediff_Synstruct_Utility_ScalpelArm.description>A mechanical arm with a very modified structure designed for precision and perfectly smooth movement. A number of integrated counterbalances, unique parts, and multi-tools provide this arm with much finer - but delicate - control. While unsuited for general work tasks, this arm is an incredible boon to surgeons and mechanics alike. The delicate structure combined with minor changes to the the larger chassis leave the user more vulnerable to damage, but the scalpel can be used as a very dangerous piercing weapon if needed.</ABF_Hediff_Synstruct_Utility_ScalpelArm.description>
+  <ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.0.label>scalpel</ABF_Hediff_Synstruct_Utility_ScalpelArm.comps.0.tools.0.label>
+
+
+  <!-- Rending Utility Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_RendingArm.label>rending arm</ABF_Hediff_Synstruct_Utility_RendingArm.label>
+  <ABF_Hediff_Synstruct_Utility_RendingArm.description>A mechanical arm designed to rend down organic or inorganic mass into component parts. An array of specialized internal sensors, sorters, and processors provide this arm with powerful disassembly capacities. The design permits free range of movement and no outstanding penalties, but is uncanny and disturbing to observe. The arm is capable of breaking down living tissue just as well as dead tissue, and can make short work of buildings. Synstruct troops of notoriously brutal commanders will often be found equipped with these to carry out public executions and rapidly eliminating issues with corpses.\n\nThe rending process thoroughly destroys pathogens and contaminants, make it an ideal attachment for efficiency and cleanliness obsessed butchers and chefs.</ABF_Hediff_Synstruct_Utility_RendingArm.description>
+  <ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.0.label>carver</ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.0.label>
+  <ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.1.label>demolisher</ABF_Hediff_Synstruct_Utility_RendingArm.comps.0.tools.1.label>
+
+
+  <!-- Inducive Vocalizer -->
+
+  <ABF_Hediff_Synstruct_Utility_InduciveVocalizer.label>inducive Vocalizer</ABF_Hediff_Synstruct_Utility_InduciveVocalizer.label>
+  <ABF_Hediff_Synstruct_Utility_InduciveVocalizer.description>A vocalizer replacement utilizing a built-in large language modelling algorithm that can rapidly modulate the unit's voice output to perfectly reflect their desired tone, intonation, and connotation in a wide array of languages and even dialects of those languages. While organics do occasionally find dynamically changing voices to be unnerving, this device ensures that the synstruct's voice is sonorous, perfectly crisp, and with the exact sound desired to maximize positive outcomes in social interactions, leading others to have higher opinions of the unit.</ABF_Hediff_Synstruct_Utility_InduciveVocalizer.description>
+
+
+  <!-- Coercive Vocalizer -->
+
+  <ABF_Hediff_Synstruct_Utility_CoerciveVocalizer.label>coercive Vocalizer</ABF_Hediff_Synstruct_Utility_CoerciveVocalizer.label>
+  <ABF_Hediff_Synstruct_Utility_CoerciveVocalizer.description>A vocalizer replacement programmed to maximize coercive capabilities by greatly increasing volume and intensity. Specialized to operate only in various menacing tones and manipulative modes, others find units equipped with this to be terrifying and threatening and generally more conducive to obeying the will of the unit. The module has a single "normal" mode for instances where threatening is unnecessary, but others still find it mildly offputting.</ABF_Hediff_Synstruct_Utility_CoerciveVocalizer.description>
+
+
+  <!-- Makeshift Leg -->
+
+  <ABF_Hediff_Synstruct_Utility_MakeshiftLeg.label>makeshift leg</ABF_Hediff_Synstruct_Utility_MakeshiftLeg.label>
+  <ABF_Hediff_Synstruct_Utility_MakeshiftLeg.description>An installed makeshift leg, with only minimal functionality. While it functions admirably given its ad-hoc nature and its lack of distinct feet or toes, it is still significantly inferior to a properly designed and manufactured leg.</ABF_Hediff_Synstruct_Utility_MakeshiftLeg.description>
+
+
+  <!-- Makeshift Arm -->
+
+  <ABF_Hediff_Synstruct_Utility_MakeshiftArm.label>makeshift arm</ABF_Hediff_Synstruct_Utility_MakeshiftArm.label>
+  <ABF_Hediff_Synstruct_Utility_MakeshiftArm.description>An installed makeshift arm, with only minimal functionality. While it functions admirably given its ad-hoc nature and its lack of distinct hands or fingers, it is still significantly inferior to a properly designed and manufactured arm.</ABF_Hediff_Synstruct_Utility_MakeshiftArm.description>
+  <ABF_Hediff_Synstruct_Utility_MakeshiftArm.comps.0.tools.0.label>fist</ABF_Hediff_Synstruct_Utility_MakeshiftArm.comps.0.tools.0.label>
+
+
+</LanguageData>

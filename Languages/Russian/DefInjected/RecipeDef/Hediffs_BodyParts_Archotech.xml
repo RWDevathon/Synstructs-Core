@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Arm -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallArm.label>install archotech arm</ABF_Recipe_Synstruct_Archotech_InstallArm.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallArm.description>Install an archotech arm.</ABF_Recipe_Synstruct_Archotech_InstallArm.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallArm.jobString>Installing archotech arm.</ABF_Recipe_Synstruct_Archotech_InstallArm.jobString>
+
+
+  <!-- Archotech Leg -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallLeg.label>install archotech leg</ABF_Recipe_Synstruct_Archotech_InstallLeg.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallLeg.description>Install an archotech leg.</ABF_Recipe_Synstruct_Archotech_InstallLeg.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallLeg.jobString>Installing archotech leg.</ABF_Recipe_Synstruct_Archotech_InstallLeg.jobString>
+
+
+  <!-- Archotech Visual Sensor -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.label>install archotech visual sensor</ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.description>Install an archotech visual sensor.</ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.jobString>Installing archotech visual sensor.</ABF_Recipe_Synstruct_Archotech_InstallVisualSensor.jobString>
+
+
+  <!-- Archotech Audial Sensor -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.label>install archotech audial sensor</ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.description>Install an Archotech audial sensor.</ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.jobString>Installing Archotech audial sensor.</ABF_Recipe_Synstruct_Archotech_InstallAudialSensor.jobString>
+
+
+  <!-- Archotech Heatsink -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallHeatsink.label>install Archotech heatsink</ABF_Recipe_Synstruct_Archotech_InstallHeatsink.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallHeatsink.description>Install an Archotech heatsink.</ABF_Recipe_Synstruct_Archotech_InstallHeatsink.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallHeatsink.jobString>Installing Archotech heatsink.</ABF_Recipe_Synstruct_Archotech_InstallHeatsink.jobString>
+
+
+  <!-- Archotech Coolant Pump -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.label>install Archotech coolant pump</ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.description>Install an Archotech coolant pump.</ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.jobString>Installing Archotech coolant pump.</ABF_Recipe_Synstruct_Archotech_InstallCoolantPump.jobString>
+
+
+  <!-- Archotech Battery -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallBattery.label>install Archotech battery</ABF_Recipe_Synstruct_Archotech_InstallBattery.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallBattery.description>Install an Archotech battery.</ABF_Recipe_Synstruct_Archotech_InstallBattery.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallBattery.jobString>Installing Archotech battery.</ABF_Recipe_Synstruct_Archotech_InstallBattery.jobString>
+
+
+  <!-- Archotech Reactor -->
+
+  <ABF_Recipe_Synstruct_Archotech_InstallReactor.label>install Archotech reactor</ABF_Recipe_Synstruct_Archotech_InstallReactor.label>
+  <ABF_Recipe_Synstruct_Archotech_InstallReactor.description>Install an Archotech reactor.</ABF_Recipe_Synstruct_Archotech_InstallReactor.description>
+  <ABF_Recipe_Synstruct_Archotech_InstallReactor.jobString>Installing Archotech reactor.</ABF_Recipe_Synstruct_Archotech_InstallReactor.jobString>
+
+
+</LanguageData>

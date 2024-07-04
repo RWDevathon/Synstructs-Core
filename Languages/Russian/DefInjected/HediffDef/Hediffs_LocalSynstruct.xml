@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Hediff_Synstruct_CoolantShortage.label>coolant shortage</ABF_Hediff_Synstruct_CoolantShortage.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.description>This unit has insufficient coolant to fully fill its coolant lines and is shutting down to avoid catastrophic failure.\nCoolant reserves must be refilled to ensure a return to proper functionality.</ABF_Hediff_Synstruct_CoolantShortage.description>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>minor</ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>moderate</ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>severe</ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>extreme</ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>
+
+  <ABF_Hediff_Synstruct_LubricantShortage.label>lubricant shortage</ABF_Hediff_Synstruct_LubricantShortage.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.description>This unit has insufficient lubricant to maintain smooth part functionality, reducing exterior part efficiency and increasing the loss of coherence.\nLubricant reserves must be refilled to ensure a return to proper functionality.</ABF_Hediff_Synstruct_LubricantShortage.description>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>minor</ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>moderate</ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>severe</ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>extreme</ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>
+
+  <ABF_Hediff_Synstruct_EnhancedComplexity.label>additional memory</ABF_Hediff_Synstruct_EnhancedComplexity.label>
+  <ABF_Hediff_Synstruct_EnhancedComplexity.description>This unit has had additional memory and hardware components installed to permit greater complexity. Exceeding the standard design parameters results in power and coherence efficiency loss.</ABF_Hediff_Synstruct_EnhancedComplexity.description>
+
+
+</LanguageData>

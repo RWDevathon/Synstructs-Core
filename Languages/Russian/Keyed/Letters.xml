@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coherence -->
+  <ABF_CoherenceEffectOccurredLetter>{PAWN_labelShort} has had a coherence related effect occur:\n\n  {1}.</ABF_CoherenceEffectOccurredLetter>
+  <ABF_CoherenceEffectOccurredLetterLabel>{PAWN_labelShort}: {1}</ABF_CoherenceEffectOccurredLetterLabel>
+
+  <!-- Newboots -->
+  <ABF_NewbootSynstructCreatedLabel>Newboot Synstruct</ABF_NewbootSynstructCreatedLabel>
+  <ABF_NewbootSynstructCreatedText>The final touches on a new {0} are complete. In order to begin contributing to the colony, you must format the synstruct as either a drone, a reprogrammable drone, or a sapient. Some races may only choose from one option, while others may choose from all three.\n\nDrone features (Format as drone surgical operation):\n- Does not learn, has preset skills.\n- Has no mood or ideology, does not receive social engagement, and has limited needs.\n- Counts as a fourth of a pawn for storyteller limits.\n\nReprogrammable drone features (Format as reprogrammable drone surgical operation):\n- Does not learn, has minimal skills but can be configured to enable work types and increase skills.\n- Uses complexity mechanics that limit how many work types, skills, or directives may be added at one.\n- Allows for directives to be implemented, enhancing capability in select niches and fields.\n- Has no mood or ideology, does not receive social engagement, and has limited needs.\n- Counts as a fourth of a pawn for storyteller limits.\n\nSapient features (Format as sapient surgical operation):\n- Fully self-aware and autonomous individuals, capable of learning.\n- Are socially active and capable of entering friendships, rivalries, and relationships.\n- Has moods, thoughts, ideology, and a full set of needs.</ABF_NewbootSynstructCreatedText>
+  <ABF_NewbootSynstructCreatedTextSimple>The final touches on a new {0} are complete. They will begin contributing toward colony goals immediately.</ABF_NewbootSynstructCreatedTextSimple>
+
+  <!-- Personality Shift Letters -->
+  <ABF_PersonalityShiftFreewilled>Personality shift request</ABF_PersonalityShiftFreewilled>
+  <ABF_PersonalityShiftFreewilledDesc>{0_nameDef} would like to alter their personality slightly to see the world in a new way. If accepted, {0_possessive} passion in three skills and a trait will be exchanged for new ones with your input. {0_nameDef} would be pleased by the change, and would be mildly disappointed if prevented from changing.</ABF_PersonalityShiftFreewilledDesc>
+  <ABF_PersonalityShiftNewboot>Personality indecision</ABF_PersonalityShiftNewboot>
+  <ABF_PersonalityShiftRequest>Personality shift for {0_nameDef}</ABF_PersonalityShiftRequest>
+  <ABF_PersonalityShift>{0_nameFull} wishes to shift their personality slightly.</ABF_PersonalityShift>
+  <ABF_PersonalityShiftChooseHowPawnWillChange>Open this letter to choose how {0_nameDef} will change.</ABF_PersonalityShiftChooseHowPawnWillChange>
+
+</LanguageData>

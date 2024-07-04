@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.label>make coolant packs</ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.label>
+  <ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.description>Efficiently make coolant packs, simple containers that will replenish the coolant reserves of a synstruct that consumes it.</ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.description>
+  <ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.jobString>Making coolant.</ABF_Recipe_Synstruct_ManufactureCoolantPacksInBulk.jobString>
+
+  <ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.label>make lubricant packs</ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.label>
+  <ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.description>Efficiently make lubricant packs, simple containers that will replenish the lubricant reserves of a synstruct that consumes it.</ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.description>
+  <ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.jobString>Making lubricant.</ABF_Recipe_Synstruct_ManufactureLubricantPacksInBulk.jobString>
+
+
+</LanguageData>

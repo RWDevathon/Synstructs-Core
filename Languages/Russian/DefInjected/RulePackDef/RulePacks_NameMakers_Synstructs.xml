@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- This is the item that goes into the racedef's namegenerator
+        Example - <nameGenerator>ABF_RulePack_Synstruct_NameRulesMale</nameGenerator> -->
+
+  <ABF_RulePack_Synstruct_NameRulesMale.rulePack.rulesStrings.0>r_name(p=12)->[ABF_Male] [ABF_IDs]</ABF_RulePack_Synstruct_NameRulesMale.rulePack.rulesStrings.0>
+  <ABF_RulePack_Synstruct_NameRulesFemale.rulePack.rulesStrings.0>r_name(p=12)->[ABF_Female] [ABF_IDs]</ABF_RulePack_Synstruct_NameRulesFemale.rulePack.rulesStrings.0>
+
+
+</LanguageData>

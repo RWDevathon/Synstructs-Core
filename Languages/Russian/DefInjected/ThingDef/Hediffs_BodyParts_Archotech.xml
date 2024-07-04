@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Replacement Part -->
+
+  <ABF_Thing_Synstruct_ArchotechPartReplacer.label>archotech part replacer</ABF_Thing_Synstruct_ArchotechPartReplacer.label>
+  <ABF_Thing_Synstruct_ArchotechPartReplacer.description>A small archotech device - with no known proper purpose - that can be inserted into various places of a synstruct to replace the original part there. Batteries, coolant pumps, reactors, even audial and visual sensors can all be replaced by a vastly higher functioning part. The fact that it can be removed from the synstruct's body and then become a different part afterwards is nothing short of miraculous.\n\nUnfortunately, synstructs are widely spurned by archotechs, and devices like these are known to resist and fight against synstructs once installed. Overcoming this resistance strains the synstruct's focus and coherence.</ABF_Thing_Synstruct_ArchotechPartReplacer.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_BodyPart_Synstruct_Core.label>core</ABF_BodyPart_Synstruct_Core.label>
+  <ABF_BodyPart_Synstruct_CoolantPump.label>coolant Pump</ABF_BodyPart_Synstruct_CoolantPump.label>
+  <ABF_BodyPart_Synstruct_Heatsink.label>heatsink</ABF_BodyPart_Synstruct_Heatsink.label>
+  <ABF_BodyPart_Synstruct_Battery.label>battery</ABF_BodyPart_Synstruct_Battery.label>
+  <ABF_BodyPart_Synstruct_Generator.label>generator</ABF_BodyPart_Synstruct_Generator.label>
+
+
+</LanguageData>

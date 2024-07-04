@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Ability_Synstruct_Directive_Berserker.label>trigger berserker directives</ABF_Ability_Synstruct_Directive_Berserker.label>
+  <ABF_Ability_Synstruct_Directive_Berserker.description>Remotely trigger combat protocols and turn off IFF sensors for a few hours.</ABF_Ability_Synstruct_Directive_Berserker.description>
+
+  <ABF_Ability_Synstruct_Directive_Interference.label>trigger interference directives</ABF_Ability_Synstruct_Directive_Interference.label>
+  <ABF_Ability_Synstruct_Directive_Interference.description>Release an incredibly loud and painful metallic screech by scraping parts that are intentionally moved improperly while outputting a massive wave of radio signals so as to impair both organic and inorganic sensory implements. Doing this crashes the unit, requiring a full restart.</ABF_Ability_Synstruct_Directive_Interference.description>
+
+
+</LanguageData>

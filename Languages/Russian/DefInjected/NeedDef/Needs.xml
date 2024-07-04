@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Need_Synstruct_Coolant.label>coolant</ABF_Need_Synstruct_Coolant.label>
+  <ABF_Need_Synstruct_Coolant.description>Coolant is the amount of reserve coolant a pawn currently retains. If it is at zero, the pawn will swiftly shut down and become incapacitated.</ABF_Need_Synstruct_Coolant.description>
+
+  <ABF_Need_Synstruct_Lubricant.label>lubricant</ABF_Need_Synstruct_Lubricant.label>
+  <ABF_Need_Synstruct_Lubricant.description>Lubricant is the amount of reserve lubricant a pawn currently retains. If it is at zero, the pawn will lose coherence, manipulation, and moving efficiency.</ABF_Need_Synstruct_Lubricant.description>
+
+
+</LanguageData>

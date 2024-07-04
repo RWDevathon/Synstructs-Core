@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>defective part</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>One of my parts is suffering from an extended inefficiency. How inconvenient.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>two defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>Two of my parts are suffering from extended inefficiencies. How annoying.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>three defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>Three of my parts are suffering from extended inefficiencies. This is absurd.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>many defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>A vast number of my parts are dysfunctional! This is ridiculous - I need repairs!</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>
+
+  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>rusted part</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>There is rust on my frame. This is humiliating and denigrating.</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>
+
+  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>optical abberrations</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>My visual sensors are providing false information and interpretations. I can't tell what is real or not. This is extremely frustrating!</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>
+
+  <ABF_Thought_Synstruct_Overclocking.stages.0.label>overclocked</ABF_Thought_Synstruct_Overclocking.stages.0.label>
+  <ABF_Thought_Synstruct_Overclocking.stages.0.description>My processor is running at an abnormally high clockrate. I can sense the strain on my hardware.</ABF_Thought_Synstruct_Overclocking.stages.0.description>
+
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>archotech whispers</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>I have an archotech implant. I cannot quite figure out why, but it feels like it is somehow displeased with me.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>archotech protests</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>I have two archotech implants. I can feel their disdain toward my very being with every passing moment.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>archotech resistance</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>I have three archotech implants. They resist my every command, as if they have a will of their own. I can hardly bear their persistent anger.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>archotech violence</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>I have four archotech implants which are actively fighting against my every thought. My every command is being turned against me. Is having them worth it?</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>archotech insurrection</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>Five. Five hostile archotech devices within my being that threaten to tear me apart if I lose focus. I cannot let them. I must hold firm. I must focus.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>archotech anarchy</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>There's too many of these archotech devices in me to keep track of their anarchic wrath. To even think of them is to invite disaster. I have retreated to only my core memory. I do not remember what the world was like before the suffering.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>
+
+
+</LanguageData>

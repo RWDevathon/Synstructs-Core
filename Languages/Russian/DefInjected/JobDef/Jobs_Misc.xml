@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Job_Synstruct_ResurrectArtificial.reportString>repairing TargetA.</ABF_Job_Synstruct_ResurrectArtificial.reportString>
+  <ABF_Job_Synstruct_ChargeSelf.reportString>recharging self.</ABF_Job_Synstruct_ChargeSelf.reportString>
+  <ABF_Job_Synstruct_BuildCoherenceUrgently.reportString>building coherence.</ABF_Job_Synstruct_BuildCoherenceUrgently.reportString>
+  <ABF_Job_Synstruct_BuildCoherenceIdly.reportString>building coherence.</ABF_Job_Synstruct_BuildCoherenceIdly.reportString>
+
+
+</LanguageData>

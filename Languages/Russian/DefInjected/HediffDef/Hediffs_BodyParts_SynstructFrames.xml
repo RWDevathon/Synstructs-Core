@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Plasteel Plating -->
+
+  <ABF_Hediff_Synstruct_Frame_Plasteel.label>plasteel frame</ABF_Hediff_Synstruct_Frame_Plasteel.label>
+  <ABF_Hediff_Synstruct_Frame_Plasteel.description>A frame infused with hyper-tempered and refined plasteel.</ABF_Hediff_Synstruct_Frame_Plasteel.description>
+
+
+  <!-- Refined -->
+
+  <ABF_Hediff_Synstruct_Frame_Refined.label>refined frame</ABF_Hediff_Synstruct_Frame_Refined.label>
+  <ABF_Hediff_Synstruct_Frame_Refined.description>A  frame exquisitely and precisely etched, carved, and designed to look as refined and eminently noble as possible. The frame may not enhance any explicit purpose, but it certainly affects perception of its bearer.</ABF_Hediff_Synstruct_Frame_Refined.description>
+
+
+  <!-- Sanitary -->
+
+  <ABF_Hediff_Synstruct_Frame_Sanitary.label>sanitary frame</ABF_Hediff_Synstruct_Frame_Sanitary.label>
+  <ABF_Hediff_Synstruct_Frame_Sanitary.description>A frame ruthlessly treated and sanitized to ensure zero habitability to microscopic biological entities. This frame completely rejects stains, filth, and pathogens. The frame is also optimized for completely smooth movement. Because of these traits, sanitary frames are sought after for surgeons, cooks, and for any synstruct coming into continual contact with filth.</ABF_Hediff_Synstruct_Frame_Sanitary.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Thing_Synstruct_ChargingStation.label>charging station</ABF_Thing_Synstruct_ChargingStation.label>
+  <ABF_Thing_Synstruct_ChargingStation.description>A station built to charge up to 8 adjacent pawns simultaneously.</ABF_Thing_Synstruct_ChargingStation.description>
+  <ABF_Thing_Synstruct_ChargingStation_Blueprint.label>charging station (blueprint)</ABF_Thing_Synstruct_ChargingStation_Blueprint.label>
+  <ABF_Thing_Synstruct_ChargingStation_Blueprint_Install.label>charging station (blueprint)</ABF_Thing_Synstruct_ChargingStation_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_ChargingStation_Frame.label>charging station (building)</ABF_Thing_Synstruct_ChargingStation_Frame.label>
+  <ABF_Thing_Synstruct_ChargingStation_Frame.description>A station built to charge up to 8 adjacent pawns simultaneously.</ABF_Thing_Synstruct_ChargingStation_Frame.description>
+
+
+  <!-- Bedside Charger -->
+
+  <ABF_Thing_Synstruct_BedsideCharger.label>bedside charger</ABF_Thing_Synstruct_BedsideCharger.label>
+  <ABF_Thing_Synstruct_BedsideCharger.description>A bedside device that allows the occupant of the linked bed to charge. It provides energy while in bed, but consumes a lot of power to do so. It must be placed directly adjacent to and facing the head of the bed.</ABF_Thing_Synstruct_BedsideCharger.description>
+  <ABF_Thing_Synstruct_BedsideCharger_Blueprint.label>bedside charger (blueprint)</ABF_Thing_Synstruct_BedsideCharger_Blueprint.label>
+  <ABF_Thing_Synstruct_BedsideCharger_Blueprint_Install.label>bedside charger (blueprint)</ABF_Thing_Synstruct_BedsideCharger_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_BedsideCharger_Frame.label>bedside charger (building)</ABF_Thing_Synstruct_BedsideCharger_Frame.label>
+  <ABF_Thing_Synstruct_BedsideCharger_Frame.description>A bedside device that allows the occupant of the linked bed to charge. It provides energy while in bed, but consumes a lot of power to do so. It must be placed directly adjacent to and facing the head of the bed.</ABF_Thing_Synstruct_BedsideCharger_Frame.description>
+
+
+</LanguageData>

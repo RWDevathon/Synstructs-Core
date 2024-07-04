@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Archotech Visual Sensor -->
+
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.label>archotech visual sensor</ABF_Hediff_Synstruct_Archotech_VisualSensor.label>
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.description>An archotech device in the form of a visual sensor. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_VisualSensor.description>
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>an archotech visual sensor</ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>
+
+
+  <!-- Archotech Audial Sensor -->
+
+  <ABF_Hediff_Synstruct_Archotech_AudialSensor.label>archotech audial sensor</ABF_Hediff_Synstruct_Archotech_AudialSensor.label>
+  <ABF_Hediff_Synstruct_Archotech_AudialSensor.description>An archotech device in the form of an audial sensor. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_AudialSensor.description>
+
+
+  <!-- Archotech Heatsink -->
+
+  <ABF_Hediff_Synstruct_Archotech_Heatsink.label>archotech heatsink</ABF_Hediff_Synstruct_Archotech_Heatsink.label>
+  <ABF_Hediff_Synstruct_Archotech_Heatsink.description>An archotech device in the form of a heatsink. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Heatsink.description>
+
+
+  <!-- Archotech Coolant Pump -->
+
+  <ABF_Hediff_Synstruct_Archotech_CoolantPump.label>archotech coolant pump</ABF_Hediff_Synstruct_Archotech_CoolantPump.label>
+  <ABF_Hediff_Synstruct_Archotech_CoolantPump.description>An archotech device in the form of a coolant pump. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_CoolantPump.description>
+
+
+  <!-- Archotech Battery -->
+
+  <ABF_Hediff_Synstruct_Archotech_Battery.label>archotech battery pack</ABF_Hediff_Synstruct_Archotech_Battery.label>
+  <ABF_Hediff_Synstruct_Archotech_Battery.description>An archotech device in the form of a battery. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Battery.description>
+
+
+  <!-- Archotech Reactor -->
+
+  <ABF_Hediff_Synstruct_Archotech_Reactor.label>archotech reactor</ABF_Hediff_Synstruct_Archotech_Reactor.label>
+  <ABF_Hediff_Synstruct_Archotech_Reactor.description>An archotech device in the form of a reactor - but it seems to reduce power consumption as well. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Reactor.description>
+
+
+</LanguageData>

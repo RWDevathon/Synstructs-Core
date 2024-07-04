@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ABF_Thought_Synstruct_PersonalityShiftAllowed.stages.0.label>personality shift</ABF_Thought_Synstruct_PersonalityShiftAllowed.stages.0.label>
+  <ABF_Thought_Synstruct_PersonalityShiftAllowed.stages.0.description>This new world view is interesting.</ABF_Thought_Synstruct_PersonalityShiftAllowed.stages.0.description>
+
+  <ABF_Thought_Synstruct_PersonalityShiftDenied.stages.0.label>stagnant personality</ABF_Thought_Synstruct_PersonalityShiftDenied.stages.0.label>
+  <ABF_Thought_Synstruct_PersonalityShiftDenied.stages.0.description>I wanted to try out a different personality, but was denied. I feel stifled.</ABF_Thought_Synstruct_PersonalityShiftDenied.stages.0.description>
+
+
+</LanguageData>
