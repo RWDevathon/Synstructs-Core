@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Backstory_Synstruct_Adulthood_Newboot.title>synstruct</ABF_Backstory_Synstruct_Adulthood_Newboot.title>
-  <ABF_Backstory_Synstruct_Adulthood_Newboot.titleShort>synstruct</ABF_Backstory_Synstruct_Adulthood_Newboot.titleShort>
-  <ABF_Backstory_Synstruct_Adulthood_Newboot.baseDesc>{PAWN_nameDef} was first awakened on this world. The story for {PAWN_nameDef} has yet to be truly written.</ABF_Backstory_Synstruct_Adulthood_Newboot.baseDesc>
+  <ABF_Backstory_Synstruct_Adulthood_Newboot.title>синтоид</ABF_Backstory_Synstruct_Adulthood_Newboot.title>
+  <ABF_Backstory_Synstruct_Adulthood_Newboot.titleShort>синтоид</ABF_Backstory_Synstruct_Adulthood_Newboot.titleShort>
+  <ABF_Backstory_Synstruct_Adulthood_Newboot.baseDesc>{PAWN_nameDef} впервые {PAWN_gender ? пробудился : пробудилась} этот мир. История {PAWN_nameDef} всё ещё не написана.</ABF_Backstory_Synstruct_Adulthood_Newboot.baseDesc>
 
 
 </LanguageData>

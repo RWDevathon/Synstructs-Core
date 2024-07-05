@@ -1,14 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_ResearchProject_Synstruct_Infrastructure.label>synstruct infrastructure</ABF_ResearchProject_Synstruct_Infrastructure.label>
-  <ABF_ResearchProject_Synstruct_Infrastructure.description>Discover the basic infrastructure needed to produce and maintain synstructs.</ABF_ResearchProject_Synstruct_Infrastructure.description>
+  <ABF_ResearchProject_Synstruct_Infrastructure.label>инфраструктура синтоидов</ABF_ResearchProject_Synstruct_Infrastructure.label>
+  <ABF_ResearchProject_Synstruct_Infrastructure.description>Узнайте о базовой инфраструктуре, необходимой для создания и поддержки синтоидов.</ABF_ResearchProject_Synstruct_Infrastructure.description>
 
-  <ABF_ResearchProject_Synstruct_InterchangeableParts.label>interchangeable parts</ABF_ResearchProject_Synstruct_InterchangeableParts.label>
-  <ABF_ResearchProject_Synstruct_InterchangeableParts.description>Establish a standard for repairing and restoring synstructs. Create tools to upgrade their parts.</ABF_ResearchProject_Synstruct_InterchangeableParts.description>
+  <ABF_ResearchProject_Synstruct_Infrastructure.discoveredLetterTitle>Об инфраструктуре синтоидов</ABF_ResearchProject_Synstruct_Infrastructure.discoveredLetterTitle>
+  <ABF_ResearchProject_Synstruct_Infrastructure.discoveredLetterText>Вы встали на путь создания синтоидов. Дополнительные письма появятся в нужный момент, но следует знать, что они создаются в колыбели синтоидов и ремонтируются, модернизируются и оперируются с помощью ремонтных комплектов, а не лекарств. Кроме того, у синтоидов совершенно иные потребности, и для полной самодостаточности им может потребоваться колония другого типа. Они требуют замены хладагента примерно каждый год, иначе впадут в спячку, и требуют замены смазки примерно раз в квадрум, иначе понесут небольшие штрафы. Хладагент и смазка создаются в химической лаборатории или в больших количествах на перегонном аппарате. Синтоиды не отдыхают, но должны уделять время себе, чтобы поддерживать своё существование. Хотя они могут потреблять пищу для получения энергии (обычно с низким КПД), их лучше заряжать на специальной зарядной станции или через обычную кровать с подключённым прикроватным зарядником.</ABF_ResearchProject_Synstruct_Infrastructure.discoveredLetterText>
 
-  <ABF_ResearchProject_Synstruct_Stimulators.label>synstruct stimulators</ABF_ResearchProject_Synstruct_Stimulators.label>
-  <ABF_ResearchProject_Synstruct_Stimulators.description>Formulate chemical solutions to provide short-term enhancements for synstructs.</ABF_ResearchProject_Synstruct_Stimulators.description>
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.label>взаимозаменяемые детали</ABF_ResearchProject_Synstruct_InterchangeableParts.label>
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.description>Установите стандарт для ремонта и восстановления синтоидов. Создайте инструменты для модернизации частей.</ABF_ResearchProject_Synstruct_InterchangeableParts.description>
+
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.discoveredLetterTitle>Об Ремонте/модернизации систем Синтоидов</ABF_ResearchProject_Synstruct_InterchangeableParts.discoveredLetterTitle>
+  <ABF_ResearchProject_Synstruct_InterchangeableParts.discoveredLetterText>Синтоиды могут быть отремонтированы в течение длительного времени с помощью ремонтных комплектов или гораздо быстрее с помощью пакетов деталей. Пакеты деталей могут быть собраны на верстаке, в колыбели синтоидов или в большом количестве на верстаке робототехники. Они восстанавливают отсутствующие части тела и могут восстановить сразу несколько повреждений синтоида, независимо от места повреждения. Упавших синтоидов можно восстановить с помощью наборов для реструктуризации, создаваемых на верстаке.\n\nСинтоиды могут быть улучшены путём замены шасси и каркаса. У них может быть по одному апгрейду, что значительно улучшает их возможности в той или иной роли. Апгрейды шасси теряются, если синтоида убивают, а улучшения каркаса теряются, если синтоид получает слишком много урона или погибает.</ABF_ResearchProject_Synstruct_InterchangeableParts.discoveredLetterText>
+
+  <ABF_ResearchProject_Synstruct_Stimulators.label>синтоидные стимуляторы</ABF_ResearchProject_Synstruct_Stimulators.label>
+  <ABF_ResearchProject_Synstruct_Stimulators.description>Разработка химических растворов для краткосрочного улучшения синтоидов.</ABF_ResearchProject_Synstruct_Stimulators.description>
 
 
 </LanguageData>

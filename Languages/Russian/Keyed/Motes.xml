@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_ComponentDestroyed>{0} was destroyed.</ABF_ComponentDestroyed>
+  <ABF_ComponentDestroyed>{0} {PAWN_gender ? был уничтожен : была уничтожена}.</ABF_ComponentDestroyed>
 
 </LanguageData>

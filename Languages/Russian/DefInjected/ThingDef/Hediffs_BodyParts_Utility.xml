@@ -3,38 +3,38 @@
 
   <!-- Mining Utility Arm -->
 
-  <ABF_Thing_Synstruct_Utility_MiningArm.label>mining arm</ABF_Thing_Synstruct_Utility_MiningArm.label>
-  <ABF_Thing_Synstruct_Utility_MiningArm.description>A simple mechanical arm designed with the extraction and processing of minerals in mind. The arm prominently features a plasteel drill which feeds contents into an internal processor, separating minerals efficiently and swiftly discarding waste to ensure maximal drilling and minimal sorting time.</ABF_Thing_Synstruct_Utility_MiningArm.description>
+  <ABF_Thing_Synstruct_Utility_MiningArm.label>рука бур</ABF_Thing_Synstruct_Utility_MiningArm.label>
+  <ABF_Thing_Synstruct_Utility_MiningArm.description>Простая механическая рука, разработанная для добычи и переработки минералов. В руке имеется сверло из пластали, которое подаёт содержимое во внутренний процессор, эффективно отделяя минералы и быстро выбрасывая отходы, обеспечивая максимальное количество бурений.</ABF_Thing_Synstruct_Utility_MiningArm.description>
 
 
   <!-- Agriculture Utility Arm -->
 
-  <ABF_Thing_Synstruct_Utility_AgricultureArm.label>agriculture arm</ABF_Thing_Synstruct_Utility_AgricultureArm.label>
-  <ABF_Thing_Synstruct_Utility_AgricultureArm.description>A simple mechanical arm designed with agriculture and horticulture in mind. The arm features several internal multi-tools that appropriately harvest products and feeds contents into an internal processor, discarding waste products to ensure optimal harvest and minimal sorting time. Ejecting products out of specialized elbow ports is efficient, if rather odd to observe.</ABF_Thing_Synstruct_Utility_AgricultureArm.description>
+  <ABF_Thing_Synstruct_Utility_AgricultureArm.label>рука садовник</ABF_Thing_Synstruct_Utility_AgricultureArm.label>
+  <ABF_Thing_Synstruct_Utility_AgricultureArm.description>Простая механическая рука, разработанная для сельского хозяйства и садоводства. Рука имеет несколько внутренни мульти-инструментов, которые собирают продукты и подают содержимое во внутренний процессор, отбрасывая отходы, обеспечивая оптимальный урожай. Выталкивание продуктов из специальных локтевых портов эффективно, хотя выглядит странно.</ABF_Thing_Synstruct_Utility_AgricultureArm.description>
 
 
   <!-- Pacification Utility Arm -->
 
-  <ABF_Thing_Synstruct_Utility_PacificationArm.label>pacification arm</ABF_Thing_Synstruct_Utility_PacificationArm.label>
-  <ABF_Thing_Synstruct_Utility_PacificationArm.description>A simple mechanical arm with built-in energy absorbers and generators. The fists are capable of reaching dangerously high temperatures and are able to vent heat upon impacting something - effectively scorching a target - and applying an overloading amount of energy - an EMP in all but name. They are often used by riot police to impart highly painful but non-lethal burns and disable vehicles.\n\nEccentric chefs appreciate the consistent and rapid heat transfer.</ABF_Thing_Synstruct_Utility_PacificationArm.description>
+  <ABF_Thing_Synstruct_Utility_PacificationArm.label>усмиряющая рука</ABF_Thing_Synstruct_Utility_PacificationArm.label>
+  <ABF_Thing_Synstruct_Utility_PacificationArm.description>Простая механическая рука со встроенными поглотителями и генераторами энергии. Кулаки способны достигать опасно высоких температур и выпускать тепло при столкновении с целью, эффективно испепеляя её и применяя перегрузочное количество энергии — по сути ЭМИ. Они часто используются полицией для нанесения болезненных, но несмертельных ожогов и вывода из строя транспорт.\n\nЭксцентричные повара ценят постоянную и быструю передачу тепла.</ABF_Thing_Synstruct_Utility_PacificationArm.description>
 
 
   <!-- Scalpel Utility Arm -->
 
-  <ABF_Thing_Synstruct_Utility_ScalpelArm.label>scalpel arm</ABF_Thing_Synstruct_Utility_ScalpelArm.label>
-  <ABF_Thing_Synstruct_Utility_ScalpelArm.description>A mechanical arm with a very modified structure designed for precision and perfectly smooth movement. A number of integrated counterbalances, unique parts, and multi-tools provide this arm with much finer - but delicate - control. While unsuited for general work tasks, this arm is an incredible boon to surgeons and mechanics alike. The delicate structure combined with minor changes to the the larger chassis leave the user more vulnerable to damage, but the scalpel can be used as a very dangerous piercing weapon if needed.</ABF_Thing_Synstruct_Utility_ScalpelArm.description>
+  <ABF_Thing_Synstruct_Utility_ScalpelArm.label>рука скальпель</ABF_Thing_Synstruct_Utility_ScalpelArm.label>
+  <ABF_Thing_Synstruct_Utility_ScalpelArm.description>Механическая рука с модифицированной структурой, разработанной для точного и идеально плавного движения. Множество встроенных противовесов и уникальных деталей обеспечивают этой руке гораздо более тонкий, но деликатный, контроль. Хотя эта рука не подходит для выполнения общих рабочих задач, она невероятная находка для хирургов, или механиков. Тонкая структура в сочетании с небольшими изменениями в каркасе делает пользователя более уязвимым к повреждениям, но при необходимости скальпель можно использовать как оружие.</ABF_Thing_Synstruct_Utility_ScalpelArm.description>
 
 
   <!-- Rending Utility Arm -->
 
-  <ABF_Thing_Synstruct_Utility_RendingArm.label>rending arm</ABF_Thing_Synstruct_Utility_RendingArm.label>
-  <ABF_Thing_Synstruct_Utility_RendingArm.description>A mechanical arm designed to rend down organic or inorganic mass into component parts. An array of specialized internal sensors, sorters, and processors provide this arm with powerful disassembly capacities. The design permits free range of movement and no outstanding penalties, but is uncanny and disturbing to observe. The arm is capable of breaking down living tissue just as well as dead tissue, and can make short work of buildings. Synstruct troops of notoriously brutal commanders will often be found equipped with these to handle shocking executions and rapidly eliminating issues with corpses.\n\nThe rending process thoroughly destroys pathogens and contaminants, make it an ideal attachment for efficiency and cleanliness obsessed butchers and chefs.</ABF_Thing_Synstruct_Utility_RendingArm.description>
+  <ABF_Thing_Synstruct_Utility_RendingArm.label>рука палач</ABF_Thing_Synstruct_Utility_RendingArm.label>
+  <ABF_Thing_Synstruct_Utility_RendingArm.description>Механическая рука, служащая для разложения органической или неорганической массы на составные части. Массив специальных внутренних сенсоров, сортировщиков и процессоров обеспечивает этой руке невероятные возможности разборки. Конструкция позволяет свободно передвигаться, не требуя особых наказаний, но вызывает тревожное ощущение. Конструкция позволяет свободно передвигаться, не требуя особых наказаний, но вызывает тревожное ощущение. Войска известных жестоких командиров часто можно встретить оснащёнными этой рукой для проведения шокирующих казней и быстрого устранения проблем с трупами.\n\nПроцесс разрыва тщательно уничтожает патогены и загрязнения, что делает руку идеальным приспособлением для одержимых эффективностью и чистотой мясников и поваров.</ABF_Thing_Synstruct_Utility_RendingArm.description>
 
 
   <!-- Voice Synthesizers share a single ThingDef, with different HediffDefs and RecipeDefs -->
 
-  <ABF_Thing_Synstruct_Utility_Vocalizer.label>unspecialized vocalizer</ABF_Thing_Synstruct_Utility_Vocalizer.label>
-  <ABF_Thing_Synstruct_Utility_Vocalizer.description>An unprogrammed vocalizer replacement for synstructs that can be given specialized roles upon installation into a unit to enhance either their inducive or coercive capabilities.</ABF_Thing_Synstruct_Utility_Vocalizer.description>
+  <ABF_Thing_Synstruct_Utility_Vocalizer.label>неспециализированный вокализёр</ABF_Thing_Synstruct_Utility_Vocalizer.label>
+  <ABF_Thing_Synstruct_Utility_Vocalizer.description>Специализированная, настраиваемая замена вокализёра, при установке которого можно выбрать один из двух режимов голоса.</ABF_Thing_Synstruct_Utility_Vocalizer.description>
 
 
 </LanguageData>

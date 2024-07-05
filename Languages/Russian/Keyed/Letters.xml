@@ -2,20 +2,20 @@
 <LanguageData>
 
   <!-- Coherence -->
-  <ABF_CoherenceEffectOccurredLetter>{PAWN_labelShort} has had a coherence related effect occur:\n\n  {1}.</ABF_CoherenceEffectOccurredLetter>
+  <ABF_CoherenceEffectOccurredLetter>У {PAWN_labelShort} эффект, связанный со стабильностью:\n\n {1}.</ABF_CoherenceEffectOccurredLetter>
   <ABF_CoherenceEffectOccurredLetterLabel>{PAWN_labelShort}: {1}</ABF_CoherenceEffectOccurredLetterLabel>
 
   <!-- Newboots -->
-  <ABF_NewbootSynstructCreatedLabel>Newboot Synstruct</ABF_NewbootSynstructCreatedLabel>
-  <ABF_NewbootSynstructCreatedText>The final touches on a new {0} are complete. In order to begin contributing to the colony, you must format the synstruct as either a drone, a reprogrammable drone, or a sapient. Some races may only choose from one option, while others may choose from all three.\n\nDrone features (Format as drone surgical operation):\n- Does not learn, has preset skills.\n- Has no mood or ideology, does not receive social engagement, and has limited needs.\n- Counts as a fourth of a pawn for storyteller limits.\n\nReprogrammable drone features (Format as reprogrammable drone surgical operation):\n- Does not learn, has minimal skills but can be configured to enable work types and increase skills.\n- Uses complexity mechanics that limit how many work types, skills, or directives may be added at one.\n- Allows for directives to be implemented, enhancing capability in select niches and fields.\n- Has no mood or ideology, does not receive social engagement, and has limited needs.\n- Counts as a fourth of a pawn for storyteller limits.\n\nSapient features (Format as sapient surgical operation):\n- Fully self-aware and autonomous individuals, capable of learning.\n- Are socially active and capable of entering friendships, rivalries, and relationships.\n- Has moods, thoughts, ideology, and a full set of needs.</ABF_NewbootSynstructCreatedText>
-  <ABF_NewbootSynstructCreatedTextSimple>The final touches on a new {0} are complete. They will begin contributing toward colony goals immediately.</ABF_NewbootSynstructCreatedTextSimple>
+  <ABF_NewbootSynstructCreatedLabel>Новый Синтоид</ABF_NewbootSynstructCreatedLabel>
+  <ABF_NewbootSynstructCreatedText>Последние штрихи в работе над новым {0} завершены. Чтобы начать вносить свой вклад в развитие колонии, вы должны сделать синтоида либо дроном, либо перепрограммируемым дроном, либо синтоидом. Некоторые расы могут выбрать только один вариант, а другие — все три.\n\nФункции дрона (операций дрона):\n— Не учится, обладает заданными навыками.\n— Не имеет настроения и идеологии, не принимает участия в общественной жизни и имеет ограниченные потребности.\n— Засчитывается как четвёртая пешка для лимитов рассказчика.\n\nФункции перепрограммируемого дрона (операции перепрограммируемого дрона):\n— Не обучается, имеет минимальные навыки, но может быть настроен на типы работы и повышения навыков.\n— Использует механику сложности, которая ограничивает количество типов работ, навыков или директив, которые можно добавить за один раз.\n— Позволяет выполнять директивы, расширяя возможности в определённых нишах и областях.\n— Не имеет настроения и идеологии, не принимает участия в общественной жизни и имеет ограниченные потребности.\n— Засчитывается как четвёртая пешка для лимитов рассказчика.\n\nФункции синтоидов (операции синтоидов):\n— Полностью осознающие себя и автономные личности, способные к обучению.\n— Социально активны и способны заводить друзей, соперников и вступать в отношения.\n— Имеет настроение, мысли, идеологию и полный набор потребностей.</ABF_NewbootSynstructCreatedText>
+  <ABF_NewbootSynstructCreatedTextSimple>Последние штрихи в работе над новым {0} завершены. Они сразу же начнут вносить свой вклад в достижение целей колонии.</ABF_NewbootSynstructCreatedTextSimple>
 
   <!-- Personality Shift Letters -->
-  <ABF_PersonalityShiftFreewilled>Personality shift request</ABF_PersonalityShiftFreewilled>
-  <ABF_PersonalityShiftFreewilledDesc>{0_nameDef} would like to alter their personality slightly to see the world in a new way. If accepted, {0_possessive} passion in three skills and a trait will be exchanged for new ones with your input. {0_nameDef} would be pleased by the change, and would be mildly disappointed if prevented from changing.</ABF_PersonalityShiftFreewilledDesc>
-  <ABF_PersonalityShiftNewboot>Personality indecision</ABF_PersonalityShiftNewboot>
-  <ABF_PersonalityShiftRequest>Personality shift for {0_nameDef}</ABF_PersonalityShiftRequest>
-  <ABF_PersonalityShift>{0_nameFull} wishes to shift their personality slightly.</ABF_PersonalityShift>
-  <ABF_PersonalityShiftChooseHowPawnWillChange>Open this letter to choose how {0_nameDef} will change.</ABF_PersonalityShiftChooseHowPawnWillChange>
+  <ABF_PersonalityShiftFreewilled>Запрос на изменение личности</ABF_PersonalityShiftFreewilled>
+  <ABF_PersonalityShiftFreewilledDesc>{0_nameDef} {PAWN_gender ? хотел : хотела} бы немного изменить свою личность, чтобы взглянуть на этот мир по-новому. Если вы согласитесь, {0_possessive} интерес в трёх навыках и черта характера будут заменены на новые, на выбор. {0_nameDef} будет {PAWN_gender ? рад : рада} переменам, и будет слегка {PAWN_gender ? разочарован : разочарована}, если {PAWN_objective} помешают измениться.</ABF_PersonalityShiftFreewilledDesc>
+  <ABF_PersonalityShiftNewboot>Нерешительная личность</ABF_PersonalityShiftNewboot>
+  <ABF_PersonalityShiftRequest>Смена личности: {0_nameDef}</ABF_PersonalityShiftRequest>
+  <ABF_PersonalityShift>{0_nameFull} желает немного изменить свою личность.</ABF_PersonalityShift>
+  <ABF_PersonalityShiftChooseHowPawnWillChange>Откройте это сообщение, чтобы выбрать, как изменится {0_nameDef}.</ABF_PersonalityShiftChooseHowPawnWillChange>
 
 </LanguageData>

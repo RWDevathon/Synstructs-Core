@@ -3,20 +3,20 @@
 
   <!-- Plasteel Plating -->
 
-  <ABF_Hediff_Synstruct_Frame_Plasteel.label>plasteel frame</ABF_Hediff_Synstruct_Frame_Plasteel.label>
-  <ABF_Hediff_Synstruct_Frame_Plasteel.description>A frame infused with hyper-tempered and refined plasteel.</ABF_Hediff_Synstruct_Frame_Plasteel.description>
+  <ABF_Hediff_Synstruct_Frame_Plasteel.label>пласталевый каркас</ABF_Hediff_Synstruct_Frame_Plasteel.label>
+  <ABF_Hediff_Synstruct_Frame_Plasteel.description>Каркас из закалённой и очищенной пластали.</ABF_Hediff_Synstruct_Frame_Plasteel.description>
 
 
   <!-- Refined -->
 
-  <ABF_Hediff_Synstruct_Frame_Refined.label>refined frame</ABF_Hediff_Synstruct_Frame_Refined.label>
-  <ABF_Hediff_Synstruct_Frame_Refined.description>A  frame exquisitely and precisely etched, carved, and designed to look as refined and eminently noble as possible. The frame may not enhance any explicit purpose, but it certainly affects perception of its bearer.</ABF_Hediff_Synstruct_Frame_Refined.description>
+  <ABF_Hediff_Synstruct_Frame_Refined.label>изысканный каркас</ABF_Hediff_Synstruct_Frame_Refined.label>
+  <ABF_Hediff_Synstruct_Frame_Refined.description>Каркас, вырезанный и спроектированный таким образом, чтобы выглядеть как можно более утончённо и благородно. Каркас может и не преследовать какой-либо конкретной цели, но он определённо влияет на восприятие носителя.</ABF_Hediff_Synstruct_Frame_Refined.description>
 
 
   <!-- Sanitary -->
 
-  <ABF_Hediff_Synstruct_Frame_Sanitary.label>sanitary frame</ABF_Hediff_Synstruct_Frame_Sanitary.label>
-  <ABF_Hediff_Synstruct_Frame_Sanitary.description>A frame ruthlessly treated and sanitized to ensure zero habitability to microscopic biological entities. This frame completely rejects stains, filth, and pathogens. The frame is also optimized for completely smooth movement. Because of these traits, sanitary frames are sought after for surgeons, cooks, and for any synstruct coming into continual contact with filth.</ABF_Hediff_Synstruct_Frame_Sanitary.description>
+  <ABF_Hediff_Synstruct_Frame_Sanitary.label>стерильный каркас</ABF_Hediff_Synstruct_Frame_Sanitary.label>
+  <ABF_Hediff_Synstruct_Frame_Sanitary.description>Каркас безжалостно дезинфицируется для достижения нулевой жизнеспособности микрофлоры. Этот каркас полностью отвергает пятна, грязь и патогены. Каркас также оптимизирован для абсолютно плавного движения. Благодаря этим свойствам стерильные каркасы востребованы у хирургов, поваров и для любого синтоида, который имеет дело с грязью.</ABF_Hediff_Synstruct_Frame_Sanitary.description>
 
 
 </LanguageData>

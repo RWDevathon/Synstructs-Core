@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.0.label>insignificant</ABF_Thought_Synstruct_OrganicRegeneration.stages.0.label>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.0.description>The strangeness has faded. I'm alright.</ABF_Thought_Synstruct_OrganicRegeneration.stages.0.description>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.1.label>regeneration (Minor)</ABF_Thought_Synstruct_OrganicRegeneration.stages.1.label>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.1.description>I have a creeping sensation that something doesn't feel right, but it's just out of reach.</ABF_Thought_Synstruct_OrganicRegeneration.stages.1.description>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.2.label>regeneration (Moderate)</ABF_Thought_Synstruct_OrganicRegeneration.stages.2.label>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.2.description>I feel uncomfortable and strange. This stuff is really nasty.</ABF_Thought_Synstruct_OrganicRegeneration.stages.2.description>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.3.label>regeneration (Significant)</ABF_Thought_Synstruct_OrganicRegeneration.stages.3.label>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.3.description>My whole body feels really sluggish and and weighty, like I'm made of mud.</ABF_Thought_Synstruct_OrganicRegeneration.stages.3.description>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.4.label>regeneration (Peak)</ABF_Thought_Synstruct_OrganicRegeneration.stages.4.label>
-  <ABF_Thought_Synstruct_OrganicRegeneration.stages.4.description>My body feels really, really wrong - it feels like I have tar coating my organs! When will this end?</ABF_Thought_Synstruct_OrganicRegeneration.stages.4.description>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.0.label>незначительное</ABF_Thought_Synstruct_OrganicRegeneration.stages.0.label>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.0.description>Странные ощущения прошли. Я в полном порядке.</ABF_Thought_Synstruct_OrganicRegeneration.stages.0.description>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.1.label>регенерация (слабая)</ABF_Thought_Synstruct_OrganicRegeneration.stages.1.label>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.1.description>У меня странные ощущения, что что-то не так, но я вроде контролирую ситуацию.</ABF_Thought_Synstruct_OrganicRegeneration.stages.1.description>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.2.label>регенерация (средняя)</ABF_Thought_Synstruct_OrganicRegeneration.stages.2.label>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.2.description>Я чувствую себя крайне неуютно и странно. Это очень неприятно.</ABF_Thought_Synstruct_OrganicRegeneration.stages.2.description>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.3.label>регенерация (сильная)</ABF_Thought_Synstruct_OrganicRegeneration.stages.3.label>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.3.description>Всё моё тело кажется очень вялым и тяжёлым, как будто я из грязи.</ABF_Thought_Synstruct_OrganicRegeneration.stages.3.description>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.4.label>регенерация (пиковая)</ABF_Thought_Synstruct_OrganicRegeneration.stages.4.label>
+  <ABF_Thought_Synstruct_OrganicRegeneration.stages.4.description>Моё тело чувствует себя очень, очень плохо — такое ощущение, что мои органы покрыты смолой! Когда же это закончится???</ABF_Thought_Synstruct_OrganicRegeneration.stages.4.description>
 
 
 </LanguageData>

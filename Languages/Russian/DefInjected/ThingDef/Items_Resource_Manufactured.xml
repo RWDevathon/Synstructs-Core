@@ -3,49 +3,49 @@
 
   <!-- Mechanical Part Pack -->
 
-  <ABF_Thing_Synstruct_PartPack.label>synstruct part pack</ABF_Thing_Synstruct_PartPack.label>
-  <ABF_Thing_Synstruct_PartPack.description>This pack of half-assembled parts is designed to replace standard components ranging from whole legs and arms to intricate batteries and adaptors. Basic materials are included for rapid creation of more specific pieces.</ABF_Thing_Synstruct_PartPack.description>
+  <ABF_Thing_Synstruct_PartPack.label>комплект синтоидных деталей</ABF_Thing_Synstruct_PartPack.label>
+  <ABF_Thing_Synstruct_PartPack.description>Комплект деталей предназначенный для замены стандартных компонентов, начиная от целых ног и рук, заканчивая сложными батареями и компонентами. Базовые, заранее запрограммированные, механиты формируют себя под новые, более сложные задачи.</ABF_Thing_Synstruct_PartPack.description>
 
 
   <!-- Simple Repair Stim -->
 
-  <ABF_Thing_Synstruct_RepairStimMinor.label>minor repair stim</ABF_Thing_Synstruct_RepairStimMinor.label>
-  <ABF_Thing_Synstruct_RepairStimMinor.description>A small, simple assembled kit of industrial components, and tools for assisting and stimulating synstruct repairs. The kit lacks a number of very helpful assets for more serious injuries or operations, and is suited more for battlefield triage than professional use.</ABF_Thing_Synstruct_RepairStimMinor.description>
+  <ABF_Thing_Synstruct_RepairStimMinor.label>лёгкий ремонтный комплект</ABF_Thing_Synstruct_RepairStimMinor.label>
+  <ABF_Thing_Synstruct_RepairStimMinor.description>Небольшой, простой ремкомплект, содержит промышленные компоненты и инструменты для аварийного ремонта. Простой ремкомплект не имеет некоторых очень полезных инструментов, необходимых для более серьёзных повреждений или операций, и больше подходит для оперативного ремонта на поле боя.</ABF_Thing_Synstruct_RepairStimMinor.description>
 
 
   <!-- Repair Stim -->
 
-  <ABF_Thing_Synstruct_RepairStim.label>repair stim</ABF_Thing_Synstruct_RepairStim.label>
-  <ABF_Thing_Synstruct_RepairStim.description>An assembled kit of industrial components and tools for assisting and stimulating mechanical repairs. Stimulation kits like this are the core tools of any synstruct's artificer who believes in quality. Well-suited to a range of tasks, it is functionally capable and practical.</ABF_Thing_Synstruct_RepairStim.description>
+  <ABF_Thing_Synstruct_RepairStim.label>ремонтный комплект</ABF_Thing_Synstruct_RepairStim.label>
+  <ABF_Thing_Synstruct_RepairStim.description>Стандартный базовый ремкомплект, содержит промышленные компоненты и инструменты для аварийного и профессионального ремонта. Обычный ремкомплект является основным инструментом любого синтоида. Хорошо подходит для целого ряда задач, функциональный и практичный.</ABF_Thing_Synstruct_RepairStim.description>
 
 
   <!-- Ultra Repair Stim -->
 
-  <ABF_Thing_Synstruct_RepairStimUltra.label>ultra repair stim</ABF_Thing_Synstruct_RepairStimUltra.label>
-  <ABF_Thing_Synstruct_RepairStimUltra.description>An array of high-tech tools for assisting and stimulating mechanical repairs. Relatively uncommon outside Glitterworlds, kits like these are highly prized by artificers and any self-respecting synstruct. This can make even poor artificers seem very competent.</ABF_Thing_Synstruct_RepairStimUltra.description>
+  <ABF_Thing_Synstruct_RepairStimUltra.label>утопический ремонтный комплект</ABF_Thing_Synstruct_RepairStimUltra.label>
+  <ABF_Thing_Synstruct_RepairStimUltra.description>Сверхсовременный ремкомплект, содержит массив высокотехнологичных механитов и инструменты для аварийного и мастерского ремонта. Relatively uncommon outside Glitterworlds, kits like these are highly prized by artificers and any self-respecting synstruct. Высокотехнологичные механиты могут починить любые, даже очень сложные повреждения.</ABF_Thing_Synstruct_RepairStimUltra.description>
 
 
   <!-- Resurrection Kit for sapient synstructs -->
 
-  <ABF_Thing_Synstruct_RestructKitSapient.label>sapient restruct kit</ABF_Thing_Synstruct_RestructKitSapient.label>
-  <ABF_Thing_Synstruct_RestructKitSapient.description>A one-use highly specialized suite of tools and components specifically designed to recover and restore a lost sapient synstruct's personality and consciousness. Due to those precisely specialized tools, these are useless for resuscitating non-sapient synstructs. Synstructs which have had their core destroyed cannot be recovered, but these tools would still be necessary to reconstruct the body.\n\nSynstructs resurrected with these tools must undergo a long startup sequence to return to full functionality.</ABF_Thing_Synstruct_RestructKitSapient.description>
-  <ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>Use restruct kit</ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>
+  <ABF_Thing_Synstruct_RestructKitSapient.label>комплект реанимации синтоида</ABF_Thing_Synstruct_RestructKitSapient.label>
+  <ABF_Thing_Synstruct_RestructKitSapient.description>Одноразовый набор инструментов и компонентов, специально разработанных для восстановления и реставрации утраченной личности и сознания синтоида. Благодаря тому, что это именно специализированный комплект, оно бесполезен для реанимации не синтоидов. Синтоиды, у которых разрушено ядро, не могут быть восстановлены, но этот комплект всё равно понадобятся для реконструкции тела.\n\nСинтоды, воскрешённые с помощью этого комплекта, должны пройти процедуру перезапуска, чтобы вернуться к полной функциональности.</ABF_Thing_Synstruct_RestructKitSapient.description>
+  <ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>Реанимировать синтоида</ABF_Thing_Synstruct_RestructKitSapient.comps.1.useLabel>
 
 
   <!-- Resurrection Kit for drone synstructs -->
 
-  <ABF_Thing_Synstruct_RestructKitDrone.label>drone restruct kit</ABF_Thing_Synstruct_RestructKitDrone.label>
-  <ABF_Thing_Synstruct_RestructKitDrone.description>A one-use suite of tools and components specifically designed to recover and restore a lost sapient synstruct's personality and consciousness. Due to those precisely specialized tools, these are useless for resuscitating non-sapient synstructs. Synstructs which have had their core destroyed cannot be recovered, but these tools would still be necessary to reconstruct the body.\n\nSynstructs resurrected with these tools must undergo a long startup sequence to return to full functionality.</ABF_Thing_Synstruct_RestructKitDrone.description>
-  <ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>Use restruct kit</ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>
+  <ABF_Thing_Synstruct_RestructKitDrone.label>комплект реанимации дрона</ABF_Thing_Synstruct_RestructKitDrone.label>
+  <ABF_Thing_Synstruct_RestructKitDrone.description>Одноразовый набор инструментов и компонентов, специально разработанных для восстановления и реставрации утраченной личности и сознания синтоида. Благодаря тому, что это именно специализированный комплект, оно бесполезен для реанимации не синтоидов. Синтоиды, у которых разрушено ядро, не могут быть восстановлены, но этот комплект всё равно понадобятся для реконструкции тела.\n\nСинтоды, воскрешённые с помощью этого комплекта, должны пройти процедуру перезапуска, чтобы вернуться к полной функциональности.</ABF_Thing_Synstruct_RestructKitDrone.description>
+  <ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>Реанимировать дрона</ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>
 
 
   <!-- Mechanical Need Fulfillment Items -->
 
-  <ABF_Thing_Synstruct_CoolantPack.label>coolant pack</ABF_Thing_Synstruct_CoolantPack.label>
-  <ABF_Thing_Synstruct_CoolantPack.description>A tightly sealed package of coolant for synstructs that can consume it to replenish internal coolant reserves. It only fills the reserve and can not replenish immediately lost coolant.</ABF_Thing_Synstruct_CoolantPack.description>
+  <ABF_Thing_Synstruct_CoolantPack.label>упаковка хладагента</ABF_Thing_Synstruct_CoolantPack.label>
+  <ABF_Thing_Synstruct_CoolantPack.description>Закрытый пакет хладагента для синтоидов, которые потребляют это для пополнения внутренних запасов хладагента. Это только заполнит резерв и не может восполнить потерянный хладагент.</ABF_Thing_Synstruct_CoolantPack.description>
 
-  <ABF_Thing_Synstruct_LubricantPack.label>lubricant pack</ABF_Thing_Synstruct_LubricantPack.label>
-  <ABF_Thing_Synstruct_LubricantPack.description>A tightly sealed package of lubricant for synstructs that can consume it to replenish internal lubricant reserves.</ABF_Thing_Synstruct_LubricantPack.description>
+  <ABF_Thing_Synstruct_LubricantPack.label>упаковка смазки</ABF_Thing_Synstruct_LubricantPack.label>
+  <ABF_Thing_Synstruct_LubricantPack.description>Закрытый пакет смазки для синтоидов, которые потребляют это для пополнения внутренних запасов смазки.</ABF_Thing_Synstruct_LubricantPack.description>
 
 
 </LanguageData>

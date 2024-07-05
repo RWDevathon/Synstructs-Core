@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thing_Synstruct_RegenerativePill.label>regenerative pill</ABF_Thing_Synstruct_RegenerativePill.label>
-  <ABF_Thing_Synstruct_RegenerativePill.description>A rare case of a synstruct-designed solution (mostly) safe for organic consumption, regenerative pills are a complex synthetic solution that traverse the host's blood, coolant, or other internal streams and accumulates around injury sites in such a way as to accelerate recovery and cut off loss of fluids.\n\nOrganics will find the sensation quite unpleasant, but fully benefit from the pill's effects. Inorganic units benefit from the solution's materials to accelerate damage recovery without downsides.</ABF_Thing_Synstruct_RegenerativePill.description>
-  <ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestCommandString>Take {0}</ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestCommandString>
-  <ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestReportString>Taking {0}.</ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestReportString>
+  <ABF_Thing_Synstruct_RegenerativePill.label>Таблетка регенерации</ABF_Thing_Synstruct_RegenerativePill.label>
+  <ABF_Thing_Synstruct_RegenerativePill.description>Редкий случай синтетического решения, (в основном) безопасного для органического потребления. Регенеративные таблетки представляют собой сложный синтетический раствор, который проходит через кровь, хладагент или другие внутренние потоки хозяина и накапливается вокруг мест повреждений таким образом, чтобы ускорить восстановление и перекрыть потерю жидкости.\n\nХотя опыт использования таблеток может быть неприятным для органиков, никаких негативных эффектов от их воздействия не будет. Неорганические юниты, благодаря её составу, ускоряют восстановление повреждений без негативных последствий.</ABF_Thing_Synstruct_RegenerativePill.description>
+  <ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestCommandString>
+  <ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_RegenerativePill.ingestible.ingestReportString>
 
 
 </LanguageData>

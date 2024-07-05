@@ -2,12 +2,12 @@
 <LanguageData>
 
   <!-- Charging -->
-  <ABF_ForceCharge>Force recharge</ABF_ForceCharge>
-  <ABF_NoAvailableChargingSpots>Cannot use, charging spots are reserved.</ABF_NoAvailableChargingSpots>
-  <ABF_IncapableOfCharging>{0} can not recharge this way.</ABF_IncapableOfCharging>
+  <ABF_ForceCharge>Принудительная зарядка</ABF_ForceCharge>
+  <ABF_NoAvailableChargingSpots>Невозможно использовать, место для зарядки занято.</ABF_NoAvailableChargingSpots>
+  <ABF_IncapableOfCharging>{0} не может заряжаться таким образом.</ABF_IncapableOfCharging>
 
   <!-- Restruct kits -->
-  <ABF_TargetMustBeCorpse>{0} is not a corpse.</ABF_TargetMustBeCorpse>
-  <ABF_InvalidPawnState>{0} cannot be used on {1}.</ABF_InvalidPawnState>
+  <ABF_TargetMustBeCorpse>{0} не труп.</ABF_TargetMustBeCorpse>
+  <ABF_InvalidPawnState>{0} нельзя использовать на {1}.</ABF_InvalidPawnState>
 
 </LanguageData>

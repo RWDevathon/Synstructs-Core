@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_BodyPart_Synstruct_Torso.label>torso</ABF_BodyPart_Synstruct_Torso.label>
-  <ABF_BodyPart_Synstruct_Neck.label>neck</ABF_BodyPart_Synstruct_Neck.label>
-  <ABF_BodyPart_Synstruct_Head.label>head</ABF_BodyPart_Synstruct_Head.label>
-  <ABF_BodyPart_Synstruct_Vocalizer.label>vocalizer</ABF_BodyPart_Synstruct_Vocalizer.label>
-  <ABF_BodyPart_Synstruct_VisualSensor.label>visual sensor</ABF_BodyPart_Synstruct_VisualSensor.label>
-  <ABF_BodyPart_Synstruct_AudialSensor.label>audio sensor</ABF_BodyPart_Synstruct_AudialSensor.label>
-  <ABF_BodyPart_Synstruct_Shoulder.label>shoulder</ABF_BodyPart_Synstruct_Shoulder.label>
-  <ABF_BodyPart_Synstruct_Arm.label>arm</ABF_BodyPart_Synstruct_Arm.label>
-  <ABF_BodyPart_Synstruct_Hand.label>hand</ABF_BodyPart_Synstruct_Hand.label>
-  <ABF_BodyPart_Synstruct_Finger.label>finger</ABF_BodyPart_Synstruct_Finger.label>
-  <ABF_BodyPart_Synstruct_Waist.label>utility slot</ABF_BodyPart_Synstruct_Waist.label>
-  <ABF_BodyPart_Synstruct_Leg.label>leg</ABF_BodyPart_Synstruct_Leg.label>
-  <ABF_BodyPart_Synstruct_Foot.label>foot</ABF_BodyPart_Synstruct_Foot.label>
+  <ABF_BodyPart_Synstruct_Torso.label>торс</ABF_BodyPart_Synstruct_Torso.label>
+  <ABF_BodyPart_Synstruct_Neck.label>шея</ABF_BodyPart_Synstruct_Neck.label>
+  <ABF_BodyPart_Synstruct_Head.label>голова</ABF_BodyPart_Synstruct_Head.label>
+  <ABF_BodyPart_Synstruct_Vocalizer.label>вокализёр</ABF_BodyPart_Synstruct_Vocalizer.label>
+  <ABF_BodyPart_Synstruct_VisualSensor.label>оптический датчик</ABF_BodyPart_Synstruct_VisualSensor.label>
+  <ABF_BodyPart_Synstruct_AudialSensor.label>звуковой датчик</ABF_BodyPart_Synstruct_AudialSensor.label>
+  <ABF_BodyPart_Synstruct_Shoulder.label>плечо</ABF_BodyPart_Synstruct_Shoulder.label>
+  <ABF_BodyPart_Synstruct_Arm.label>рука</ABF_BodyPart_Synstruct_Arm.label>
+  <ABF_BodyPart_Synstruct_Hand.label>кисть</ABF_BodyPart_Synstruct_Hand.label>
+  <ABF_BodyPart_Synstruct_Finger.label>палец</ABF_BodyPart_Synstruct_Finger.label>
+  <ABF_BodyPart_Synstruct_Waist.label>служебный слот</ABF_BodyPart_Synstruct_Waist.label>
+  <ABF_BodyPart_Synstruct_Leg.label>нога</ABF_BodyPart_Synstruct_Leg.label>
+  <ABF_BodyPart_Synstruct_Foot.label>стопа</ABF_BodyPart_Synstruct_Foot.label>
 
 
 </LanguageData>

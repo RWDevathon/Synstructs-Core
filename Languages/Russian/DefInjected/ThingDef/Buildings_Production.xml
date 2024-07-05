@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thing_Synstruct_Cradle.label>synstruct cradle</ABF_Thing_Synstruct_Cradle.label>
-  <ABF_Thing_Synstruct_Cradle.description>A specialized workbench that holds the chassis and frame of a synstruct in place while they are under construction. Many synstructs hold fond opinions of these workbenches, regarding them almost like a wellspring of life.</ABF_Thing_Synstruct_Cradle.description>
-  <ABF_Thing_Synstruct_Cradle_Blueprint.label>synstruct cradle (blueprint)</ABF_Thing_Synstruct_Cradle_Blueprint.label>
-  <ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>synstruct cradle (blueprint)</ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>
-  <ABF_Thing_Synstruct_Cradle_Frame.label>synstruct cradle (building)</ABF_Thing_Synstruct_Cradle_Frame.label>
-  <ABF_Thing_Synstruct_Cradle_Frame.description>A specialized workbench that holds the chassis and frame of a synstruct in place while they are under construction. Many synstructs hold fond opinions of these workbenches, regarding them almost like a wellspring of life.</ABF_Thing_Synstruct_Cradle_Frame.description>
+  <ABF_Thing_Synstruct_Cradle.label>колыбель синтоидов</ABF_Thing_Synstruct_Cradle.label>
+  <ABF_Thing_Synstruct_Cradle.description>Верстак, на котором будет удерживаться шасси и каркас синтоида, во время сборки. Многие синтоиды с любовью относятся к этим верстакам, считая их почти источником жизни.</ABF_Thing_Synstruct_Cradle.description>
+  <ABF_Thing_Synstruct_Cradle_Blueprint.label>колыбель синтоидов (проект)</ABF_Thing_Synstruct_Cradle_Blueprint.label>
+  <ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>колыбель синтоидов (проект)</ABF_Thing_Synstruct_Cradle_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_Cradle_Frame.label>колыбель синтоидов (в процессе сборки)</ABF_Thing_Synstruct_Cradle_Frame.label>
+  <ABF_Thing_Synstruct_Cradle_Frame.description>Верстак, на котором будет удерживаться шасси и каркас синтоида, во время сборки. Многие синтоиды с любовью относятся к этим верстакам, считая их почти источником жизни.</ABF_Thing_Synstruct_Cradle_Frame.description>
 
-  <ABF_Thing_Synstruct_PartWorkbench.label>synstruct parts workbench</ABF_Thing_Synstruct_PartWorkbench.label>
-  <ABF_Thing_Synstruct_PartWorkbench.description>A workbench that holds all equipment needed to make a variety of synstruct parts.</ABF_Thing_Synstruct_PartWorkbench.description>
-  <ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>synstruct parts workbench (blueprint)</ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>
-  <ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>synstruct parts workbench (blueprint)</ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>
-  <ABF_Thing_Synstruct_PartWorkbench_Frame.label>synstruct parts workbench (building)</ABF_Thing_Synstruct_PartWorkbench_Frame.label>
-  <ABF_Thing_Synstruct_PartWorkbench_Frame.description>A workbench that holds all equipment needed to make a variety of synstruct parts.</ABF_Thing_Synstruct_PartWorkbench_Frame.description>
+  <ABF_Thing_Synstruct_PartWorkbench.label>верстак робототехники</ABF_Thing_Synstruct_PartWorkbench.label>
+  <ABF_Thing_Synstruct_PartWorkbench.description>Верстак, на котором хранится всё оборудование, необходимое для изготовления различных деталей синтоидов.</ABF_Thing_Synstruct_PartWorkbench.description>
+  <ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>верстак робототехники (проект)</ABF_Thing_Synstruct_PartWorkbench_Blueprint.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>верстак робототехники (проект)</ABF_Thing_Synstruct_PartWorkbench_Blueprint_Install.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Frame.label>верстак робототехники (в процессе сборки)</ABF_Thing_Synstruct_PartWorkbench_Frame.label>
+  <ABF_Thing_Synstruct_PartWorkbench_Frame.description>Верстак, на котором хранится всё оборудование, необходимое для изготовления различных деталей синтоидов.</ABF_Thing_Synstruct_PartWorkbench_Frame.description>
 
 
 </LanguageData>

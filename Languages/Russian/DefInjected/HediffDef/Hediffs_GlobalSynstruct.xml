@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Hediff_Synstruct_Overclocking.label>overclocking</ABF_Hediff_Synstruct_Overclocking.label>
-  <ABF_Hediff_Synstruct_Overclocking.description>This unit is overclocking its core processor, with a noticeable boost to performance. This requires significant additional power consumption, and strains heat and coherence systems. The unusually heightened processor activity stresses the host consciousness as well.</ABF_Hediff_Synstruct_Overclocking.description>
+  <ABF_Hediff_Synstruct_Overclocking.label>разгон</ABF_Hediff_Synstruct_Overclocking.label>
+  <ABF_Hediff_Synstruct_Overclocking.description>Юнит разогнал своё ядро с заметным увеличением производительности. Энергопотребление, тепловыделение и износ комплектующих системы — были заметно увеличены. Необычно повышенная активность ядра напрягает и сознание синтоида.</ABF_Hediff_Synstruct_Overclocking.description>
 
-  <ABF_Hediff_Synstruct_RemainingCharge.label>battery life</ABF_Hediff_Synstruct_RemainingCharge.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.description>Battery life remaining before loss of function.</ABF_Hediff_Synstruct_RemainingCharge.description>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.0.label>empty</ABF_Hediff_Synstruct_RemainingCharge.stages.0.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.1.label>critical</ABF_Hediff_Synstruct_RemainingCharge.stages.1.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.2.label>low</ABF_Hediff_Synstruct_RemainingCharge.stages.2.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.3.label>moderate</ABF_Hediff_Synstruct_RemainingCharge.stages.3.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.4.label>high</ABF_Hediff_Synstruct_RemainingCharge.stages.4.label>
-  <ABF_Hediff_Synstruct_RemainingCharge.stages.5.label>full</ABF_Hediff_Synstruct_RemainingCharge.stages.5.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.label>заряд аккумулятора</ABF_Hediff_Synstruct_RemainingCharge.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.description>Оставшееся время работы аккумулятора до его полного разряда.</ABF_Hediff_Synstruct_RemainingCharge.description>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.0.label>разряжен</ABF_Hediff_Synstruct_RemainingCharge.stages.0.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.1.label>критический</ABF_Hediff_Synstruct_RemainingCharge.stages.1.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.2.label>низкий</ABF_Hediff_Synstruct_RemainingCharge.stages.2.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.3.label>средний</ABF_Hediff_Synstruct_RemainingCharge.stages.3.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.4.label>высокий</ABF_Hediff_Synstruct_RemainingCharge.stages.4.label>
+  <ABF_Hediff_Synstruct_RemainingCharge.stages.5.label>полный</ABF_Hediff_Synstruct_RemainingCharge.stages.5.label>
 
-  <ABF_Hediff_Synstruct_CoreLockout.label>core lockout</ABF_Hediff_Synstruct_CoreLockout.label>
-  <ABF_Hediff_Synstruct_CoreLockout.description>A condition that leaves the unit unable to move by locking access to all motor components responsible for movement. After enough time, the consciousness will disable the lockout as it decrypts the controls, but the process is slow. There is also a chance of a lucky early recovery. This condition can not be solved by external forces in a way that does not kill the consciousness.</ABF_Hediff_Synstruct_CoreLockout.description>
+  <ABF_Hediff_Synstruct_CoreLockout.label>блокировка ядра</ABF_Hediff_Synstruct_CoreLockout.label>
+  <ABF_Hediff_Synstruct_CoreLockout.description>Состояние, при котором юнит не может двигаться, блокируя доступ ко всем компонентам, отвечающим за движение. Через некоторое время сознание отключит блокировку, расшифровав элементы управления, но этот процесс идёт медленно. Существуете вероятность удачного раннего восстановления. Это состояние не может быть решено извне, не убив сознание.</ABF_Hediff_Synstruct_CoreLockout.description>
 
 
 </LanguageData>

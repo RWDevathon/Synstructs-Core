@@ -3,90 +3,90 @@
 
   <!-- Surgery to terminate any incapacitated synstruct -->
 
-  <ABF_Recipe_Synstruct_Terminate.label>terminate</ABF_Recipe_Synstruct_Terminate.label>
-  <ABF_Recipe_Synstruct_Terminate.description>Terminates the functionality of a target permanently, by any means necessary.</ABF_Recipe_Synstruct_Terminate.description>
-  <ABF_Recipe_Synstruct_Terminate.jobString>Terminating.</ABF_Recipe_Synstruct_Terminate.jobString>
+  <ABF_Recipe_Synstruct_Terminate.label>прервать</ABF_Recipe_Synstruct_Terminate.label>
+  <ABF_Recipe_Synstruct_Terminate.description>Прерывает функциональность цели навсегда, любым способом.</ABF_Recipe_Synstruct_Terminate.description>
+  <ABF_Recipe_Synstruct_Terminate.jobString>Прерывание.</ABF_Recipe_Synstruct_Terminate.jobString>
 
 
   <!-- Direct analogue to anesthetizing organics, with no fail chance or learning -->
 
-  <ABF_Recipe_Synstruct_Incapacitate.label>incapacitate unit</ABF_Recipe_Synstruct_Incapacitate.label>
-  <ABF_Recipe_Synstruct_Incapacitate.description>Temporarily incapacitate the unit.</ABF_Recipe_Synstruct_Incapacitate.description>
-  <ABF_Recipe_Synstruct_Incapacitate.jobString>Incapacitating.</ABF_Recipe_Synstruct_Incapacitate.jobString>
+  <ABF_Recipe_Synstruct_Incapacitate.label>обездвижить юнита</ABF_Recipe_Synstruct_Incapacitate.label>
+  <ABF_Recipe_Synstruct_Incapacitate.description>Временно обездвижить юнита.</ABF_Recipe_Synstruct_Incapacitate.description>
+  <ABF_Recipe_Synstruct_Incapacitate.jobString>Обездвиживание.</ABF_Recipe_Synstruct_Incapacitate.jobString>
 
 
   <!-- Overclocking -->
 
-  <ABF_Recipe_Synstruct_Overclock.label>overclock</ABF_Recipe_Synstruct_Overclock.label>
-  <ABF_Recipe_Synstruct_Overclock.description>A simple hardware restructuring to a synstruct to lower hardware safety measures for performance gains.</ABF_Recipe_Synstruct_Overclock.description>
-  <ABF_Recipe_Synstruct_Overclock.jobString>Overclocking.</ABF_Recipe_Synstruct_Overclock.jobString>
+  <ABF_Recipe_Synstruct_Overclock.label>разгон</ABF_Recipe_Synstruct_Overclock.label>
+  <ABF_Recipe_Synstruct_Overclock.description>Простая аппаратная реструктуризация синтода для снижения мер безопасности с целью повышения производительности.</ABF_Recipe_Synstruct_Overclock.description>
+  <ABF_Recipe_Synstruct_Overclock.jobString>Разгон.</ABF_Recipe_Synstruct_Overclock.jobString>
 
-  <ABF_Recipe_Synstruct_UndoOverclocking.label>undo overclocking</ABF_Recipe_Synstruct_UndoOverclocking.label>
-  <ABF_Recipe_Synstruct_UndoOverclocking.description>A simple hardware restructuring to a synstruct to reset hardware safety measures to standard settings.</ABF_Recipe_Synstruct_UndoOverclocking.description>
-  <ABF_Recipe_Synstruct_UndoOverclocking.jobString>Resetting overclocking.</ABF_Recipe_Synstruct_UndoOverclocking.jobString>
+  <ABF_Recipe_Synstruct_UndoOverclocking.label>сбросить разгон</ABF_Recipe_Synstruct_UndoOverclocking.label>
+  <ABF_Recipe_Synstruct_UndoOverclocking.description>Простая аппаратная реструктуризация синтоида для сброса мер безопасности к стандартным настройкам.</ABF_Recipe_Synstruct_UndoOverclocking.description>
+  <ABF_Recipe_Synstruct_UndoOverclocking.jobString>Сброс разгона.</ABF_Recipe_Synstruct_UndoOverclocking.jobString>
 
 
   <!-- Surgery to remove body parts from synstructs -->
 
-  <ABF_Recipe_Synstruct_RemoveBodyPart.label>remove part</ABF_Recipe_Synstruct_RemoveBodyPart.label>
-  <ABF_Recipe_Synstruct_RemoveBodyPart.description>Removes body part.</ABF_Recipe_Synstruct_RemoveBodyPart.description>
-  <ABF_Recipe_Synstruct_RemoveBodyPart.jobString>Removing body part.</ABF_Recipe_Synstruct_RemoveBodyPart.jobString>
+  <ABF_Recipe_Synstruct_RemoveBodyPart.label>удалить деталь</ABF_Recipe_Synstruct_RemoveBodyPart.label>
+  <ABF_Recipe_Synstruct_RemoveBodyPart.description>Удалить деталь.</ABF_Recipe_Synstruct_RemoveBodyPart.description>
+  <ABF_Recipe_Synstruct_RemoveBodyPart.jobString>Удаляет деталь.</ABF_Recipe_Synstruct_RemoveBodyPart.jobString>
 
 
   <!-- Surgery to restore body parts in synstructs -->
 
-  <ABF_Recipe_Synstruct_RestoreBodyPart.label>restore part</ABF_Recipe_Synstruct_RestoreBodyPart.label>
-  <ABF_Recipe_Synstruct_RestoreBodyPart.description>Restores a particular body part.</ABF_Recipe_Synstruct_RestoreBodyPart.description>
-  <ABF_Recipe_Synstruct_RestoreBodyPart.jobString>Restoring body part.</ABF_Recipe_Synstruct_RestoreBodyPart.jobString>
+  <ABF_Recipe_Synstruct_RestoreBodyPart.label>восстановить деталь</ABF_Recipe_Synstruct_RestoreBodyPart.label>
+  <ABF_Recipe_Synstruct_RestoreBodyPart.description>Восстановить определённую деталь.</ABF_Recipe_Synstruct_RestoreBodyPart.description>
+  <ABF_Recipe_Synstruct_RestoreBodyPart.jobString>Восстанавливает деталь.</ABF_Recipe_Synstruct_RestoreBodyPart.jobString>
 
 
   <!-- Surgery to make a synstruct into a drone -->
 
-  <ABF_Recipe_Synstruct_FormatDrone.label>format as drone</ABF_Recipe_Synstruct_FormatDrone.label>
-  <ABF_Recipe_Synstruct_FormatDrone.description>Makes this synstruct into a drone.</ABF_Recipe_Synstruct_FormatDrone.description>
-  <ABF_Recipe_Synstruct_FormatDrone.jobString>Formatting as a drone.</ABF_Recipe_Synstruct_FormatDrone.jobString>
+  <ABF_Recipe_Synstruct_FormatDrone.label>форматировать в дрона</ABF_Recipe_Synstruct_FormatDrone.label>
+  <ABF_Recipe_Synstruct_FormatDrone.description>Превращает этого юнита в дрона.</ABF_Recipe_Synstruct_FormatDrone.description>
+  <ABF_Recipe_Synstruct_FormatDrone.jobString>Форматирование в дрона.</ABF_Recipe_Synstruct_FormatDrone.jobString>
 
 
   <!-- Surgery to make a synstruct into a reprogrammable drone -->
 
-  <ABF_Recipe_Synstruct_FormatReprogrammable.label>format as reprogrammable drone</ABF_Recipe_Synstruct_FormatReprogrammable.label>
-  <ABF_Recipe_Synstruct_FormatReprogrammable.description>Makes this synstruct into a reprogrammable drone.</ABF_Recipe_Synstruct_FormatReprogrammable.description>
-  <ABF_Recipe_Synstruct_FormatReprogrammable.jobString>Formatting as a reprogrammable drone.</ABF_Recipe_Synstruct_FormatReprogrammable.jobString>
+  <ABF_Recipe_Synstruct_FormatReprogrammable.label>форматировать в перепрограммированного дрона</ABF_Recipe_Synstruct_FormatReprogrammable.label>
+  <ABF_Recipe_Synstruct_FormatReprogrammable.description>Превращает этого юнита в перепрограммированного дрона.</ABF_Recipe_Synstruct_FormatReprogrammable.description>
+  <ABF_Recipe_Synstruct_FormatReprogrammable.jobString>Форматирование в перепрограммированного дрона.</ABF_Recipe_Synstruct_FormatReprogrammable.jobString>
 
 
   <!-- Surgery to make a synstruct into a sapient -->
 
-  <ABF_Recipe_Synstruct_FormatSapient.label>format as sapient</ABF_Recipe_Synstruct_FormatSapient.label>
-  <ABF_Recipe_Synstruct_FormatSapient.description>Makes this synstruct into a sapient individual.</ABF_Recipe_Synstruct_FormatSapient.description>
-  <ABF_Recipe_Synstruct_FormatSapient.jobString>Formatting as a sapient individual.</ABF_Recipe_Synstruct_FormatSapient.jobString>
+  <ABF_Recipe_Synstruct_FormatSapient.label>форматировать в синтоида</ABF_Recipe_Synstruct_FormatSapient.label>
+  <ABF_Recipe_Synstruct_FormatSapient.description>Превращает этого юнита в разумного синтоида.</ABF_Recipe_Synstruct_FormatSapient.description>
+  <ABF_Recipe_Synstruct_FormatSapient.jobString>Форматирование в синтоида.</ABF_Recipe_Synstruct_FormatSapient.jobString>
 
 
   <!-- Surgery to make a synstruct blank -->
 
-  <ABF_Recipe_Synstruct_RemoveFormatting.label>remove formatting</ABF_Recipe_Synstruct_RemoveFormatting.label>
-  <ABF_Recipe_Synstruct_RemoveFormatting.description>Makes this synstruct into a blank unit, ready to be reformatted. This is considered murder when done on sapient synstructs!</ABF_Recipe_Synstruct_RemoveFormatting.description>
-  <ABF_Recipe_Synstruct_RemoveFormatting.jobString>Deformatting synstruct.</ABF_Recipe_Synstruct_RemoveFormatting.jobString>
+  <ABF_Recipe_Synstruct_RemoveFormatting.label>удалить форматирование</ABF_Recipe_Synstruct_RemoveFormatting.label>
+  <ABF_Recipe_Synstruct_RemoveFormatting.description>Превращает этого юнита в заготовку, готовый к переформатированию. Это считается убийством, если совершать на синтоидах!</ABF_Recipe_Synstruct_RemoveFormatting.description>
+  <ABF_Recipe_Synstruct_RemoveFormatting.jobString>Деформация синтоида.</ABF_Recipe_Synstruct_RemoveFormatting.jobString>
 
 
   <!-- Surgery to paint a synstruct -->
 
-  <ABF_Recipe_Synstruct_Paint.label>paint synstruct</ABF_Recipe_Synstruct_Paint.label>
-  <ABF_Recipe_Synstruct_Paint.description>Repaints the synstruct's frame.</ABF_Recipe_Synstruct_Paint.description>
-  <ABF_Recipe_Synstruct_Paint.jobString>Painting synstruct.</ABF_Recipe_Synstruct_Paint.jobString>
+  <ABF_Recipe_Synstruct_Paint.label>покрасить юнита</ABF_Recipe_Synstruct_Paint.label>
+  <ABF_Recipe_Synstruct_Paint.description>Перекрашивает каркас юнитов.</ABF_Recipe_Synstruct_Paint.description>
+  <ABF_Recipe_Synstruct_Paint.jobString>Перекраска юнита.</ABF_Recipe_Synstruct_Paint.jobString>
 
 
   <!-- Injecting coolant into a synstruct -->
 
-  <ABF_Recipe_Synstruct_InjectCoolant.label>inject coolant</ABF_Recipe_Synstruct_InjectCoolant.label>
-  <ABF_Recipe_Synstruct_InjectCoolant.description>Manually replenish a pawn's coolant reserves by injecting from a pack. This does not replace lost coolant in the chassis, but is essential for replenishing that lost quantity over time from the reserves.</ABF_Recipe_Synstruct_InjectCoolant.description>
-  <ABF_Recipe_Synstruct_InjectCoolant.jobString>injecting coolant into TargetA.</ABF_Recipe_Synstruct_InjectCoolant.jobString>
+  <ABF_Recipe_Synstruct_InjectCoolant.label>ввести хладагент</ABF_Recipe_Synstruct_InjectCoolant.label>
+  <ABF_Recipe_Synstruct_InjectCoolant.description>Вручную пополнить запас хладагента пешки, вводя его из пакета. Это не заменяет потерянный хладагент в шасси, но необходимо для восполнения потерянного количества из резервов.</ABF_Recipe_Synstruct_InjectCoolant.description>
+  <ABF_Recipe_Synstruct_InjectCoolant.jobString>введение хладагента в TargetA</ABF_Recipe_Synstruct_InjectCoolant.jobString>
 
 
   <!-- Injecting lubricant into a synstruct -->
 
-  <ABF_Recipe_Synstruct_InjectLubricant.label>inject lubricant</ABF_Recipe_Synstruct_InjectLubricant.label>
-  <ABF_Recipe_Synstruct_InjectLubricant.description>Manually replenish a pawn's lubricant reserves by injecting from a pack. This does not replace lost lubricant in the chassis, but is essential for replenishing that lost quantity over time from the reserves.</ABF_Recipe_Synstruct_InjectLubricant.description>
-  <ABF_Recipe_Synstruct_InjectLubricant.jobString>injecting lubricant into TargetA.</ABF_Recipe_Synstruct_InjectLubricant.jobString>
+  <ABF_Recipe_Synstruct_InjectLubricant.label>ввести смазку</ABF_Recipe_Synstruct_InjectLubricant.label>
+  <ABF_Recipe_Synstruct_InjectLubricant.description>Вручную пополнить запас смазки пешки, вводя его из пакета. Это не заменяет потерянную смазку в шасси, но необходимо для восполнения потерянного количества из резервов.</ABF_Recipe_Synstruct_InjectLubricant.description>
+  <ABF_Recipe_Synstruct_InjectLubricant.jobString>введение смазки в TargetA</ABF_Recipe_Synstruct_InjectLubricant.jobString>
 
 
 </LanguageData>

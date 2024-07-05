@@ -3,39 +3,39 @@
 
   <!-- Archotech Visual Sensor -->
 
-  <ABF_Hediff_Synstruct_Archotech_VisualSensor.label>archotech visual sensor</ABF_Hediff_Synstruct_Archotech_VisualSensor.label>
-  <ABF_Hediff_Synstruct_Archotech_VisualSensor.description>An archotech device in the form of a visual sensor. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_VisualSensor.description>
-  <ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>an archotech visual sensor</ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.label>оптический датчик архотек</ABF_Hediff_Synstruct_Archotech_VisualSensor.label>
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.description>Устройство архотек в виде оптического датчика. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_VisualSensor.description>
+  <ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>оптический датчик архотек</ABF_Hediff_Synstruct_Archotech_VisualSensor.labelNoun>
 
 
   <!-- Archotech Audial Sensor -->
 
-  <ABF_Hediff_Synstruct_Archotech_AudialSensor.label>archotech audial sensor</ABF_Hediff_Synstruct_Archotech_AudialSensor.label>
-  <ABF_Hediff_Synstruct_Archotech_AudialSensor.description>An archotech device in the form of an audial sensor. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_AudialSensor.description>
+  <ABF_Hediff_Synstruct_Archotech_AudialSensor.label>звуковой датчик архотек</ABF_Hediff_Synstruct_Archotech_AudialSensor.label>
+  <ABF_Hediff_Synstruct_Archotech_AudialSensor.description>Устройство архотек в виде звукового датчика. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_AudialSensor.description>
 
 
   <!-- Archotech Heatsink -->
 
-  <ABF_Hediff_Synstruct_Archotech_Heatsink.label>archotech heatsink</ABF_Hediff_Synstruct_Archotech_Heatsink.label>
-  <ABF_Hediff_Synstruct_Archotech_Heatsink.description>An archotech device in the form of a heatsink. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Heatsink.description>
+  <ABF_Hediff_Synstruct_Archotech_Heatsink.label>радиатор архотек</ABF_Hediff_Synstruct_Archotech_Heatsink.label>
+  <ABF_Hediff_Synstruct_Archotech_Heatsink.description>Устройство архотек в виде радиатора. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_Heatsink.description>
 
 
   <!-- Archotech Coolant Pump -->
 
-  <ABF_Hediff_Synstruct_Archotech_CoolantPump.label>archotech coolant pump</ABF_Hediff_Synstruct_Archotech_CoolantPump.label>
-  <ABF_Hediff_Synstruct_Archotech_CoolantPump.description>An archotech device in the form of a coolant pump. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_CoolantPump.description>
+  <ABF_Hediff_Synstruct_Archotech_CoolantPump.label>гидронасос архотек</ABF_Hediff_Synstruct_Archotech_CoolantPump.label>
+  <ABF_Hediff_Synstruct_Archotech_CoolantPump.description>Устройство архотек в виде гидронасоса. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_CoolantPump.description>
 
 
   <!-- Archotech Battery -->
 
-  <ABF_Hediff_Synstruct_Archotech_Battery.label>archotech battery pack</ABF_Hediff_Synstruct_Archotech_Battery.label>
-  <ABF_Hediff_Synstruct_Archotech_Battery.description>An archotech device in the form of a battery. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Battery.description>
+  <ABF_Hediff_Synstruct_Archotech_Battery.label>аккумулятор архотек</ABF_Hediff_Synstruct_Archotech_Battery.label>
+  <ABF_Hediff_Synstruct_Archotech_Battery.description>Устройство архотек в виде аккумулятора. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_Battery.description>
 
 
   <!-- Archotech Reactor -->
 
-  <ABF_Hediff_Synstruct_Archotech_Reactor.label>archotech reactor</ABF_Hediff_Synstruct_Archotech_Reactor.label>
-  <ABF_Hediff_Synstruct_Archotech_Reactor.description>An archotech device in the form of a reactor - but it seems to reduce power consumption as well. Synstructs derive great benefit from these devices, but at a cost. Synstructs are manmade creations that are neither psychic nor organic in nature. It is not clear whether Archotechs despise them for being out of their grasp, or for some other esoteric reason. The displeasure of the unknowable beings manifests through even the simplest of their implants, steadily whittling away at the consciousness of synstructs.</ABF_Hediff_Synstruct_Archotech_Reactor.description>
+  <ABF_Hediff_Synstruct_Archotech_Reactor.label>реактор архотек</ABF_Hediff_Synstruct_Archotech_Reactor.label>
+  <ABF_Hediff_Synstruct_Archotech_Reactor.description>Устройство архотек в виде реактора — похоже, оно также снижает энергопотребление. Синтоиды получают огромную пользу от этих устройств, но за это приходится платить. Синтоиды — это искусственные творения, которые не являются ни органическими ни психическими по своей природе. Неясно, презирают ли архотеки их за то, что синтоиды им не по зубам, или по какой-то другой эзотерической причине. Недовольство непознанных существ проявляется даже в самых простых их имплантах, неуклонно разрушая сознание синтоидов.</ABF_Hediff_Synstruct_Archotech_Reactor.description>
 
 
 </LanguageData>

@@ -6,207 +6,207 @@
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_ABF_Thing_Synstruct_RegenerativePill.label>make regenerative pill</Make_ABF_Thing_Synstruct_RegenerativePill.label>
-  <Make_ABF_Thing_Synstruct_RegenerativePill.description>Make regenerative pill.</Make_ABF_Thing_Synstruct_RegenerativePill.description>
-  <Make_ABF_Thing_Synstruct_RegenerativePill.jobString>Making regenerative pill.</Make_ABF_Thing_Synstruct_RegenerativePill.jobString>
+  <Make_ABF_Thing_Synstruct_RegenerativePill.label>изготовить таблетку регенерации</Make_ABF_Thing_Synstruct_RegenerativePill.label>
+  <Make_ABF_Thing_Synstruct_RegenerativePill.description>Изготовить таблетку регенерации.</Make_ABF_Thing_Synstruct_RegenerativePill.description>
+  <Make_ABF_Thing_Synstruct_RegenerativePill.jobString>Изготавливает таблетку регенерации.</Make_ABF_Thing_Synstruct_RegenerativePill.jobString>
 
-  <Make_ABF_Thing_Synstruct_SignalSurge.label>make signal surge</Make_ABF_Thing_Synstruct_SignalSurge.label>
-  <Make_ABF_Thing_Synstruct_SignalSurge.description>Make signal surge.</Make_ABF_Thing_Synstruct_SignalSurge.description>
-  <Make_ABF_Thing_Synstruct_SignalSurge.jobString>Making signal surge.</Make_ABF_Thing_Synstruct_SignalSurge.jobString>
+  <Make_ABF_Thing_Synstruct_SignalSurge.label>изготовить сигнальный всплеск</Make_ABF_Thing_Synstruct_SignalSurge.label>
+  <Make_ABF_Thing_Synstruct_SignalSurge.description>Изготовить сигнальный всплеск.</Make_ABF_Thing_Synstruct_SignalSurge.description>
+  <Make_ABF_Thing_Synstruct_SignalSurge.jobString>Изготавливает сигнальный всплеск.</Make_ABF_Thing_Synstruct_SignalSurge.jobString>
 
-  <Make_ABF_Thing_Synstruct_StasisPill.label>make stasis pill</Make_ABF_Thing_Synstruct_StasisPill.label>
-  <Make_ABF_Thing_Synstruct_StasisPill.description>Make stasis pill.</Make_ABF_Thing_Synstruct_StasisPill.description>
-  <Make_ABF_Thing_Synstruct_StasisPill.jobString>Making stasis pill.</Make_ABF_Thing_Synstruct_StasisPill.jobString>
+  <Make_ABF_Thing_Synstruct_StasisPill.label>изготовить таблетку стазиса</Make_ABF_Thing_Synstruct_StasisPill.label>
+  <Make_ABF_Thing_Synstruct_StasisPill.description>Изготовить таблетку стазиса.</Make_ABF_Thing_Synstruct_StasisPill.description>
+  <Make_ABF_Thing_Synstruct_StasisPill.jobString>Изготавливает таблетку стазиса.</Make_ABF_Thing_Synstruct_StasisPill.jobString>
 
-  <Make_ABF_Thing_Synstruct_ThermalPill.label>make thermal pill</Make_ABF_Thing_Synstruct_ThermalPill.label>
-  <Make_ABF_Thing_Synstruct_ThermalPill.description>Make thermal pill.</Make_ABF_Thing_Synstruct_ThermalPill.description>
-  <Make_ABF_Thing_Synstruct_ThermalPill.jobString>Making thermal pill.</Make_ABF_Thing_Synstruct_ThermalPill.jobString>
+  <Make_ABF_Thing_Synstruct_ThermalPill.label>изготовить тепловую таблетку</Make_ABF_Thing_Synstruct_ThermalPill.label>
+  <Make_ABF_Thing_Synstruct_ThermalPill.description>Изготовить тепловую таблетку.</Make_ABF_Thing_Synstruct_ThermalPill.description>
+  <Make_ABF_Thing_Synstruct_ThermalPill.jobString>Изготавливает тепловую таблетку.</Make_ABF_Thing_Synstruct_ThermalPill.jobString>
 
 
   <!-- Recipe Users: ABF_Thing_Synstruct_PartWorkbench -->
 
-  <Make_ABF_Thing_Synstruct_Assistant_Insight.label>make insight assistant</Make_ABF_Thing_Synstruct_Assistant_Insight.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Insight.description>Make insight assistant.</Make_ABF_Thing_Synstruct_Assistant_Insight.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Insight.jobString>Making insight assistant.</Make_ABF_Thing_Synstruct_Assistant_Insight.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Insight.label>изготовить чип помощник исследователь</Make_ABF_Thing_Synstruct_Assistant_Insight.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Insight.description>Изготовить чип помощник исследователь.</Make_ABF_Thing_Synstruct_Assistant_Insight.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Insight.jobString>Изготавливает чип помощник исследователь.</Make_ABF_Thing_Synstruct_Assistant_Insight.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_General.label>make general assistant</Make_ABF_Thing_Synstruct_Assistant_General.label>
-  <Make_ABF_Thing_Synstruct_Assistant_General.description>Make general assistant.</Make_ABF_Thing_Synstruct_Assistant_General.description>
-  <Make_ABF_Thing_Synstruct_Assistant_General.jobString>Making general assistant.</Make_ABF_Thing_Synstruct_Assistant_General.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_General.label>изготовить чип базовый помощник</Make_ABF_Thing_Synstruct_Assistant_General.label>
+  <Make_ABF_Thing_Synstruct_Assistant_General.description>Изготовить чип базовый помощник.</Make_ABF_Thing_Synstruct_Assistant_General.description>
+  <Make_ABF_Thing_Synstruct_Assistant_General.jobString>Изготавливает чип базовый помощник.</Make_ABF_Thing_Synstruct_Assistant_General.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Combat.label>make combat assistant chip</Make_ABF_Thing_Synstruct_Assistant_Combat.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Combat.description>Make combat assistant chip.</Make_ABF_Thing_Synstruct_Assistant_Combat.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Combat.jobString>Making combat assistant chip.</Make_ABF_Thing_Synstruct_Assistant_Combat.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Combat.label>изготовить чип боевой помощник</Make_ABF_Thing_Synstruct_Assistant_Combat.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Combat.description>Изготовить чип боевой помощник.</Make_ABF_Thing_Synstruct_Assistant_Combat.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Combat.jobString>Изготавливает чип боевой помощник.</Make_ABF_Thing_Synstruct_Assistant_Combat.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Artificer.label>make artificer assistant</Make_ABF_Thing_Synstruct_Assistant_Artificer.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Artificer.description>Make artificer assistant.</Make_ABF_Thing_Synstruct_Assistant_Artificer.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Artificer.jobString>Making artificer assistant.</Make_ABF_Thing_Synstruct_Assistant_Artificer.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Artificer.label>изготовить чип помощник ремесленник</Make_ABF_Thing_Synstruct_Assistant_Artificer.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Artificer.description>Изготовить чип помощник ремесленник.</Make_ABF_Thing_Synstruct_Assistant_Artificer.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Artificer.jobString>Изготавливает чип помощник ремесленник.</Make_ABF_Thing_Synstruct_Assistant_Artificer.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Construction.label>make construction assistant</Make_ABF_Thing_Synstruct_Assistant_Construction.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Construction.description>Make construction assistant.</Make_ABF_Thing_Synstruct_Assistant_Construction.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Construction.jobString>Making construction assistant.</Make_ABF_Thing_Synstruct_Assistant_Construction.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Construction.label>изготовить чип помощник строитель</Make_ABF_Thing_Synstruct_Assistant_Construction.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Construction.description>Изготовить чип помощник строитель.</Make_ABF_Thing_Synstruct_Assistant_Construction.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Construction.jobString>Изготавливает чип помощник строитель.</Make_ABF_Thing_Synstruct_Assistant_Construction.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Excavation.label>make excavation assistant</Make_ABF_Thing_Synstruct_Assistant_Excavation.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Excavation.description>Make excavation assistant.</Make_ABF_Thing_Synstruct_Assistant_Excavation.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Excavation.jobString>Making excavation assistant.</Make_ABF_Thing_Synstruct_Assistant_Excavation.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Excavation.label>изготовить чип помощник шахтёр</Make_ABF_Thing_Synstruct_Assistant_Excavation.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Excavation.description>Изготовить чип помощник шахтёр.</Make_ABF_Thing_Synstruct_Assistant_Excavation.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Excavation.jobString>Изготавливает чип помощник шахтёр.</Make_ABF_Thing_Synstruct_Assistant_Excavation.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Victual.label>make victual assistant</Make_ABF_Thing_Synstruct_Assistant_Victual.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Victual.description>Make victual assistant.</Make_ABF_Thing_Synstruct_Assistant_Victual.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Victual.jobString>Making victual assistant.</Make_ABF_Thing_Synstruct_Assistant_Victual.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Victual.label>изготовить чип помощник повар</Make_ABF_Thing_Synstruct_Assistant_Victual.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Victual.description>Изготовить чип помощник повар.</Make_ABF_Thing_Synstruct_Assistant_Victual.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Victual.jobString>Изготавливает чип помощник повар.</Make_ABF_Thing_Synstruct_Assistant_Victual.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.label>make cultivation assistant</Make_ABF_Thing_Synstruct_Assistant_Cultivation.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.description>Make cultivation assistant.</Make_ABF_Thing_Synstruct_Assistant_Cultivation.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.jobString>Making cultivation assistant.</Make_ABF_Thing_Synstruct_Assistant_Cultivation.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.label>изготовить чип помощник садовод</Make_ABF_Thing_Synstruct_Assistant_Cultivation.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.description>Изготовить чип помощник садовод.</Make_ABF_Thing_Synstruct_Assistant_Cultivation.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Cultivation.jobString>Изготавливает чип помощник садовод.</Make_ABF_Thing_Synstruct_Assistant_Cultivation.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Medicine.label>make medicine assistant</Make_ABF_Thing_Synstruct_Assistant_Medicine.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Medicine.description>Make medicine assistant.</Make_ABF_Thing_Synstruct_Assistant_Medicine.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Medicine.jobString>Making medicine assistant.</Make_ABF_Thing_Synstruct_Assistant_Medicine.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Medicine.label>изготовить чип помощник медик</Make_ABF_Thing_Synstruct_Assistant_Medicine.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Medicine.description>Изготовить чип помощник медик.</Make_ABF_Thing_Synstruct_Assistant_Medicine.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Medicine.jobString>Изготавливает чип помощник медик.</Make_ABF_Thing_Synstruct_Assistant_Medicine.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Social.label>make social assistant</Make_ABF_Thing_Synstruct_Assistant_Social.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Social.description>Make social assistant.</Make_ABF_Thing_Synstruct_Assistant_Social.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Social.jobString>Making social assistant.</Make_ABF_Thing_Synstruct_Assistant_Social.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Social.label>изготовить чип помощник торговец</Make_ABF_Thing_Synstruct_Assistant_Social.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Social.description>Изготовить чип помощник торговец.</Make_ABF_Thing_Synstruct_Assistant_Social.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Social.jobString>Изготавливает чип помощник торговец.</Make_ABF_Thing_Synstruct_Assistant_Social.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Mental.label>make mental assistant</Make_ABF_Thing_Synstruct_Assistant_Mental.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Mental.description>Make mental assistant.</Make_ABF_Thing_Synstruct_Assistant_Mental.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Mental.jobString>Making mental assistant.</Make_ABF_Thing_Synstruct_Assistant_Mental.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Mental.label>изготовить чип помощник психолог</Make_ABF_Thing_Synstruct_Assistant_Mental.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Mental.description>Изготовить чип помощник психолог.</Make_ABF_Thing_Synstruct_Assistant_Mental.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Mental.jobString>Изготавливает чип помощник психолог.</Make_ABF_Thing_Synstruct_Assistant_Mental.jobString>
 
-  <Make_ABF_Thing_Synstruct_Assistant_Complexity.label>make complexity assistant</Make_ABF_Thing_Synstruct_Assistant_Complexity.label>
-  <Make_ABF_Thing_Synstruct_Assistant_Complexity.description>Make complexity assistant.</Make_ABF_Thing_Synstruct_Assistant_Complexity.description>
-  <Make_ABF_Thing_Synstruct_Assistant_Complexity.jobString>Making complexity assistant.</Make_ABF_Thing_Synstruct_Assistant_Complexity.jobString>
+  <Make_ABF_Thing_Synstruct_Assistant_Complexity.label>изготовить чип комплексный помощник</Make_ABF_Thing_Synstruct_Assistant_Complexity.label>
+  <Make_ABF_Thing_Synstruct_Assistant_Complexity.description>Изготовить чип комплексный помощник.</Make_ABF_Thing_Synstruct_Assistant_Complexity.description>
+  <Make_ABF_Thing_Synstruct_Assistant_Complexity.jobString>Изготавливает чип комплексный помощник.</Make_ABF_Thing_Synstruct_Assistant_Complexity.jobString>
 
-  <Make_ABF_Thing_Synstruct_Chassis_Guardian.label>make guardian chassis</Make_ABF_Thing_Synstruct_Chassis_Guardian.label>
-  <Make_ABF_Thing_Synstruct_Chassis_Guardian.description>Make guardian chassis.</Make_ABF_Thing_Synstruct_Chassis_Guardian.description>
-  <Make_ABF_Thing_Synstruct_Chassis_Guardian.jobString>Making guardian chassis.</Make_ABF_Thing_Synstruct_Chassis_Guardian.jobString>
+  <Make_ABF_Thing_Synstruct_Chassis_Guardian.label>изготовить бронированное шасси</Make_ABF_Thing_Synstruct_Chassis_Guardian.label>
+  <Make_ABF_Thing_Synstruct_Chassis_Guardian.description>Изготовить бронированное шасси.</Make_ABF_Thing_Synstruct_Chassis_Guardian.description>
+  <Make_ABF_Thing_Synstruct_Chassis_Guardian.jobString>Изготавливает бронированное шасси.</Make_ABF_Thing_Synstruct_Chassis_Guardian.jobString>
 
-  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.label>make hydraulic chassis</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.label>
-  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.description>Make hydraulic chassis.</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.description>
-  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.jobString>Making hydraulic chassis.</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.jobString>
+  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.label>изготовить гидравлическое шасси</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.label>
+  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.description>Изготовить гидравлическое шасси.</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.description>
+  <Make_ABF_Thing_Synstruct_Chassis_Hydraulic.jobString>Изготавливает гидравлическое шасси.</Make_ABF_Thing_Synstruct_Chassis_Hydraulic.jobString>
 
-  <Make_ABF_Thing_Synstruct_Chassis_Repression.label>make repression chassis</Make_ABF_Thing_Synstruct_Chassis_Repression.label>
-  <Make_ABF_Thing_Synstruct_Chassis_Repression.description>Make repression chassis.</Make_ABF_Thing_Synstruct_Chassis_Repression.description>
-  <Make_ABF_Thing_Synstruct_Chassis_Repression.jobString>Making repression chassis.</Make_ABF_Thing_Synstruct_Chassis_Repression.jobString>
+  <Make_ABF_Thing_Synstruct_Chassis_Repression.label>изготовить подавляющее шасси</Make_ABF_Thing_Synstruct_Chassis_Repression.label>
+  <Make_ABF_Thing_Synstruct_Chassis_Repression.description>Изготовить подавляющее шасси.</Make_ABF_Thing_Synstruct_Chassis_Repression.description>
+  <Make_ABF_Thing_Synstruct_Chassis_Repression.jobString>Изготавливает подавляющее шасси.</Make_ABF_Thing_Synstruct_Chassis_Repression.jobString>
 
-  <Make_ABF_Thing_Synstruct_Chassis_Mobility.label>make mobility chassis</Make_ABF_Thing_Synstruct_Chassis_Mobility.label>
-  <Make_ABF_Thing_Synstruct_Chassis_Mobility.description>Make mobility chassis.</Make_ABF_Thing_Synstruct_Chassis_Mobility.description>
-  <Make_ABF_Thing_Synstruct_Chassis_Mobility.jobString>Making mobility chassis.</Make_ABF_Thing_Synstruct_Chassis_Mobility.jobString>
+  <Make_ABF_Thing_Synstruct_Chassis_Mobility.label>изготовить подвижное шасси</Make_ABF_Thing_Synstruct_Chassis_Mobility.label>
+  <Make_ABF_Thing_Synstruct_Chassis_Mobility.description>Изготовить подвижное шасси.</Make_ABF_Thing_Synstruct_Chassis_Mobility.description>
+  <Make_ABF_Thing_Synstruct_Chassis_Mobility.jobString>Изготавливает подвижное шасси.</Make_ABF_Thing_Synstruct_Chassis_Mobility.jobString>
 
-  <Make_ABF_Thing_Synstruct_Frame_Plasteel.label>make plasteel frame</Make_ABF_Thing_Synstruct_Frame_Plasteel.label>
-  <Make_ABF_Thing_Synstruct_Frame_Plasteel.description>Make plasteel frame.</Make_ABF_Thing_Synstruct_Frame_Plasteel.description>
-  <Make_ABF_Thing_Synstruct_Frame_Plasteel.jobString>Making plasteel frame.</Make_ABF_Thing_Synstruct_Frame_Plasteel.jobString>
+  <Make_ABF_Thing_Synstruct_Frame_Plasteel.label>изготовить пласталевый каркас</Make_ABF_Thing_Synstruct_Frame_Plasteel.label>
+  <Make_ABF_Thing_Synstruct_Frame_Plasteel.description>Изготовить пласталевый каркас.</Make_ABF_Thing_Synstruct_Frame_Plasteel.description>
+  <Make_ABF_Thing_Synstruct_Frame_Plasteel.jobString>Изготавливает пласталевый каркас.</Make_ABF_Thing_Synstruct_Frame_Plasteel.jobString>
 
-  <Make_ABF_Thing_Synstruct_Frame_Refined.label>make refined frame</Make_ABF_Thing_Synstruct_Frame_Refined.label>
-  <Make_ABF_Thing_Synstruct_Frame_Refined.description>Make refined frame.</Make_ABF_Thing_Synstruct_Frame_Refined.description>
-  <Make_ABF_Thing_Synstruct_Frame_Refined.jobString>Making refined frame.</Make_ABF_Thing_Synstruct_Frame_Refined.jobString>
+  <Make_ABF_Thing_Synstruct_Frame_Refined.label>изготовить изысканный каркас</Make_ABF_Thing_Synstruct_Frame_Refined.label>
+  <Make_ABF_Thing_Synstruct_Frame_Refined.description>Изготовить изысканный каркас.</Make_ABF_Thing_Synstruct_Frame_Refined.description>
+  <Make_ABF_Thing_Synstruct_Frame_Refined.jobString>Изготавливает изысканный каркас.</Make_ABF_Thing_Synstruct_Frame_Refined.jobString>
 
-  <Make_ABF_Thing_Synstruct_Frame_Sanitary.label>make sanitary frame</Make_ABF_Thing_Synstruct_Frame_Sanitary.label>
-  <Make_ABF_Thing_Synstruct_Frame_Sanitary.description>Make sanitary frame.</Make_ABF_Thing_Synstruct_Frame_Sanitary.description>
-  <Make_ABF_Thing_Synstruct_Frame_Sanitary.jobString>Making sanitary frame.</Make_ABF_Thing_Synstruct_Frame_Sanitary.jobString>
+  <Make_ABF_Thing_Synstruct_Frame_Sanitary.label>изготовить стерильный каркас</Make_ABF_Thing_Synstruct_Frame_Sanitary.label>
+  <Make_ABF_Thing_Synstruct_Frame_Sanitary.description>Изготовить стерильный каркас.</Make_ABF_Thing_Synstruct_Frame_Sanitary.description>
+  <Make_ABF_Thing_Synstruct_Frame_Sanitary.jobString>Изготавливает стерильный каркас.</Make_ABF_Thing_Synstruct_Frame_Sanitary.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.label>make ultra arm</Make_ABF_Thing_Synstruct_Ultrapart_Arm.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.description>Make ultra arm.</Make_ABF_Thing_Synstruct_Ultrapart_Arm.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.jobString>Making ultra arm.</Make_ABF_Thing_Synstruct_Ultrapart_Arm.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.label>изготовить утопическую руку</Make_ABF_Thing_Synstruct_Ultrapart_Arm.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.description>Изготовить утопическую руку.</Make_ABF_Thing_Synstruct_Ultrapart_Arm.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Arm.jobString>Изготавливает утопическую руку.</Make_ABF_Thing_Synstruct_Ultrapart_Arm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.label>make ultra leg</Make_ABF_Thing_Synstruct_Ultrapart_Leg.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.description>Make ultra leg.</Make_ABF_Thing_Synstruct_Ultrapart_Leg.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.jobString>Making ultra leg.</Make_ABF_Thing_Synstruct_Ultrapart_Leg.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.label>изготовить утопическую ногу</Make_ABF_Thing_Synstruct_Ultrapart_Leg.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.description>Изготовить утопическую ногу.</Make_ABF_Thing_Synstruct_Ultrapart_Leg.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Leg.jobString>Изготавливает утопическую ногу.</Make_ABF_Thing_Synstruct_Ultrapart_Leg.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>make ultra visual sensor</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>Make ultra visual sensor.</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.jobString>Making ultra visual sensor.</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>изготовить утопический оптический датчик</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>Изготовить утопический оптический датчик.</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.jobString>Изготавливает утопический оптический датчик.</Make_ABF_Thing_Synstruct_Ultrapart_VisualSensor.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>make ultra audial sensor</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>Make ultra audial sensor.</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.jobString>Making ultra audial sensor.</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>изголовью утопический звуковой датчик</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>Изготовить утопический звуковой датчик.</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.jobString>Изготавливает утопический звуковой датчик.</Make_ABF_Thing_Synstruct_Ultrapart_AudialSensor.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.label>make ultra heatsink</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.description>Make ultra heatsink.</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.jobString>Making ultra heatsink.</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.label>изготовить утопический радиатор</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.description>Изготовить утопический радиатор.</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.jobString>Изготавливает утопический радиатор.</Make_ABF_Thing_Synstruct_Ultrapart_Heatsink.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>make ultra coolant pump</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>Make ultra coolant pump.</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.jobString>Making ultra coolant pump.</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>изготовить утопический гидронасос</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>Изготовить утопический гидронасос.</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.jobString>Изготавливает утопический гидронасос.</Make_ABF_Thing_Synstruct_Ultrapart_CoolantPump.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.label>make ultra battery pack</Make_ABF_Thing_Synstruct_Ultrapart_Battery.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.description>Make ultra battery pack.</Make_ABF_Thing_Synstruct_Ultrapart_Battery.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.jobString>Making ultra battery pack.</Make_ABF_Thing_Synstruct_Ultrapart_Battery.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.label>изготовить утопический аккумулятор</Make_ABF_Thing_Synstruct_Ultrapart_Battery.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.description>Изготовить утопический аккумулятор.</Make_ABF_Thing_Synstruct_Ultrapart_Battery.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Battery.jobString>Изготавливает утопический аккумулятор.</Make_ABF_Thing_Synstruct_Ultrapart_Battery.jobString>
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.label>make ultra reactor</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.description>Make ultra reactor.</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.jobString>Making ultra reactor.</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.label>изготовить утопический реактор</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.description>Изготовить утопический реактор.</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_Reactor.jobString>Изготавливает утопический реактор.</Make_ABF_Thing_Synstruct_Ultrapart_Reactor.jobString>
 
 
   <!-- Recipe Users: FabricationBench, ABF_Thing_Synstruct_PartWorkbench -->
 
-  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>make organic charger</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>
-  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>Make organic charger.</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>
-  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.jobString>Making organic charger.</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.jobString>
+  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>изготовить органический зарядник</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.label>
+  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>Изготовить органический зарядник.</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.description>
+  <Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.jobString>Изготавливает органический зарядник.</Make_ABF_Thing_Synstruct_Ultrapart_OrganicCharger.jobString>
 
 
   <!-- Recipe Users: ABF_Thing_Synstruct_PartWorkbench -->
 
-  <Make_ABF_Thing_Synstruct_Utility_MiningArm.label>make mining arm</Make_ABF_Thing_Synstruct_Utility_MiningArm.label>
-  <Make_ABF_Thing_Synstruct_Utility_MiningArm.description>Make mining arm.</Make_ABF_Thing_Synstruct_Utility_MiningArm.description>
-  <Make_ABF_Thing_Synstruct_Utility_MiningArm.jobString>Making mining arm.</Make_ABF_Thing_Synstruct_Utility_MiningArm.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_MiningArm.label>изготовить руку бур</Make_ABF_Thing_Synstruct_Utility_MiningArm.label>
+  <Make_ABF_Thing_Synstruct_Utility_MiningArm.description>Изготовить руку бур.</Make_ABF_Thing_Synstruct_Utility_MiningArm.description>
+  <Make_ABF_Thing_Synstruct_Utility_MiningArm.jobString>Изготавливает руку бур.</Make_ABF_Thing_Synstruct_Utility_MiningArm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.label>make agriculture arm</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.label>
-  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.description>Make agriculture arm.</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.description>
-  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.jobString>Making agriculture arm.</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.label>изготовить руку садовник</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.label>
+  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.description>Изготовить руку садовник.</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.description>
+  <Make_ABF_Thing_Synstruct_Utility_AgricultureArm.jobString>Изготавливает руку садовник.</Make_ABF_Thing_Synstruct_Utility_AgricultureArm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.label>make pacification arm</Make_ABF_Thing_Synstruct_Utility_PacificationArm.label>
-  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.description>Make pacification arm.</Make_ABF_Thing_Synstruct_Utility_PacificationArm.description>
-  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.jobString>Making pacification arm.</Make_ABF_Thing_Synstruct_Utility_PacificationArm.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.label>изготовить руку усмиритель</Make_ABF_Thing_Synstruct_Utility_PacificationArm.label>
+  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.description>Изготовить руку усмиритель.</Make_ABF_Thing_Synstruct_Utility_PacificationArm.description>
+  <Make_ABF_Thing_Synstruct_Utility_PacificationArm.jobString>Изготавливает руку усмиритель.</Make_ABF_Thing_Synstruct_Utility_PacificationArm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.label>make scalpel arm</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.label>
-  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.description>Make scalpel arm.</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.description>
-  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.jobString>Making scalpel arm.</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.label>изготовить руку скальпель</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.label>
+  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.description>Изготовить руку скальпель.</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.description>
+  <Make_ABF_Thing_Synstruct_Utility_ScalpelArm.jobString>Изготавливает руку скальпель.</Make_ABF_Thing_Synstruct_Utility_ScalpelArm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Utility_RendingArm.label>make rending arm</Make_ABF_Thing_Synstruct_Utility_RendingArm.label>
-  <Make_ABF_Thing_Synstruct_Utility_RendingArm.description>Make rending arm.</Make_ABF_Thing_Synstruct_Utility_RendingArm.description>
-  <Make_ABF_Thing_Synstruct_Utility_RendingArm.jobString>Making rending arm.</Make_ABF_Thing_Synstruct_Utility_RendingArm.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_RendingArm.label>изготовить руку палач</Make_ABF_Thing_Synstruct_Utility_RendingArm.label>
+  <Make_ABF_Thing_Synstruct_Utility_RendingArm.description>Изготовить руку палач.</Make_ABF_Thing_Synstruct_Utility_RendingArm.description>
+  <Make_ABF_Thing_Synstruct_Utility_RendingArm.jobString>Изготавливает руку палач.</Make_ABF_Thing_Synstruct_Utility_RendingArm.jobString>
 
-  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.label>make unspecialized vocalizer</Make_ABF_Thing_Synstruct_Utility_Vocalizer.label>
-  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.description>Make unspecialized vocalizer.</Make_ABF_Thing_Synstruct_Utility_Vocalizer.description>
-  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.jobString>Making unspecialized vocalizer.</Make_ABF_Thing_Synstruct_Utility_Vocalizer.jobString>
+  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.label>изготовить неспециализированный вокализёр</Make_ABF_Thing_Synstruct_Utility_Vocalizer.label>
+  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.description>Изготовить неспециализированный вокализёр.</Make_ABF_Thing_Synstruct_Utility_Vocalizer.description>
+  <Make_ABF_Thing_Synstruct_Utility_Vocalizer.jobString>Изготавливает неспециализированный вокализёр.</Make_ABF_Thing_Synstruct_Utility_Vocalizer.jobString>
 
 
   <!-- Recipe Users: TableMachining, ABF_Thing_Synstruct_PartWorkbench -->
 
-  <Make_ABF_Thing_Synstruct_PartPack.label>make synstruct part pack</Make_ABF_Thing_Synstruct_PartPack.label>
-  <Make_ABF_Thing_Synstruct_PartPack.description>Make synstruct part pack.</Make_ABF_Thing_Synstruct_PartPack.description>
-  <Make_ABF_Thing_Synstruct_PartPack.jobString>Making synstruct part pack.</Make_ABF_Thing_Synstruct_PartPack.jobString>
+  <Make_ABF_Thing_Synstruct_PartPack.label>изготовить комплект синтоидных деталей</Make_ABF_Thing_Synstruct_PartPack.label>
+  <Make_ABF_Thing_Synstruct_PartPack.description>Изготовить комплект синтоидных деталей.</Make_ABF_Thing_Synstruct_PartPack.description>
+  <Make_ABF_Thing_Synstruct_PartPack.jobString>Изготавливает комплект синтоидных деталей.</Make_ABF_Thing_Synstruct_PartPack.jobString>
 
-  <Make_ABF_Thing_Synstruct_RepairStimMinor.label>make minor repair stim</Make_ABF_Thing_Synstruct_RepairStimMinor.label>
-  <Make_ABF_Thing_Synstruct_RepairStimMinor.description>Make minor repair stim.</Make_ABF_Thing_Synstruct_RepairStimMinor.description>
-  <Make_ABF_Thing_Synstruct_RepairStimMinor.jobString>Making minor repair stim.</Make_ABF_Thing_Synstruct_RepairStimMinor.jobString>
+  <Make_ABF_Thing_Synstruct_RepairStimMinor.label>изготовить лёгкий ремонтный комплект</Make_ABF_Thing_Synstruct_RepairStimMinor.label>
+  <Make_ABF_Thing_Synstruct_RepairStimMinor.description>Изготовить лёгкий ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStimMinor.description>
+  <Make_ABF_Thing_Synstruct_RepairStimMinor.jobString>Изготавливает лёгкий ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStimMinor.jobString>
 
-  <Make_ABF_Thing_Synstruct_RepairStim.label>make repair stim</Make_ABF_Thing_Synstruct_RepairStim.label>
-  <Make_ABF_Thing_Synstruct_RepairStim.description>Make repair stim.</Make_ABF_Thing_Synstruct_RepairStim.description>
-  <Make_ABF_Thing_Synstruct_RepairStim.jobString>Making repair stim.</Make_ABF_Thing_Synstruct_RepairStim.jobString>
+  <Make_ABF_Thing_Synstruct_RepairStim.label>изготовить ремонтный комплект</Make_ABF_Thing_Synstruct_RepairStim.label>
+  <Make_ABF_Thing_Synstruct_RepairStim.description>Изготовить ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStim.description>
+  <Make_ABF_Thing_Synstruct_RepairStim.jobString>Изготавливает ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStim.jobString>
 
-  <Make_ABF_Thing_Synstruct_RepairStimUltra.label>make ultra repair stim</Make_ABF_Thing_Synstruct_RepairStimUltra.label>
-  <Make_ABF_Thing_Synstruct_RepairStimUltra.description>Make ultra repair stim.</Make_ABF_Thing_Synstruct_RepairStimUltra.description>
-  <Make_ABF_Thing_Synstruct_RepairStimUltra.jobString>Making ultra repair stim.</Make_ABF_Thing_Synstruct_RepairStimUltra.jobString>
+  <Make_ABF_Thing_Synstruct_RepairStimUltra.label>изготовить утопический ремонтный комплект</Make_ABF_Thing_Synstruct_RepairStimUltra.label>
+  <Make_ABF_Thing_Synstruct_RepairStimUltra.description>Изготовить утопический ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStimUltra.description>
+  <Make_ABF_Thing_Synstruct_RepairStimUltra.jobString>Изготавливает утопический ремонтный комплект.</Make_ABF_Thing_Synstruct_RepairStimUltra.jobString>
 
 
   <!-- Recipe Users: TableMachining, ABF_Thing_Synstruct_PartWorkbench, ABF_Thing_Synstruct_PartWorkbench -->
 
-  <Make_ABF_Thing_Synstruct_RestructKitSapient.label>make sapient restruct kit</Make_ABF_Thing_Synstruct_RestructKitSapient.label>
-  <Make_ABF_Thing_Synstruct_RestructKitSapient.description>Make sapient restruct kit.</Make_ABF_Thing_Synstruct_RestructKitSapient.description>
-  <Make_ABF_Thing_Synstruct_RestructKitSapient.jobString>Making sapient restruct kit.</Make_ABF_Thing_Synstruct_RestructKitSapient.jobString>
+  <Make_ABF_Thing_Synstruct_RestructKitSapient.label>изготовить комплект реанимации синтоида</Make_ABF_Thing_Synstruct_RestructKitSapient.label>
+  <Make_ABF_Thing_Synstruct_RestructKitSapient.description>Изготовить комплект реанимации синтоида.</Make_ABF_Thing_Synstruct_RestructKitSapient.description>
+  <Make_ABF_Thing_Synstruct_RestructKitSapient.jobString>Изготовление комплекта реанимации синтоида.</Make_ABF_Thing_Synstruct_RestructKitSapient.jobString>
 
-  <Make_ABF_Thing_Synstruct_RestructKitDrone.label>make drone restruct kit</Make_ABF_Thing_Synstruct_RestructKitDrone.label>
-  <Make_ABF_Thing_Synstruct_RestructKitDrone.description>Make drone restruct kit.</Make_ABF_Thing_Synstruct_RestructKitDrone.description>
-  <Make_ABF_Thing_Synstruct_RestructKitDrone.jobString>Making drone restruct kit.</Make_ABF_Thing_Synstruct_RestructKitDrone.jobString>
+  <Make_ABF_Thing_Synstruct_RestructKitDrone.label>изготовить комплект реанимации дрона</Make_ABF_Thing_Synstruct_RestructKitDrone.label>
+  <Make_ABF_Thing_Synstruct_RestructKitDrone.description>Изготовить комплект реанимации дрона.</Make_ABF_Thing_Synstruct_RestructKitDrone.description>
+  <Make_ABF_Thing_Synstruct_RestructKitDrone.jobString>Изготовление комплекта реанимации дрона.</Make_ABF_Thing_Synstruct_RestructKitDrone.jobString>
 
 
   <!-- Recipe Users: DrugLab -->
 
-  <Make_ABF_Thing_Synstruct_CoolantPack.label>make coolant pack</Make_ABF_Thing_Synstruct_CoolantPack.label>
-  <Make_ABF_Thing_Synstruct_CoolantPack.description>Make coolant pack.</Make_ABF_Thing_Synstruct_CoolantPack.description>
-  <Make_ABF_Thing_Synstruct_CoolantPack.jobString>Making coolant pack.</Make_ABF_Thing_Synstruct_CoolantPack.jobString>
+  <Make_ABF_Thing_Synstruct_CoolantPack.label>изготовить упаковку хладагента</Make_ABF_Thing_Synstruct_CoolantPack.label>
+  <Make_ABF_Thing_Synstruct_CoolantPack.description>Изготовить упаковку хладагента.</Make_ABF_Thing_Synstruct_CoolantPack.description>
+  <Make_ABF_Thing_Synstruct_CoolantPack.jobString>Изготовление упаковки хладагента.</Make_ABF_Thing_Synstruct_CoolantPack.jobString>
 
-  <Make_ABF_Thing_Synstruct_LubricantPack.label>make lubricant pack</Make_ABF_Thing_Synstruct_LubricantPack.label>
-  <Make_ABF_Thing_Synstruct_LubricantPack.description>Make lubricant pack.</Make_ABF_Thing_Synstruct_LubricantPack.description>
-  <Make_ABF_Thing_Synstruct_LubricantPack.jobString>Making lubricant pack.</Make_ABF_Thing_Synstruct_LubricantPack.jobString>
+  <Make_ABF_Thing_Synstruct_LubricantPack.label>изготовить упаковку смазки</Make_ABF_Thing_Synstruct_LubricantPack.label>
+  <Make_ABF_Thing_Synstruct_LubricantPack.description>Изготовить упаковку смазки.</Make_ABF_Thing_Synstruct_LubricantPack.description>
+  <Make_ABF_Thing_Synstruct_LubricantPack.jobString>Изготовление упаковки смазки.</Make_ABF_Thing_Synstruct_LubricantPack.jobString>
 
 
 </LanguageData>

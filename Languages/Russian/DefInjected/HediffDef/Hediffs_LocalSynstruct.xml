@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Hediff_Synstruct_CoolantShortage.label>coolant shortage</ABF_Hediff_Synstruct_CoolantShortage.label>
-  <ABF_Hediff_Synstruct_CoolantShortage.description>This unit has insufficient coolant to fully fill its coolant lines and is shutting down to avoid catastrophic failure.\nCoolant reserves must be refilled to ensure a return to proper functionality.</ABF_Hediff_Synstruct_CoolantShortage.description>
-  <ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>minor</ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>
-  <ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>moderate</ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>
-  <ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>severe</ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>
-  <ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>extreme</ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.label>нехватка хладагента</ABF_Hediff_Synstruct_CoolantShortage.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.description>У юнита недостаточно хладагента для полного заполнения трубопроводов охлаждающей жидкости, и он отключается, чтобы избежать катастрофического исхода.\nДля восстановления работоспособности необходимо пополнить запасы хладагента.</ABF_Hediff_Synstruct_CoolantShortage.description>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>начальная</ABF_Hediff_Synstruct_CoolantShortage.stages.0.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>средний</ABF_Hediff_Synstruct_CoolantShortage.stages.1.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>серьёзная</ABF_Hediff_Synstruct_CoolantShortage.stages.2.label>
+  <ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>тяжёлая</ABF_Hediff_Synstruct_CoolantShortage.stages.3.label>
 
-  <ABF_Hediff_Synstruct_LubricantShortage.label>lubricant shortage</ABF_Hediff_Synstruct_LubricantShortage.label>
-  <ABF_Hediff_Synstruct_LubricantShortage.description>This unit has insufficient lubricant to maintain smooth part functionality, reducing exterior part efficiency and increasing the loss of coherence.\nLubricant reserves must be refilled to ensure a return to proper functionality.</ABF_Hediff_Synstruct_LubricantShortage.description>
-  <ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>minor</ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>
-  <ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>moderate</ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>
-  <ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>severe</ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>
-  <ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>extreme</ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.label>нехватка смазки</ABF_Hediff_Synstruct_LubricantShortage.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.description>У юнита недостаточно смазки для поддержания стабильной работы деталей, что снижает эффективность работы наружной части и увеличивает потери стабильности.\nДля восстановления работоспособности необходимо пополнить запасы смазки.</ABF_Hediff_Synstruct_LubricantShortage.description>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>начальная</ABF_Hediff_Synstruct_LubricantShortage.stages.0.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>средний</ABF_Hediff_Synstruct_LubricantShortage.stages.1.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>серьёзная</ABF_Hediff_Synstruct_LubricantShortage.stages.2.label>
+  <ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>тяжёлая</ABF_Hediff_Synstruct_LubricantShortage.stages.3.label>
 
-  <ABF_Hediff_Synstruct_EnhancedComplexity.label>additional memory</ABF_Hediff_Synstruct_EnhancedComplexity.label>
-  <ABF_Hediff_Synstruct_EnhancedComplexity.description>This unit has had additional memory and hardware components installed to permit greater complexity. Exceeding the standard design parameters results in power and coherence efficiency loss.</ABF_Hediff_Synstruct_EnhancedComplexity.description>
+  <ABF_Hediff_Synstruct_EnhancedComplexity.label>дополнительная память</ABF_Hediff_Synstruct_EnhancedComplexity.label>
+  <ABF_Hediff_Synstruct_EnhancedComplexity.description>У этого юнита установлена дополнительная память и прочие компоненты, что позволяет повысить его сложность. Превышение стандартных расчётных параметров приводит к потере мощности и качестве стабильности.</ABF_Hediff_Synstruct_EnhancedComplexity.description>
 
 
 </LanguageData>

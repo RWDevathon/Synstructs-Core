@@ -1,33 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Hediff_Synstruct_CoolantLoss.label>coolant loss</ABF_Hediff_Synstruct_CoolantLoss.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.description>Loss of coolant in the chassis, resulting in reduced cooling capacity and loss of finetuned motor control. Lack of circulation prevents restorative mechanites from functioning properly, leading to extended recovery times. \n\nPrioritization ensures core functionality receives sufficient coolant flow until critical levels are reached.</ABF_Hediff_Synstruct_CoolantLoss.description>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>nominal</ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>minor</ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>moderate</ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>significant</ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>threatening</ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>severe</ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>
-  <ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>critical</ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.label>потеря хладагента</ABF_Hediff_Synstruct_CoolantLoss.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.description>Потеря хладагента, приводит к снижению эффективности охлаждения всех комплектующих. Снижение уровня давления жидкости препятствует нормальному функционированию механизмов, что приводит к увеличению времени восстановления. \n\nСистема приоритизации обеспечивает ядро достаточным потоком хладагента до достижения критических уровней.</ABF_Hediff_Synstruct_CoolantLoss.description>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>слабая</ABF_Hediff_Synstruct_CoolantLoss.stages.0.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>начальная</ABF_Hediff_Synstruct_CoolantLoss.stages.1.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>средний</ABF_Hediff_Synstruct_CoolantLoss.stages.2.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>средняя</ABF_Hediff_Synstruct_CoolantLoss.stages.3.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>огромная</ABF_Hediff_Synstruct_CoolantLoss.stages.4.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>серьёзная</ABF_Hediff_Synstruct_CoolantLoss.stages.5.label>
+  <ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>критический</ABF_Hediff_Synstruct_CoolantLoss.stages.6.label>
 
-  <ABF_Hediff_Synstruct_Overheating.label>overheating</ABF_Hediff_Synstruct_Overheating.label>
-  <ABF_Hediff_Synstruct_Overheating.description>Unsafe levels of heat retention in the chassis. At minor levels, artificial units can reduce some high power/heat functionality to offset the impact. At major levels, the unit will suffer from increasing system failures. If it surpasses a critical threshold, the core will shut down and the unit will die.</ABF_Hediff_Synstruct_Overheating.description>
-  <ABF_Hediff_Synstruct_Overheating.stages.0.label>nominal</ABF_Hediff_Synstruct_Overheating.stages.0.label>
-  <ABF_Hediff_Synstruct_Overheating.stages.1.label>minute</ABF_Hediff_Synstruct_Overheating.stages.1.label>
-  <ABF_Hediff_Synstruct_Overheating.stages.2.label>minor</ABF_Hediff_Synstruct_Overheating.stages.2.label>
-  <ABF_Hediff_Synstruct_Overheating.stages.3.label>moderate</ABF_Hediff_Synstruct_Overheating.stages.3.label>
-  <ABF_Hediff_Synstruct_Overheating.stages.4.label>significant</ABF_Hediff_Synstruct_Overheating.stages.4.label>
-  <ABF_Hediff_Synstruct_Overheating.stages.5.label>severe</ABF_Hediff_Synstruct_Overheating.stages.5.label>
+  <ABF_Hediff_Synstruct_Overheating.label>перегрев</ABF_Hediff_Synstruct_Overheating.label>
+  <ABF_Hediff_Synstruct_Overheating.description>Высокая температура корпуса. При незначительном перегреве, системы контроля могут снизить частоты комплектующих с высоким уровнем тепловыделения, чтобы компенсировать температурное воздействие. Если температура продолжит подниматься, синтоид будет страдать от нарастающих системных ошибок. При превышении критического порога, ядро отключится и синтоид погибнет.</ABF_Hediff_Synstruct_Overheating.description>
+  <ABF_Hediff_Synstruct_Overheating.stages.0.label>незаметный</ABF_Hediff_Synstruct_Overheating.stages.0.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.1.label>начальный</ABF_Hediff_Synstruct_Overheating.stages.1.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.2.label>лёгкий</ABF_Hediff_Synstruct_Overheating.stages.2.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.3.label>серьёзный</ABF_Hediff_Synstruct_Overheating.stages.3.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.4.label>сильнейший</ABF_Hediff_Synstruct_Overheating.stages.4.label>
+  <ABF_Hediff_Synstruct_Overheating.stages.5.label>критический</ABF_Hediff_Synstruct_Overheating.stages.5.label>
 
-  <ABF_Hediff_Synstruct_Hypothermia.label>hypothermic reaction</ABF_Hediff_Synstruct_Hypothermia.label>
-  <ABF_Hediff_Synstruct_Hypothermia.description>While artificial parts do not suffer from frostbite like organic flesh does, cold is an existential threat to machinery. At critical levels, the unit must focus all heat generation to internal systems - effectively immobilizing it - and power drains at an alarming rate.</ABF_Hediff_Synstruct_Hypothermia.description>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.0.label>insignificant</ABF_Hediff_Synstruct_Hypothermia.stages.0.label>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.1.label>minor</ABF_Hediff_Synstruct_Hypothermia.stages.1.label>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.2.label>moderate</ABF_Hediff_Synstruct_Hypothermia.stages.2.label>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.3.label>significant</ABF_Hediff_Synstruct_Hypothermia.stages.3.label>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.4.label>threatening</ABF_Hediff_Synstruct_Hypothermia.stages.4.label>
-  <ABF_Hediff_Synstruct_Hypothermia.stages.5.label>critical</ABF_Hediff_Synstruct_Hypothermia.stages.5.label>
+  <ABF_Hediff_Synstruct_Hypothermia.label>переохлаждение</ABF_Hediff_Synstruct_Hypothermia.label>
+  <ABF_Hediff_Synstruct_Hypothermia.description>Низкая температура корпуса. Хотя механизмы не страдают от обморожения, как органическая плоть, холод представляет угрозу для комплектующих внутри корпуса. На критических уровнях, системы контроля направляют всё тепловыделение на внутренние системы, что фактически обездвиживает, а аккумулятор при охлаждении разряжается с пугающей скоростью.</ABF_Hediff_Synstruct_Hypothermia.description>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.0.label>незначительное</ABF_Hediff_Synstruct_Hypothermia.stages.0.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.1.label>начальное</ABF_Hediff_Synstruct_Hypothermia.stages.1.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.2.label>лёгкое</ABF_Hediff_Synstruct_Hypothermia.stages.2.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.3.label>серьёзное</ABF_Hediff_Synstruct_Hypothermia.stages.3.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.4.label>сильнейшее</ABF_Hediff_Synstruct_Hypothermia.stages.4.label>
+  <ABF_Hediff_Synstruct_Hypothermia.stages.5.label>критическое</ABF_Hediff_Synstruct_Hypothermia.stages.5.label>
 
 
 </LanguageData>

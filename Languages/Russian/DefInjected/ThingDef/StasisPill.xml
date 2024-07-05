@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thing_Synstruct_StasisPill.label>stasis pill</ABF_Thing_Synstruct_StasisPill.label>
-  <ABF_Thing_Synstruct_StasisPill.description>A small pill containing a slurry of highly conductive, mildly sedative synthetic chemicals. Synstructs can absorb the chemicals into their system, greatly reducing power consumption at the cost of reduced work efficiency.\n\nDesigned for long-distance travel without access to reliable power, this pill will reduce power consumption by 75% at a 50% work speed penalty. Commonly used by raiders, traders, and soldiers who value efficiency and who don't engage in labor.</ABF_Thing_Synstruct_StasisPill.description>
-  <ABF_Thing_Synstruct_StasisPill.ingestible.ingestCommandString>Take {0}</ABF_Thing_Synstruct_StasisPill.ingestible.ingestCommandString>
-  <ABF_Thing_Synstruct_StasisPill.ingestible.ingestReportString>Taking {0}.</ABF_Thing_Synstruct_StasisPill.ingestible.ingestReportString>
+  <ABF_Thing_Synstruct_StasisPill.label>Таблетка стазиса</ABF_Thing_Synstruct_StasisPill.label>
+  <ABF_Thing_Synstruct_StasisPill.description>Небольшая таблетка, содержащая суспензию, слегка успокаивающих синтетических химикатов. Синтоид может поглощать химические вещества в своей системе, значительно снижая энергопотребление за счёт снижения эффективности работы.\n\nРазработана для дальних путешествий без доступа к постоянному источнику энергии, эта таблетка снижает потребление энергии на 75% при 50% снижении скорости работы. Обычно используется пиратами, торговцами и солдатами, которые ценят эффективность и не занимаются трудом.</ABF_Thing_Synstruct_StasisPill.description>
+  <ABF_Thing_Synstruct_StasisPill.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_StasisPill.ingestible.ingestCommandString>
+  <ABF_Thing_Synstruct_StasisPill.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_StasisPill.ingestible.ingestReportString>
 
 
 </LanguageData>

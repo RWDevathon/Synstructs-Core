@@ -1,55 +1,55 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Hediff_Synstruct_Coherence_PartDecay.label>decaying part</ABF_Hediff_Synstruct_Coherence_PartDecay.label>
-  <ABF_Hediff_Synstruct_Coherence_PartDecay.description>This part of this unit has suffered significant decay and is performing suboptimally. Repairs are needed to alleviate this.</ABF_Hediff_Synstruct_Coherence_PartDecay.description>
-  <ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>a decaying part</ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.label>изношенная деталь</ABF_Hediff_Synstruct_Coherence_PartDecay.label>
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.description>Эта деталь юнита — износилась и работает неоптимально. Для её замены требуется ремонт.</ABF_Hediff_Synstruct_Coherence_PartDecay.description>
+  <ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>изношенная деталь</ABF_Hediff_Synstruct_Coherence_PartDecay.labelNoun>
 
-  <ABF_Hediff_Synstruct_Coherence_RustedPart.label>rusted part</ABF_Hediff_Synstruct_Coherence_RustedPart.label>
-  <ABF_Hediff_Synstruct_Coherence_RustedPart.description>This part has rusted. While it is not performing any noticeably worse, it is very displeasing to see, hear, and use. Repairs are needed to alleviate this.</ABF_Hediff_Synstruct_Coherence_RustedPart.description>
-  <ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>a rusted part</ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.label>ржавая деталь</ABF_Hediff_Synstruct_Coherence_RustedPart.label>
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.description>Эта деталь проржавела Хоть это и не сказывается на работоспособности, ржавые детали выглядят ужасно. Для её замены требуется ремонт.</ABF_Hediff_Synstruct_Coherence_RustedPart.description>
+  <ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>ржавая деталь</ABF_Hediff_Synstruct_Coherence_RustedPart.labelNoun>
 
-  <ABF_Hediff_Synstruct_Coherence_PowerLoss.label>part blackout</ABF_Hediff_Synstruct_Coherence_PowerLoss.label>
-  <ABF_Hediff_Synstruct_Coherence_PowerLoss.description>This part has suffered a near total power loss. While the part is still somewhat manipulatable by adjacent parts, it is severely impairing functionality and increasing power usage. Repairs can alleviate this, but it will pass on its own as mechanites repair the system.</ABF_Hediff_Synstruct_Coherence_PowerLoss.description>
-  <ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>a part blackout</ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.label>потеря энергии</ABF_Hediff_Synstruct_Coherence_PowerLoss.label>
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.description>Эта деталь — почти полностью потеряла энергоснабжение. Хотя эта деталь всё ещё может функционировать, потеря энергоснабжения негативно влияет на систему в общем и увеличивает потребление энергии. \n\nРемонт стабилизирует энергоснабжение, но проблема пройдёт только тогда, когда механиты починят деталь.</ABF_Hediff_Synstruct_Coherence_PowerLoss.description>
+  <ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>потеря энергии</ABF_Hediff_Synstruct_Coherence_PowerLoss.labelNoun>
 
-  <ABF_Hediff_Synstruct_Coherence_CoreDamage.label>core damage</ABF_Hediff_Synstruct_Coherence_CoreDamage.label>
-  <ABF_Hediff_Synstruct_Coherence_CoreDamage.description>The memory core of this unit has suffered internal physical damage and is not operating at an appropriate level. All recent skill memory of the day of the incident has been lost. This will impair learning capacity and consciousness until repaired.</ABF_Hediff_Synstruct_Coherence_CoreDamage.description>
+  <ABF_Hediff_Synstruct_Coherence_CoreDamage.label>повреждение ядра</ABF_Hediff_Synstruct_Coherence_CoreDamage.label>
+  <ABF_Hediff_Synstruct_Coherence_CoreDamage.description>Ядро получило физическое повреждение и работает неоптимально. Повреждение ядра может привести к дополнительным проблемам памяти и нарушить общую функциональность. Для нормальной работы ядра, требуется ремонт.</ABF_Hediff_Synstruct_Coherence_CoreDamage.description>
 
-  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>optical aberrations</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>
-  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>Due to poor coherence and overuse, the optical drivers in this sensor have failed and are producing severe abberrations in visual feedback for the entire unit, leading to hallucinations and misidentified entities. The unit can resolve this with enough time, or by reaching stable coherence.</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>
+  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>оптические искажения</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.label>
+  <ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>Из-за плохой стабильности эти датчики вышли из строя и создают серьёзные нарушения в визуальной обратной связи, что приводит к галлюцинациям и неправильном определении объектов. Эта проблема может решиться сама по себе, или если будет проведена стабилизация.</ABF_Hediff_Synstruct_Coherence_OpticalDriverAberrations.description>
 
-  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>joint misalignment</ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>
-  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>This part has had its joints weaken and become misaligned, leading to ungainly functionality and difficulty using it. This will lead to unpredictable and unnerving movement in melee combat, as a curious side effect, until repairs are completed.</ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>
+  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>смещение сустава</ABF_Hediff_Synstruct_Coherence_JointMisalignment.label>
+  <ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>Суставы этой детали ослабли и стали несоосными, что приводит к неуклюжести и затрудняет использование. Это приведёт к непредсказуемым движениям в ближнем бою, пока не будет завершён ремонт.</ABF_Hediff_Synstruct_Coherence_JointMisalignment.description>
 
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.label>failing coolant valves</ABF_Hediff_Synstruct_Coherence_FailingValves.label>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.description>The internal coolant valves of this unit are degrading. Over time, the chassis will lose the ability to circulate coolant, leading to severe impediments to repairs and cooling efficiency until repaired.</ABF_Hediff_Synstruct_Coherence_FailingValves.description>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>initial</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>minor</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>moderate</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>significant</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>
-  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>severe</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.label>эрозия клапанов хладагента</ABF_Hediff_Synstruct_Coherence_FailingValves.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.description>Клапаны хладагента — износились. Со временем шасси потеряет способность циркулировать хладагент, что приведёт к серьёзным последствиям и потери эффективности охлаждения.</ABF_Hediff_Synstruct_Coherence_FailingValves.description>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>незаметная</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.0.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>начальная</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.1.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>средний</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.2.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>средняя</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.3.label>
+  <ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>серьёзная</ABF_Hediff_Synstruct_Coherence_FailingValves.stages.4.label>
 
 
   <!-- Good Random Coherence Effects -->
 
-  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>practiced adaptation</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>
-  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>This unit has managed an undermaintained chassis well enough that it has come to understand how to deal with the situation, and learned a great deal about itself and existence as a whole. It is able to better learn from its experiences and efficiently deal with coherence issues for a short while.</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>
+  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>практика адаптации</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.label>
+  <ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>Юнит достаточно хорошо справился со стабилизацией шасси, чтобы понять, как справиться лучше, и узнать много нового о себе и о существовании в целом. Он может лучше учиться и эффективно решать вопросы стабилизации в течение короткого времени.</ABF_Hediff_Synstruct_Coherence_AdaptationPractice.description>
 
 
   <!-- Coherence Stage Effects -->
 
-  <ABF_Hediff_Synstruct_Coherence_CriticalStage.label>critical integrity</ABF_Hediff_Synstruct_Coherence_CriticalStage.label>
-  <ABF_Hediff_Synstruct_Coherence_CriticalStage.description>This unit is suffering from critically poor coherence and may suffer spontaneous major breakdowns or many small scale failures. The lack of coherence is also reducing overall efficiency and the chassis' ability to repair itself.</ABF_Hediff_Synstruct_Coherence_CriticalStage.description>
-  <ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>critical vulnerability</ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.label>ужасное состояние</ABF_Hediff_Synstruct_Coherence_CriticalStage.label>
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.description>Корпус юнита находится в ужасном состоянии из-за плохой стабильности и его детали могут выйти из строя. Сильно запущенный корпус более восприимчив к урону, обладает сниженной общей эффективностью и дольше восстанавливает повреждения.</ABF_Hediff_Synstruct_Coherence_CriticalStage.description>
+  <ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>критичное состояние</ABF_Hediff_Synstruct_Coherence_CriticalStage.labelNoun>
 
-  <ABF_Hediff_Synstruct_Coherence_PoorStage.label>poor integrity</ABF_Hediff_Synstruct_Coherence_PoorStage.label>
-  <ABF_Hediff_Synstruct_Coherence_PoorStage.description>This unit is suffering from poor coherence and may suffer spontaneous small scale failures if left unattended for too long. The lack of coherence is slightly reducing the chassis' ability to repair itself.</ABF_Hediff_Synstruct_Coherence_PoorStage.description>
-  <ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>minor vulnerability</ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.label>плохое состояние</ABF_Hediff_Synstruct_Coherence_PoorStage.label>
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.description>Корпус юнита находится в плохом состоянии их-зи плохой стабильности и его детали могут выйти из строя. Запущенный корпус более восприимчив к урону и дольше восстанавливает повреждения.</ABF_Hediff_Synstruct_Coherence_PoorStage.description>
+  <ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>плохое состояние</ABF_Hediff_Synstruct_Coherence_PoorStage.labelNoun>
 
-  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>high integrity</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>
-  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>This unit is benefitting from proper coherence and is immune to spontaneous part failure. The well-maintained chassis is slightly more power efficient and able to repair itself.</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>
-  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>heightened stability</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>хорошее состояние</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.label>
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>Юнита находится в хорошем состоянии из-за хорошей стабильности и его детали невосприимчивы к спонтанному выходу из строя. Ухоженный корпус выглядит довольно приятно, менее восприимчив к урону и потребляет меньше энергии.</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.description>
+  <ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>хорошее состояние</ABF_Hediff_Synstruct_Coherence_SatisfactoryStage.labelNoun>
 
 
 </LanguageData>

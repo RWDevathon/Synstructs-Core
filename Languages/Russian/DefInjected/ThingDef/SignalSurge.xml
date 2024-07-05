@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thing_Synstruct_SignalSurge.label>signal surge</ABF_Thing_Synstruct_SignalSurge.label>
-  <ABF_Thing_Synstruct_SignalSurge.description>A synthetic solution containing a wide range of highly conductive and signal-boosting compounds. Synstructs can absorb these materials into their sensor and data-transfer networks to greatly enhance control over their chassis until the compounds break down into harmless detritus. The substances are highly toxic for organic life, and should not be consumed by them.</ABF_Thing_Synstruct_SignalSurge.description>
-  <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>Take {0}</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>
-  <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>Taking {0}.</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>
+  <ABF_Thing_Synstruct_SignalSurge.label>сигнальный всплеск</ABF_Thing_Synstruct_SignalSurge.label>
+  <ABF_Thing_Synstruct_SignalSurge.description>Синтетический раствор, содержащий широкий спектр высокопроводящих и усиливающих сигнал соединений. Синтоиды могут впитывать это в свои сенсорные сети и сети передачи данных, чтобы значительно усилить контроль над своим шасси, пока соединения не распадутся на безвредные частицы. \n\nЭти вещества очень токсичны для органической жизни и не должны употребляться ею.</ABF_Thing_Synstruct_SignalSurge.description>
+  <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>
+  <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>
 
 
 </LanguageData>

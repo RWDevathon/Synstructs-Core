@@ -3,13 +3,13 @@
 
   <!-- Generic Drone -->
 
-  <ABF_Backstory_Synstruct_Childhood_GenericDrone.title>drone</ABF_Backstory_Synstruct_Childhood_GenericDrone.title>
-  <ABF_Backstory_Synstruct_Childhood_GenericDrone.titleShort>drone</ABF_Backstory_Synstruct_Childhood_GenericDrone.titleShort>
-  <ABF_Backstory_Synstruct_Childhood_GenericDrone.baseDesc>Drone "childhoods" are as uninteresting as they are often forgotten. Many creators don't bother marking the moment of awakening, and no drone knows its own history.</ABF_Backstory_Synstruct_Childhood_GenericDrone.baseDesc>
+  <ABF_Backstory_Synstruct_Childhood_GenericDrone.title>дрон</ABF_Backstory_Synstruct_Childhood_GenericDrone.title>
+  <ABF_Backstory_Synstruct_Childhood_GenericDrone.titleShort>дрон</ABF_Backstory_Synstruct_Childhood_GenericDrone.titleShort>
+  <ABF_Backstory_Synstruct_Childhood_GenericDrone.baseDesc>«Детство» дронов настолько неинтересно, что его часто забывают. Многие создатели не утруждают себя отметкой момента их пробуждения, и практически ни один такой дрон не знает собственной истории.</ABF_Backstory_Synstruct_Childhood_GenericDrone.baseDesc>
 
-  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.title>drone</ABF_Backstory_Synstruct_Adulthood_GenericDrone.title>
-  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.titleShort>drone</ABF_Backstory_Synstruct_Adulthood_GenericDrone.titleShort>
-  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.baseDesc>{PAWN_nameDef} is a drone, with no concept of personal history. {PAWN_pronoun} exists to serve.</ABF_Backstory_Synstruct_Adulthood_GenericDrone.baseDesc>
+  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.title>дрон</ABF_Backstory_Synstruct_Adulthood_GenericDrone.title>
+  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.titleShort>дрон</ABF_Backstory_Synstruct_Adulthood_GenericDrone.titleShort>
+  <ABF_Backstory_Synstruct_Adulthood_GenericDrone.baseDesc>{PAWN_nameDef} — дрон, не имеющим представления о собственной истории. {PAWN_pronoun} существует, чтобы служить.</ABF_Backstory_Synstruct_Adulthood_GenericDrone.baseDesc>
 
 
 </LanguageData>

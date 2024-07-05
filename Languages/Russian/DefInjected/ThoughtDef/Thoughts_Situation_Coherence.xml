@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thought_Synstruct_CoherenceMood.stages.0.label>abysmal coherence</ABF_Thought_Synstruct_CoherenceMood.stages.0.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.0.description>I have not been able to properly maintain my core memory and systems in far too long. My internals are encountering errors, there are critical components forced to run well past their limits, and essential systems are failing. Is this what organics feel when elderly and decrepit?</ABF_Thought_Synstruct_CoherenceMood.stages.0.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.1.label>terrible coherence</ABF_Thought_Synstruct_CoherenceMood.stages.1.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.1.description>I have not been able to properly maintain my core memory and systems for a while. There are internal system errors, and my systems are overloaded. It will take a lot of time to fix this.</ABF_Thought_Synstruct_CoherenceMood.stages.1.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.2.label>poor coherence</ABF_Thought_Synstruct_CoherenceMood.stages.2.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.2.description>My core memory and systems could use a break for health checks. A full coherence cycle would feel good right now.</ABF_Thought_Synstruct_CoherenceMood.stages.2.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.3.label>standard coherence</ABF_Thought_Synstruct_CoherenceMood.stages.3.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.3.description>All systems are reporting regular operational efficiency, with all errors falling well within standard expectations.</ABF_Thought_Synstruct_CoherenceMood.stages.3.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.4.label>decent coherence</ABF_Thought_Synstruct_CoherenceMood.stages.4.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.4.description>My core memory and systems have had sufficient breaks from service for destressing. My systems are running smoothly.</ABF_Thought_Synstruct_CoherenceMood.stages.4.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.5.label>excellent coherence</ABF_Thought_Synstruct_CoherenceMood.stages.5.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.5.description>I have had time to do a wide array of internal health checks and efficiency optimizations. My systems are running flawlessly, and all checks have been passed to the highest standards.</ABF_Thought_Synstruct_CoherenceMood.stages.5.description>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.6.label>immaculate coherence</ABF_Thought_Synstruct_CoherenceMood.stages.6.label>
-  <ABF_Thought_Synstruct_CoherenceMood.stages.6.description>I have had the time to spare for even the most unnecessary health checks and optimizations for predicting issues before they can arise. My systems are running better than the day my core first turned on! This must be the feeling that organic youths have - indestructible and in perfect health!</ABF_Thought_Synstruct_CoherenceMood.stages.6.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.0.label>ужасающая стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.0.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.0.description>Я долгое время не мог должным образом поддерживать нормальное состояние своего корпуса. Моя память и комплектующие сталкиваются с ошибками, есть критические повреждения, а основные системы выходят из строя. Это то, что испытывают органические существа, когда стареют?</ABF_Thought_Synstruct_CoherenceMood.stages.0.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.1.label>ужасная стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.1.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.1.description>Я долгое время не мог должным образом поддерживать нормальное состояние своего корпуса. Моя память и комплектующие сталкиваются с ошибками, есть критические повреждения, а основные системы выходят из строя. Чтобы исправить это, понадобится достаточно много времени.</ABF_Thought_Synstruct_CoherenceMood.stages.1.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.2.label>плохая стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.2.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.2.description>Я не могу должным образом поддерживать нормальное состояние своего корпуса. Прямо сейчас, не помешало бы повысить стабильность.</ABF_Thought_Synstruct_CoherenceMood.stages.2.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.3.label>стандартная стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.3.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.3.description>Я поддерживаю нормальное состояние своего корпуса. Все системы сообщают о хорошей эффективности, при этом все ошибки соответствуют стандартным ожиданиям.</ABF_Thought_Synstruct_CoherenceMood.stages.3.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.4.label>достойная стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.4.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.4.description>Я долгое время поддерживал хорошее состояние своих памяти и корпуса. Мои системы работают бесперебойно.</ABF_Thought_Synstruct_CoherenceMood.stages.4.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.5.label>отличная стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.5.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.5.description>Я долгое время тщательно поддерживал отличное состояние своих систем и корпуса. Мои системы работают безупречно, и все проверки прошли по самым высоким стандартам.</ABF_Thought_Synstruct_CoherenceMood.stages.5.description>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.6.label>безупречная стабильность</ABF_Thought_Synstruct_CoherenceMood.stages.6.label>
+  <ABF_Thought_Synstruct_CoherenceMood.stages.6.description>Я долгое время тщательно поддерживал безупречное состояние своего корпуса и оптимизировал внутренние процедуры. Мои системы работают лучше, чем в день, когда моё ядро впервые включилось! Это, вероятно, то самое ощущение, которое есть у органической молодёжи — не сокрушим и с идеальным здоровьем!</ABF_Thought_Synstruct_CoherenceMood.stages.6.description>
 
 
 </LanguageData>

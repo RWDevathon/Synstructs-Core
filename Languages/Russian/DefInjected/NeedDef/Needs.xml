@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Need_Synstruct_Coolant.label>coolant</ABF_Need_Synstruct_Coolant.label>
-  <ABF_Need_Synstruct_Coolant.description>Coolant is the amount of reserve coolant a pawn currently retains. If it is at zero, the pawn will swiftly shut down and become incapacitated.</ABF_Need_Synstruct_Coolant.description>
+  <ABF_Need_Synstruct_Coolant.label>хладагент</ABF_Need_Synstruct_Coolant.label>
+  <ABF_Need_Synstruct_Coolant.description>Хладагент — это количество хладагента, которое пешка сейчас хранит. Если оно равно нулю, пешка отключается и становится недееспособной.</ABF_Need_Synstruct_Coolant.description>
 
-  <ABF_Need_Synstruct_Lubricant.label>lubricant</ABF_Need_Synstruct_Lubricant.label>
-  <ABF_Need_Synstruct_Lubricant.description>Lubricant is the amount of reserve lubricant a pawn currently retains. If it is at zero, the pawn will lose coherence, manipulation, and moving efficiency.</ABF_Need_Synstruct_Lubricant.description>
+  <ABF_Need_Synstruct_Lubricant.label>смазка</ABF_Need_Synstruct_Lubricant.label>
+  <ABF_Need_Synstruct_Lubricant.description>Смазка — это количество смазки, которое пешка сейчас хранит. Если оно равно нулю, пешка теряет качество стабильности, работы и движения.</ABF_Need_Synstruct_Lubricant.description>
 
 
 </LanguageData>

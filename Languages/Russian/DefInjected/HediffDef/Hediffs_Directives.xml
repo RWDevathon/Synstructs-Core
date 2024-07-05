@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Hediff_Synstruct_Directive_Berserker.label>berserking</ABF_Hediff_Synstruct_Directive_Berserker.label>
-  <ABF_Hediff_Synstruct_Directive_Berserker.description>This drone has had berserker directives activated, giving it unnatural durability and responsiveness at the cost of increased energy consumption. Curiously, the effects of the directive outlast the amount of time the IFF sensors are offline for, meaning the unit can benefit from the directives while accepting orders after the initial berserker state terminates.</ABF_Hediff_Synstruct_Directive_Berserker.description>
+  <ABF_Hediff_Synstruct_Directive_Berserker.label>берсерк</ABF_Hediff_Synstruct_Directive_Berserker.label>
+  <ABF_Hediff_Synstruct_Directive_Berserker.description>У этого дрона активированы директивы «берсерк», придающие ему неестественную прочность и быстроту реакции ценой повышенного энергопотребления. Любопытно, что действие директивы длится дольше, чем время, в течение которого датчики «друг/враг» находятся в автономном режиме, что означает, что юнит может воспользоваться директивой, принимая приказы после завершения начального состояния директивы.</ABF_Hediff_Synstruct_Directive_Berserker.description>
 
-  <ABF_Hediff_Synstruct_Directive_Interdictor.label>interference</ABF_Hediff_Synstruct_Directive_Interdictor.label>
-  <ABF_Hediff_Synstruct_Directive_Interdictor.description>This individual has been hit by a concussive blast of overwhelming audio and radiological signals, greatly impairing their hearing and focus, as well as causing a great deal of pain.</ABF_Hediff_Synstruct_Directive_Interdictor.description>
+  <ABF_Hediff_Synstruct_Directive_Interdictor.label>помехи</ABF_Hediff_Synstruct_Directive_Interdictor.label>
+  <ABF_Hediff_Synstruct_Directive_Interdictor.description>Этот индивид подвергся сотрясающему воздействию мощного звукового и радиологического сигнала, что значительно ухудшило его слух и концентрацию внимания, а также вызвало сильную боль.</ABF_Hediff_Synstruct_Directive_Interdictor.description>
 
 
 </LanguageData>

@@ -3,86 +3,86 @@
 
   <!-- Insight Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Insight.label>install insight assistant</ABF_Recipe_Synstruct_Assistant_Insight.label>
-  <ABF_Recipe_Synstruct_Assistant_Insight.description>Installs an insight assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Insight.description>
-  <ABF_Recipe_Synstruct_Assistant_Insight.jobString>Installing insight assistant.</ABF_Recipe_Synstruct_Assistant_Insight.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Insight.label>установить чип помощник исследователь</ABF_Recipe_Synstruct_Assistant_Insight.label>
+  <ABF_Recipe_Synstruct_Assistant_Insight.description>Установить чип «помощник исследователь» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Insight.description>
+  <ABF_Recipe_Synstruct_Assistant_Insight.jobString>Устанавливает чип комплексный помощник.</ABF_Recipe_Synstruct_Assistant_Insight.jobString>
 
 
   <!-- General Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_General.label>install general assistant</ABF_Recipe_Synstruct_Assistant_General.label>
-  <ABF_Recipe_Synstruct_Assistant_General.description>Installs a general assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_General.description>
-  <ABF_Recipe_Synstruct_Assistant_General.jobString>Installing general assistant.</ABF_Recipe_Synstruct_Assistant_General.jobString>
+  <ABF_Recipe_Synstruct_Assistant_General.label>установить чип базовый помощник</ABF_Recipe_Synstruct_Assistant_General.label>
+  <ABF_Recipe_Synstruct_Assistant_General.description>Установить чип «базовый помощник» в слот помощника.</ABF_Recipe_Synstruct_Assistant_General.description>
+  <ABF_Recipe_Synstruct_Assistant_General.jobString>Устанавливает чип базовый помощник.</ABF_Recipe_Synstruct_Assistant_General.jobString>
 
 
   <!-- Combat Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Combat.label>install combat assistant</ABF_Recipe_Synstruct_Assistant_Combat.label>
-  <ABF_Recipe_Synstruct_Assistant_Combat.description>Installs a combat assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Combat.description>
-  <ABF_Recipe_Synstruct_Assistant_Combat.jobString>Installing combat assistant.</ABF_Recipe_Synstruct_Assistant_Combat.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Combat.label>установить чип боевой помощник</ABF_Recipe_Synstruct_Assistant_Combat.label>
+  <ABF_Recipe_Synstruct_Assistant_Combat.description>Установить чип «боевой помощник» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Combat.description>
+  <ABF_Recipe_Synstruct_Assistant_Combat.jobString>Устанавливает чип боевой помощник.</ABF_Recipe_Synstruct_Assistant_Combat.jobString>
 
 
   <!-- Mechanic Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Artificer.label>install artificer assistant</ABF_Recipe_Synstruct_Assistant_Artificer.label>
-  <ABF_Recipe_Synstruct_Assistant_Artificer.description>Installs a artificer assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Artificer.description>
-  <ABF_Recipe_Synstruct_Assistant_Artificer.jobString>Installing artificer assistant.</ABF_Recipe_Synstruct_Assistant_Artificer.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Artificer.label>установить чип помощник ремесленник</ABF_Recipe_Synstruct_Assistant_Artificer.label>
+  <ABF_Recipe_Synstruct_Assistant_Artificer.description>Установить чип «помощник ремесленник» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Artificer.description>
+  <ABF_Recipe_Synstruct_Assistant_Artificer.jobString>Устанавливает чип помощник ремесленник.</ABF_Recipe_Synstruct_Assistant_Artificer.jobString>
 
 
   <!-- Construction Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Construction.label>install construction assistant</ABF_Recipe_Synstruct_Assistant_Construction.label>
-  <ABF_Recipe_Synstruct_Assistant_Construction.description>Installs a construction assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Construction.description>
-  <ABF_Recipe_Synstruct_Assistant_Construction.jobString>Installing construction assistant.</ABF_Recipe_Synstruct_Assistant_Construction.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Construction.label>установить чип помощник строитель</ABF_Recipe_Synstruct_Assistant_Construction.label>
+  <ABF_Recipe_Synstruct_Assistant_Construction.description>Установить чип «помощник строитель» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Construction.description>
+  <ABF_Recipe_Synstruct_Assistant_Construction.jobString>Устанавливает чип помощник строитель.</ABF_Recipe_Synstruct_Assistant_Construction.jobString>
 
 
   <!-- Excavation Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Excavation.label>install excavator assistant</ABF_Recipe_Synstruct_Assistant_Excavation.label>
-  <ABF_Recipe_Synstruct_Assistant_Excavation.description>Installs an excavator assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Excavation.description>
-  <ABF_Recipe_Synstruct_Assistant_Excavation.jobString>Installing excavator assistant.</ABF_Recipe_Synstruct_Assistant_Excavation.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Excavation.label>установить чип помощник шахтёр</ABF_Recipe_Synstruct_Assistant_Excavation.label>
+  <ABF_Recipe_Synstruct_Assistant_Excavation.description>Установить чип «помощник шахтёр» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Excavation.description>
+  <ABF_Recipe_Synstruct_Assistant_Excavation.jobString>Устанавливает чип помощник шахтёр.</ABF_Recipe_Synstruct_Assistant_Excavation.jobString>
 
 
   <!-- Victual Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Victual.label>install victual assistant</ABF_Recipe_Synstruct_Assistant_Victual.label>
-  <ABF_Recipe_Synstruct_Assistant_Victual.description>Installs a victual assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Victual.description>
-  <ABF_Recipe_Synstruct_Assistant_Victual.jobString>Installing victual assistant.</ABF_Recipe_Synstruct_Assistant_Victual.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Victual.label>установить чип помощник повар</ABF_Recipe_Synstruct_Assistant_Victual.label>
+  <ABF_Recipe_Synstruct_Assistant_Victual.description>Установить чип «помощник повар» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Victual.description>
+  <ABF_Recipe_Synstruct_Assistant_Victual.jobString>Устанавливает чип помощник повар.</ABF_Recipe_Synstruct_Assistant_Victual.jobString>
 
 
   <!-- Cultivation Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Cultivation.label>install cultivation assistant</ABF_Recipe_Synstruct_Assistant_Cultivation.label>
-  <ABF_Recipe_Synstruct_Assistant_Cultivation.description>Installs a cultivation assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Cultivation.description>
-  <ABF_Recipe_Synstruct_Assistant_Cultivation.jobString>Installing cultivation assistant.</ABF_Recipe_Synstruct_Assistant_Cultivation.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Cultivation.label>установить чип помощник садовод</ABF_Recipe_Synstruct_Assistant_Cultivation.label>
+  <ABF_Recipe_Synstruct_Assistant_Cultivation.description>Установить чип «помощник садовод» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Cultivation.description>
+  <ABF_Recipe_Synstruct_Assistant_Cultivation.jobString>Устанавливает чип помощник садовод.</ABF_Recipe_Synstruct_Assistant_Cultivation.jobString>
 
 
   <!-- Medicine Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Medicine.label>install medicine assistant</ABF_Recipe_Synstruct_Assistant_Medicine.label>
-  <ABF_Recipe_Synstruct_Assistant_Medicine.description>Installs a medicine assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Medicine.description>
-  <ABF_Recipe_Synstruct_Assistant_Medicine.jobString>Installing medicine assistant.</ABF_Recipe_Synstruct_Assistant_Medicine.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Medicine.label>установить чип помощник медик</ABF_Recipe_Synstruct_Assistant_Medicine.label>
+  <ABF_Recipe_Synstruct_Assistant_Medicine.description>Установить чип «помощник медик» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Medicine.description>
+  <ABF_Recipe_Synstruct_Assistant_Medicine.jobString>Устанавливает чип помощник медик.</ABF_Recipe_Synstruct_Assistant_Medicine.jobString>
 
 
   <!-- Social Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Social.label>install social assistant</ABF_Recipe_Synstruct_Assistant_Social.label>
-  <ABF_Recipe_Synstruct_Assistant_Social.description>Installs a social assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Social.description>
-  <ABF_Recipe_Synstruct_Assistant_Social.jobString>Installing social assistant.</ABF_Recipe_Synstruct_Assistant_Social.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Social.label>установить чип помощник торговец</ABF_Recipe_Synstruct_Assistant_Social.label>
+  <ABF_Recipe_Synstruct_Assistant_Social.description>Установить чип «помощник торговец» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Social.description>
+  <ABF_Recipe_Synstruct_Assistant_Social.jobString>Устанавливает чип помощник торговец.</ABF_Recipe_Synstruct_Assistant_Social.jobString>
 
 
   <!-- Mental Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Mental.label>install mental assistant</ABF_Recipe_Synstruct_Assistant_Mental.label>
-  <ABF_Recipe_Synstruct_Assistant_Mental.description>Installs a mental assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Mental.description>
-  <ABF_Recipe_Synstruct_Assistant_Mental.jobString>Installing mental assistant.</ABF_Recipe_Synstruct_Assistant_Mental.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Mental.label>установить чип помощник психолог</ABF_Recipe_Synstruct_Assistant_Mental.label>
+  <ABF_Recipe_Synstruct_Assistant_Mental.description>Установить чип «помощник психолог» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Mental.description>
+  <ABF_Recipe_Synstruct_Assistant_Mental.jobString>Устанавливает чип помощник психолог.</ABF_Recipe_Synstruct_Assistant_Mental.jobString>
 
 
   <!-- Complexity Assistant -->
 
-  <ABF_Recipe_Synstruct_Assistant_Complexity.label>install complexity assistant</ABF_Recipe_Synstruct_Assistant_Complexity.label>
-  <ABF_Recipe_Synstruct_Assistant_Complexity.description>Installs a complexity assistant into the sub-core assistant slot of a unit.</ABF_Recipe_Synstruct_Assistant_Complexity.description>
-  <ABF_Recipe_Synstruct_Assistant_Complexity.jobString>Installing complexity assistant.</ABF_Recipe_Synstruct_Assistant_Complexity.jobString>
+  <ABF_Recipe_Synstruct_Assistant_Complexity.label>установить чип комплексный помощник</ABF_Recipe_Synstruct_Assistant_Complexity.label>
+  <ABF_Recipe_Synstruct_Assistant_Complexity.description>Установить чип «комплексный помощник» в слот помощника.</ABF_Recipe_Synstruct_Assistant_Complexity.description>
+  <ABF_Recipe_Synstruct_Assistant_Complexity.jobString>Устанавливает чип комплексный помощник.</ABF_Recipe_Synstruct_Assistant_Complexity.jobString>
 
 
 </LanguageData>

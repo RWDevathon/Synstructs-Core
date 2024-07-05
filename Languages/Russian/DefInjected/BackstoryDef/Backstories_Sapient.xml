@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Backstory_Synstruct_Childhood_Newboot.title>synstruct</ABF_Backstory_Synstruct_Childhood_Newboot.title>
-  <ABF_Backstory_Synstruct_Childhood_Newboot.titleShort>synstruct</ABF_Backstory_Synstruct_Childhood_Newboot.titleShort>
-  <ABF_Backstory_Synstruct_Childhood_Newboot.baseDesc>{PAWN_nameDef} first awakened on this RimWorld as an infantile intelligence.</ABF_Backstory_Synstruct_Childhood_Newboot.baseDesc>
+  <ABF_Backstory_Synstruct_Childhood_Newboot.title>синтоид</ABF_Backstory_Synstruct_Childhood_Newboot.title>
+  <ABF_Backstory_Synstruct_Childhood_Newboot.titleShort>синтоид</ABF_Backstory_Synstruct_Childhood_Newboot.titleShort>
+  <ABF_Backstory_Synstruct_Childhood_Newboot.baseDesc>{PAWN_nameDef} впервые {PAWN_gender ? познал : познала} этот мир как младенец.</ABF_Backstory_Synstruct_Childhood_Newboot.baseDesc>
 
 
 </LanguageData>

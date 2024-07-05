@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thing_Synstruct_ThermalPill.label>thermal pill</ABF_Thing_Synstruct_ThermalPill.label>
-  <ABF_Thing_Synstruct_ThermalPill.description>A synthetic chemical compound designed to reduce chassis susceptibility to adverse temperature - on both extremes. Organics will suffer severe toxic effects if they consume this.</ABF_Thing_Synstruct_ThermalPill.description>
-  <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>Take {0}</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>
-  <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>Taking {0}.</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>
+  <ABF_Thing_Synstruct_ThermalPill.label>тепловая таблетка</ABF_Thing_Synstruct_ThermalPill.label>
+  <ABF_Thing_Synstruct_ThermalPill.description>Синтетическое химическое соединение, предназначенное для снижения восприимчивости корпуса к неблагоприятным температурам, как положительным, так и отрицательным. Небезопасно для органических существ из-за токсичности.</ABF_Thing_Synstruct_ThermalPill.description>
+  <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>
+  <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>
 
 
 </LanguageData>

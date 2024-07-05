@@ -1,36 +1,36 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>defective part</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>One of my parts is suffering from an extended inefficiency. How inconvenient.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>two defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>Two of my parts are suffering from extended inefficiencies. How annoying.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>three defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>Three of my parts are suffering from extended inefficiencies. This is absurd.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>many defective parts</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>
-  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>A vast number of my parts are dysfunctional! This is ridiculous - I need repairs!</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>изношенная деталь</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>Одна из моих деталей работает некорректно. Неудобно.</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.0.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>две изношенные детали</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>Две мои детали работаю некорректно. Как раздражает!</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.1.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>три изношенные детали</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>Три мои детали работаю некорректно. Это абсурд!</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.2.description>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>множество изношенных деталей</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.label>
+  <ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>Множество моих деталей давно неисправны! Это нелепо — мне требуется ремонт!</ABF_Thought_Synstruct_Coherence_ChronicAnnoyance.stages.3.description>
 
-  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>rusted part</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>
-  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>There is rust on my frame. This is humiliating and denigrating.</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>
+  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>ржавая деталь</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>На моем корпусе ржавчина. Это низко и унизительно!</ABF_Thought_Synstruct_Coherence_RustedPart.stages.0.description>
 
-  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>optical abberrations</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>
-  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>My visual sensors are providing false information and interpretations. I can't tell what is real or not. This is extremely frustrating!</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>
+  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>оптические искажения</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.label>
+  <ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>Мои оптические датчики дают ложную информацию и интерпретации. Я не могу отличить, что реально, а что нет. Это очень расстраивает!</ABF_Thought_Synstruct_Coherence_OpticalAberrations.stages.0.description>
 
-  <ABF_Thought_Synstruct_Overclocking.stages.0.label>overclocked</ABF_Thought_Synstruct_Overclocking.stages.0.label>
-  <ABF_Thought_Synstruct_Overclocking.stages.0.description>My processor is running at an abnormally high clockrate. I can sense the strain on my hardware.</ABF_Thought_Synstruct_Overclocking.stages.0.description>
+  <ABF_Thought_Synstruct_Overclocking.stages.0.label>разогнан</ABF_Thought_Synstruct_Overclocking.stages.0.label>
+  <ABF_Thought_Synstruct_Overclocking.stages.0.description>Моё ядро работает с аномально высокой тактовой частотой. Я испытываю нагрузку на своё оборудование.</ABF_Thought_Synstruct_Overclocking.stages.0.description>
 
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>archotech whispers</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>I have an archotech implant. I cannot quite figure out why, but it feels like it is somehow displeased with me.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>archotech protests</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>I have two archotech implants. I can feel their disdain toward my very being with every passing moment.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>archotech resistance</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>I have three archotech implants. They resist my every command, as if they have a will of their own. I can hardly bear their persistent anger.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>archotech violence</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>I have four archotech implants which are actively fighting against my every thought. My every command is being turned against me. Is having them worth it?</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>archotech insurrection</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>Five. Five hostile archotech devices within my being that threaten to tear me apart if I lose focus. I cannot let them. I must hold firm. I must focus.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>archotech anarchy</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>
-  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>There's too many of these archotech devices in me to keep track of their anarchic wrath. To even think of them is to invite disaster. I have retreated to only my core memory. I do not remember what the world was like before the suffering.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>шёпот архотеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>Во мне имплантат архотек. Я не могу понять, почему, но мне кажется, что он чем-то недоволен.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.0.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>протест архотеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>Во мне два импланта архотек. С каждым мгновением я чувствую их презрение ко мне.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.1.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>стойкость арготеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>Во мне три импланта архотек. Они сопротивляются каждому моему приказу, как будто у них есть своя собственная воля. Я с трудом выношу их постоянный гнев.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.2.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>насилие архотеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>У меня четыре архотек импланта, которые активно борются с каждой моей мыслью. Каждый мой приказ оборачивается против меня. Стоит ли это того?</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.3.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>восстание архотеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>Пять. Пять враждебных архотек устройств внутри меня, которые грозят разорвать меня на части, если я потеряю концентрацию. Я не могу позволить им это... Я должен держаться... Мне нужно сосредоточиться.</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.4.description>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>анархия архотеков</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.label>
+  <ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>Во мне слишком много этих архотек устройств, чтобы уследить за их анархическим гневом. Даже думать о них — значит накликать беду. Я отступил к ядру своей памяти. Я не помню, каким был мир до страданий...</ABF_Thought_Synstruct_ArchotechImplantDissonance.stages.5.description>
 
 
 </LanguageData>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ABF_ResurrectionSuccessful>{0} was successfully reactivated to minimal capacity. The synstruct must reboot before returning to full functionality.</ABF_ResurrectionSuccessful>
+  <ABF_ResurrectionSuccessful>{0} {PAWN_gender ? был : была} успешно {PAWN_gender ? реанимирован : реанимирована}. Перед восстановлением полной функциональности, {PAWN_pronoun} {PAWN_gender ? должен : должна} перезагрузиться.</ABF_ResurrectionSuccessful>
 
-  <ABF_SelectPassionsUpToLimit>Select up to {0} passions.</ABF_SelectPassionsUpToLimit>
-  <ABF_SelectPassionsUpToLimitHeader>Choose up to {0} skills for {1_nameDef} to increase {1_possessive} passion for</ABF_SelectPassionsUpToLimitHeader>
+  <ABF_SelectPassionsUpToLimit>Выберите до {0} интересов.</ABF_SelectPassionsUpToLimit>
+  <ABF_SelectPassionsUpToLimitHeader>Выберите до {0} навыков для {1_nameDef}, чтобы увеличить {1_possessive} интерес к</ABF_SelectPassionsUpToLimitHeader>
 
 </LanguageData>

@@ -3,26 +3,26 @@
 
   <!-- Guardian -->
 
-  <ABF_Hediff_Synstruct_Chassis_Guardian.label>guardian chassis</ABF_Hediff_Synstruct_Chassis_Guardian.label>
-  <ABF_Hediff_Synstruct_Chassis_Guardian.description>A chassis designed to withstand extreme temperature variance and exude intimidation. This chassis was designed with dealing with fire - be it natural, accidental, or delivered by molotov - and all the threats that come with it. The insulatory measures also preserves the unit in extreme cold.</ABF_Hediff_Synstruct_Chassis_Guardian.description>
+  <ABF_Hediff_Synstruct_Chassis_Guardian.label>бронированное шасси</ABF_Hediff_Synstruct_Chassis_Guardian.label>
+  <ABF_Hediff_Synstruct_Chassis_Guardian.description>Шасси, разработанное для того, чтобы выдерживать экстремальные перепады температур и внушать страх. Это шасси было разработано для борьбы с огнём (природным, случайным, неважно), и всеми угрозами, которые с ним связаны. Меры изоляции также сохраняют юнита в условиях смертельного холода.</ABF_Hediff_Synstruct_Chassis_Guardian.description>
 
 
   <!-- Hydraulic -->
 
-  <ABF_Hediff_Synstruct_Chassis_Hydraulic.label>hydraulic chassis</ABF_Hediff_Synstruct_Chassis_Hydraulic.label>
-  <ABF_Hediff_Synstruct_Chassis_Hydraulic.description>A chassis designed to maximize the amount of weight the structure can safely handle for short and long term needs. The restructured chassis also allows for greatly enhanced general labor speed.</ABF_Hediff_Synstruct_Chassis_Hydraulic.description>
+  <ABF_Hediff_Synstruct_Chassis_Hydraulic.label>гидравлическое шасси</ABF_Hediff_Synstruct_Chassis_Hydraulic.label>
+  <ABF_Hediff_Synstruct_Chassis_Hydraulic.description>Шасси разработано таким образом, чтобы максимально увеличить вес, который можно безопасно выдержать. Шасси также способствует повышению эффективности при выполнении широкого спектра задач.</ABF_Hediff_Synstruct_Chassis_Hydraulic.description>
 
 
   <!-- Repression -->
 
-  <ABF_Hediff_Synstruct_Chassis_Repression.label>repression chassis</ABF_Hediff_Synstruct_Chassis_Repression.label>
-  <ABF_Hediff_Synstruct_Chassis_Repression.description>A chassis designed to selectively restrict combative capabilities. This chassis uses internal, isolated software to impede the unit's body when attempting to utilize weaponry, and is intentionally more fragile than standard chassis to reduce combat performance without impairing work capabilities.</ABF_Hediff_Synstruct_Chassis_Repression.description>
+  <ABF_Hediff_Synstruct_Chassis_Repression.label>подавляющее шасси</ABF_Hediff_Synstruct_Chassis_Repression.label>
+  <ABF_Hediff_Synstruct_Chassis_Repression.description>Шасси, разработанный для выборочного запрета боевых возможностей. Шасси использует внутреннее, изолированное программное обеспечение, для препятствия в использовании оружия, и намеренно является более хрупким, чем стандартное шасси, для снижения боевых характеристик без ухудшения рабочих возможностей.</ABF_Hediff_Synstruct_Chassis_Repression.description>
 
 
   <!-- Mobility -->
 
-  <ABF_Hediff_Synstruct_Chassis_Mobility.label>mobility chassis</ABF_Hediff_Synstruct_Chassis_Mobility.label>
-  <ABF_Hediff_Synstruct_Chassis_Mobility.description>A chassis designed and optimized for fluency and efficiency of motion. This chassis has unique design choices alongside specialized counterweights to minimize drag, maximize momentum gain and loss, and grant superior flexibility and agility.</ABF_Hediff_Synstruct_Chassis_Mobility.description>
+  <ABF_Hediff_Synstruct_Chassis_Mobility.label>мобильное шасси</ABF_Hediff_Synstruct_Chassis_Mobility.label>
+  <ABF_Hediff_Synstruct_Chassis_Mobility.description>Шасси разработан и оптимизирован для плавности и эффективности движения. Это шасси имеет уникальные конструкционные решения для минимизации сопротивления, максимально обеспечения превосходную гибкость и манёвренность.</ABF_Hediff_Synstruct_Chassis_Mobility.description>
 
 
 </LanguageData>

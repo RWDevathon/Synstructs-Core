@@ -3,65 +3,65 @@
 
   <!-- Ultra Arm -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_Arm.label>install ultra arm</ABF_Recipe_Synstruct_Ultrapart_Arm.label>
-  <ABF_Recipe_Synstruct_Ultrapart_Arm.description>Installs an advanced arm.</ABF_Recipe_Synstruct_Ultrapart_Arm.description>
-  <ABF_Recipe_Synstruct_Ultrapart_Arm.jobString>Installing advanced arm.</ABF_Recipe_Synstruct_Ultrapart_Arm.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_Arm.label>установить утопическую руку</ABF_Recipe_Synstruct_Ultrapart_Arm.label>
+  <ABF_Recipe_Synstruct_Ultrapart_Arm.description>Установить утопическую руку.</ABF_Recipe_Synstruct_Ultrapart_Arm.description>
+  <ABF_Recipe_Synstruct_Ultrapart_Arm.jobString>Устанавливает утопическую руку.</ABF_Recipe_Synstruct_Ultrapart_Arm.jobString>
 
 
   <!-- Ultra Leg -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_Leg.label>install ultra leg</ABF_Recipe_Synstruct_Ultrapart_Leg.label>
-  <ABF_Recipe_Synstruct_Ultrapart_Leg.description>Higher plasteel temperance with higher efficiency components grants this leg a significant advantage over standard issue parts.</ABF_Recipe_Synstruct_Ultrapart_Leg.description>
-  <ABF_Recipe_Synstruct_Ultrapart_Leg.jobString>Installing high power leg.</ABF_Recipe_Synstruct_Ultrapart_Leg.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_Leg.label>установить утопическую ногу</ABF_Recipe_Synstruct_Ultrapart_Leg.label>
+  <ABF_Recipe_Synstruct_Ultrapart_Leg.description>Высокая прочность пластали, и более эффективные компоненты дают этой ноге значительное преимущество перед стандартной.</ABF_Recipe_Synstruct_Ultrapart_Leg.description>
+  <ABF_Recipe_Synstruct_Ultrapart_Leg.jobString>Устанавливает утопическую ногу.</ABF_Recipe_Synstruct_Ultrapart_Leg.jobString>
 
 
   <!-- Ultra Visual Sensor -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.label>install ultra visual sensor</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.label>
-  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.description>Installs an advanced visual sensor.</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.description>
-  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.jobString>Installing advanced visual sensor.</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.label>установить утопический оптический датчик</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.label>
+  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.description>Установить утопический оптический датчик.</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.description>
+  <ABF_Recipe_Synstruct_Ultrapart_VisualSensor.jobString>Устанавливает утопический оптический датчик.</ABF_Recipe_Synstruct_Ultrapart_VisualSensor.jobString>
 
 
   <!-- Ultra Audial Sensor -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.label>install ultra audial sensor</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.label>
-  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.description>Installs an advanced audial sensor.</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.description>
-  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.jobString>Installing advanced audial sensor.</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.label>установить утопический звуковой датчик</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.label>
+  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.description>Установить утопический звуковой датчик.</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.description>
+  <ABF_Recipe_Synstruct_Ultrapart_AudialSensor.jobString>Устанавливает утопический звуковой датчик.</ABF_Recipe_Synstruct_Ultrapart_AudialSensor.jobString>
 
 
   <!-- Ultra Heatsink -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.label>install ultra heatsink</ABF_Recipe_Synstruct_Ultrapart_Heatsink.label>
-  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.description>Installs an ultra heatsink.</ABF_Recipe_Synstruct_Ultrapart_Heatsink.description>
-  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.jobString>Installing ultra heatsink.</ABF_Recipe_Synstruct_Ultrapart_Heatsink.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.label>установить утопический радиатор</ABF_Recipe_Synstruct_Ultrapart_Heatsink.label>
+  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.description>Установить утопический радиатор.</ABF_Recipe_Synstruct_Ultrapart_Heatsink.description>
+  <ABF_Recipe_Synstruct_Ultrapart_Heatsink.jobString>Устанавливает утопический радиатор.</ABF_Recipe_Synstruct_Ultrapart_Heatsink.jobString>
 
 
   <!-- Ultra Coolant Pump -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.label>install ultra coolant pump</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.label>
-  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.description>Installs an ultra coolant pump.</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.description>
-  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.jobString>Installing ultra coolant pump.</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.label>установить утопический гидронасос</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.label>
+  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.description>Установить утопический гидронасос.</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.description>
+  <ABF_Recipe_Synstruct_Ultrapart_CoolantPump.jobString>Устанавливает утопический гидронасос.</ABF_Recipe_Synstruct_Ultrapart_CoolantPump.jobString>
 
 
   <!-- Ultra Battery -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_Battery.label>install ultra battery pack</ABF_Recipe_Synstruct_Ultrapart_Battery.label>
-  <ABF_Recipe_Synstruct_Ultrapart_Battery.description>Installs an ultra battery pack.</ABF_Recipe_Synstruct_Ultrapart_Battery.description>
-  <ABF_Recipe_Synstruct_Ultrapart_Battery.jobString>Installing ultra battery pack.</ABF_Recipe_Synstruct_Ultrapart_Battery.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_Battery.label>установить утопический аккумулятор</ABF_Recipe_Synstruct_Ultrapart_Battery.label>
+  <ABF_Recipe_Synstruct_Ultrapart_Battery.description>Установить утопический аккумулятор.</ABF_Recipe_Synstruct_Ultrapart_Battery.description>
+  <ABF_Recipe_Synstruct_Ultrapart_Battery.jobString>Устанавливает утопический аккумулятор.</ABF_Recipe_Synstruct_Ultrapart_Battery.jobString>
 
 
   <!-- Ultra Reactor -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_Reactor.label>install ultra reactor</ABF_Recipe_Synstruct_Ultrapart_Reactor.label>
-  <ABF_Recipe_Synstruct_Ultrapart_Reactor.description>Installs an ultra reactor.</ABF_Recipe_Synstruct_Ultrapart_Reactor.description>
-  <ABF_Recipe_Synstruct_Ultrapart_Reactor.jobString>Installing ultra reactor.</ABF_Recipe_Synstruct_Ultrapart_Reactor.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_Reactor.label>установить утопический реактор</ABF_Recipe_Synstruct_Ultrapart_Reactor.label>
+  <ABF_Recipe_Synstruct_Ultrapart_Reactor.description>Установить утопический реактор.</ABF_Recipe_Synstruct_Ultrapart_Reactor.description>
+  <ABF_Recipe_Synstruct_Ultrapart_Reactor.jobString>Устанавливает утопический реактор.</ABF_Recipe_Synstruct_Ultrapart_Reactor.jobString>
 
 
   <!-- Organic Charger -->
 
-  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.label>install organic charger</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.label>
-  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.description>Installs an organic charger.</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.description>
-  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.jobString>Installing organic charger.</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.jobString>
+  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.label>установить органический зарядник</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.label>
+  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.description>Установить органический зарядник.</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.description>
+  <ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.jobString>Устанавливает органический зарядник.</ABF_Recipe_Synstruct_Ultrapart_OrganicCharger.jobString>
 
 
 </LanguageData>
