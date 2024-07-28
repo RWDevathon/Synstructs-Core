@@ -2,5 +2,6 @@
 <LanguageData>
 
   <ABF_CoherenceNeedMissing>{0} не требует повышение стабильности.</ABF_CoherenceNeedMissing>
+  <ABF_SynstructsCannotUseThis>Синтоиды не могут это использовать.</ABF_SynstructsCannotUseThis>
 
 </LanguageData>

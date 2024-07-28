@@ -9,7 +9,7 @@
   <ABF_Hediff_Synstruct_Toxicated.stages.3.label>средняя</ABF_Hediff_Synstruct_Toxicated.stages.3.label>
   <ABF_Hediff_Synstruct_Toxicated.stages.4.label>тяжёлая</ABF_Hediff_Synstruct_Toxicated.stages.4.label>
 
-  <ABF_Hediff_Synstruct_ThermalPill.label>Стабилизатор температуры</ABF_Hediff_Synstruct_ThermalPill.label>
+  <ABF_Hediff_Synstruct_ThermalPill.label>стабилизатор температуры</ABF_Hediff_Synstruct_ThermalPill.label>
   <ABF_Hediff_Synstruct_ThermalPill.description>Синтетическое химическое соединение, предназначенное для снижения восприимчивости шасси к неблагоприятным температурам, как положительным, так и отрицательным</ABF_Hediff_Synstruct_ThermalPill.description>
   <ABF_Hediff_Synstruct_ThermalPill.stages.0.label>незначительное</ABF_Hediff_Synstruct_ThermalPill.stages.0.label>
   <ABF_Hediff_Synstruct_ThermalPill.stages.1.label>начальная</ABF_Hediff_Synstruct_ThermalPill.stages.1.label>

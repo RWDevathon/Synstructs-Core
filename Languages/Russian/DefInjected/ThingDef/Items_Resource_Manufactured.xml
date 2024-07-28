@@ -22,7 +22,7 @@
   <!-- Ultra Repair Stim -->
 
   <ABF_Thing_Synstruct_RepairStimUltra.label>утопический ремонтный комплект</ABF_Thing_Synstruct_RepairStimUltra.label>
-  <ABF_Thing_Synstruct_RepairStimUltra.description>Сверхсовременный ремкомплект, содержит массив высокотехнологичных механитов и инструменты для аварийного и мастерского ремонта. Relatively uncommon outside Glitterworlds, kits like these are highly prized by artificers and any self-respecting synstruct. Высокотехнологичные механиты могут починить любые, даже очень сложные повреждения.</ABF_Thing_Synstruct_RepairStimUltra.description>
+  <ABF_Thing_Synstruct_RepairStimUltra.description>Сверхсовременный ремкомплект, содержит массив высокотехнологичных механитов и инструменты для аварийного и мастерского ремонта. Относительно редкие, такие ремкомплекты высоко ценятся любым уважающим себя синтоидом. Высокотехнологичные механиты могут починить любые, даже очень сложные повреждения.</ABF_Thing_Synstruct_RepairStimUltra.description>
 
 
   <!-- Resurrection Kit for sapient synstructs -->
@@ -35,7 +35,7 @@
   <!-- Resurrection Kit for drone synstructs -->
 
   <ABF_Thing_Synstruct_RestructKitDrone.label>комплект реанимации дрона</ABF_Thing_Synstruct_RestructKitDrone.label>
-  <ABF_Thing_Synstruct_RestructKitDrone.description>Одноразовый набор инструментов и компонентов, специально разработанных для восстановления и реставрации утраченной личности и сознания синтоида. Благодаря тому, что это именно специализированный комплект, оно бесполезен для реанимации не синтоидов. Синтоиды, у которых разрушено ядро, не могут быть восстановлены, но этот комплект всё равно понадобятся для реконструкции тела.\n\nСинтоды, воскрешённые с помощью этого комплекта, должны пройти процедуру перезапуска, чтобы вернуться к полной функциональности.</ABF_Thing_Synstruct_RestructKitDrone.description>
+  <ABF_Thing_Synstruct_RestructKitDrone.description>Одноразовый набор инструментов и компонентов, предназначенный для восстановления работоспособности большинства дронов. Инструменты слишком просты, чтобы восстановить интеллект синтоидов, и не могут быть использованы на них.\n\nСинтоды, воскрешённые с помощью этого комплекта, должны пройти процедуру перезапуска, чтобы вернуться к полной функциональности.</ABF_Thing_Synstruct_RestructKitDrone.description>
   <ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>Реанимировать дрона</ABF_Thing_Synstruct_RestructKitDrone.comps.1.useLabel>
 
 
