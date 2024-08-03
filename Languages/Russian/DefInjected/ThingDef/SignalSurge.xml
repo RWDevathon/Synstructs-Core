@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ABF_Thing_Synstruct_SignalSurge.label>сигнальный всплеск</ABF_Thing_Synstruct_SignalSurge.label>
-  <ABF_Thing_Synstruct_SignalSurge.description>Синтетический раствор, содержащий широкий спектр высокопроводящих и усиливающих сигнал соединений. Синтоиды могут впитывать это в свои сенсорные сети и сети передачи данных, чтобы значительно усилить контроль над своим шасси, пока соединения не распадутся на безвредные частицы. \n\nЭти вещества очень токсичны для органической жизни и не должны употребляться ею.</ABF_Thing_Synstruct_SignalSurge.description>
+  <ABF_Thing_Synstruct_SignalSurge.description>Синтетический раствор, содержащий широкий спектр высокопроводящих и усиливающих сигнал соединений. Синтоиды могут впитывать это в свои сенсорные сети и сети передачи данных, чтобы значительно усилить контроль над своим шасси, пока соединения не распадутся на безвредные частицы.\n\nЭти вещества очень токсичны для органической жизни и не должны употребляться ею.</ABF_Thing_Synstruct_SignalSurge.description>
   <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestCommandString>
   <ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_SignalSurge.ingestible.ingestReportString>
 

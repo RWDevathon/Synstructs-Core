@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ABF_Thing_Synstruct_ThermalPill.label>тепловая таблетка</ABF_Thing_Synstruct_ThermalPill.label>
-  <ABF_Thing_Synstruct_ThermalPill.description>Синтетическое химическое соединение, предназначенное для снижения восприимчивости корпуса к неблагоприятным температурам, как положительным, так и отрицательным. Небезопасно для органических существ из-за токсичности.</ABF_Thing_Synstruct_ThermalPill.description>
+  <ABF_Thing_Synstruct_ThermalPill.description>Синтетическое химическое соединение, предназначенное для снижения восприимчивости корпуса к неблагоприятным температурам, как положительным, так и отрицательным.\n\nЭти соединения очень токсичны для органической жизни и не должны употребляться ею.</ABF_Thing_Synstruct_ThermalPill.description>
   <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>Принять {0}</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestCommandString>
   <ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>Принимает {0}.</ABF_Thing_Synstruct_ThermalPill.ingestible.ingestReportString>
 
