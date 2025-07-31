@@ -15,6 +15,10 @@ namespace ArtificialBeings
             }
             set
             {
+                if (value == Deactivated)
+                {
+                    return;
+                }
                 if (pawn.Spawned)
                 {
                     if (Deactivated)

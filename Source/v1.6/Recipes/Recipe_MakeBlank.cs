@@ -8,7 +8,7 @@ namespace ArtificialBeings
     {
         public override bool AvailableOnNow(Thing thing, BodyPartRecord part = null)
         {
-            if (!(thing is Pawn pawn) ||  !base.AvailableOnNow(pawn))
+            if (!(thing is Pawn pawn) || !base.AvailableOnNow(pawn) || !pawn.RaceProps.Humanlike)
             {
                 return false;
             }
@@ -19,7 +19,7 @@ namespace ArtificialBeings
 
         public override bool CompletableEver(Pawn surgeryTarget)
         {
-            if (!(surgeryTarget is Pawn pawn) || !base.AvailableOnNow(pawn))
+            if (!(surgeryTarget is Pawn pawn) || !base.AvailableOnNow(pawn) || !pawn.RaceProps.Humanlike)
             {
                 return false;
             }
@@ -33,7 +33,10 @@ namespace ArtificialBeings
         {
             base.ApplyOnPawn(pawn, part, billDoer, ingredients, bill);
 
-            SC_Utils.Duplicate(SC_Utils.GetBlank(), pawn, ABF_Utils.IsArtificialSapient(pawn));
+            if (pawn.RaceProps.Humanlike)
+            {
+                SC_Utils.Duplicate(SC_Utils.GetBlank(), pawn, ABF_Utils.IsArtificialSapient(pawn));
+            }
             pawn.GetComp<CompArtificialPawn>().State = ABF_ArtificialState.Blank;
 
             // Ensure the pawn is disabled as it is blank.

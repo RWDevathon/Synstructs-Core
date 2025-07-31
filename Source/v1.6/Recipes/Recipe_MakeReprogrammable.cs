@@ -8,7 +8,7 @@ namespace ArtificialBeings
     {
         public override bool AvailableOnNow(Thing thing, BodyPartRecord part = null)
         {
-            if (!(thing is Pawn pawn) || !base.AvailableOnNow(pawn))
+            if (!(thing is Pawn pawn) || !base.AvailableOnNow(pawn) || !pawn.RaceProps.Humanlike)
             {
                 return false;
             }
@@ -18,7 +18,7 @@ namespace ArtificialBeings
 
         public override bool CompletableEver(Pawn surgeryTarget)
         {
-            if (!(surgeryTarget is Pawn pawn) || !base.AvailableOnNow(pawn))
+            if (!(surgeryTarget is Pawn pawn) || !base.AvailableOnNow(pawn) || !pawn.RaceProps.Humanlike)
             {
                 return false;
             }
