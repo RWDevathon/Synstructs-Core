@@ -5,7 +5,7 @@
         <defName>ABF_WorkGiver_Synstruct_AssembleSynstruct</defName>
         <label>assemble synstructs at cradle</label>
         <giverClass>WorkGiver_DoBill</giverClass>
-        <workType>ABF_WorkType_Artificial_Artificer</workType>
+        <workType>Smithing</workType>
         <priorityInType>10</priorityInType>
         <fixedBillGiverDefs>
           <li>ABF_Thing_Synstruct_Cradle</li>
@@ -22,7 +22,7 @@
         <defName>ABF_WorkGiver_Synstruct_ManufactureParts</defName>
         <label>assemble synstruct parts at parts workbench</label>
         <giverClass>WorkGiver_DoBill</giverClass>
-        <workType>ABF_WorkType_Artificial_Artificer</workType>
+        <workType>Smithing</workType>
         <priorityInType>5</priorityInType>
         <fixedBillGiverDefs>
           <li>ABF_Thing_Synstruct_PartWorkbench</li>
