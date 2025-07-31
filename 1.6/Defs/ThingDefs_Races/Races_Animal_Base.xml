@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-	<ThingDef Name="ABF_Thing_Synstruct_AnimalBase" ParentName="AnimalThingBase" Abstract="True">
+	<ThingDef Name="ABF_Thing_Synstruct_AnimalBase" ParentName="BasePawn" Abstract="True">
 		<statBases>
 			<Flammability>0</Flammability>
             <ToxicResistance>1</ToxicResistance>
@@ -15,14 +15,21 @@
 		</statBases>
 		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
 		<race>
+            <thinkTreeMain>Animal</thinkTreeMain>
+            <thinkTreeConstant>AnimalConstant</thinkTreeConstant>
+            <nameGenerator>NamerAnimalGenericMale</nameGenerator>
+            <nameGeneratorFemale>NamerAnimalGenericFemale</nameGeneratorFemale>
+            <renderTree>Animal</renderTree>
 			<fleshType>ABF_FleshType_Synstruct_Base</fleshType>
 			<bloodDef>ABF_Thing_Synstruct_CoolantFilth</bloodDef>
+            <bloodSmearDef>Filth_BloodSmear</bloodSmearDef>
 			<hasGenders>false</hasGenders>
             <packAnimal>false</packAnimal>
 			<herdAnimal>false</herdAnimal>
             <herdMigrationAllowed>false</herdMigrationAllowed>
 			<predator>false</predator>
             <canBePredatorPrey>false</canBePredatorPrey>
+            <canBecomeShambler>false</canBecomeShambler>
 			<foodType>None</foodType>
             <trainability>None</trainability>
 			<manhunterOnDamageChance>0</manhunterOnDamageChance>
@@ -45,6 +52,23 @@
                 </points>
             </ageGenerationCurve>
 		</race>
+        <!-- BasePawn has a bunch of ITabs that Synstructs would never need, like genes, that should be hidden. -->
+        <inspectorTabs Inherit="False">
+            <li>ITab_Pawn_Health</li>
+            <li>ITab_Pawn_Needs</li>
+            <li>ITab_Pawn_Social</li>
+            <li>ITab_Pawn_Training</li>
+            <li>ITab_Pawn_FormingCaravan</li>
+            <li>ITab_Pawn_Gear</li>
+            <li>ITab_Pawn_Log</li>
+        </inspectorTabs>
+        <thingCategories>
+            <li>Animals</li>
+        </thingCategories>
+        <recipes>
+            <li>AdministerMechSerumHealer</li>
+            <li MayRequire="Ludeon.RimWorld.Odyssey">RemovePorcupineQuill</li>
+        </recipes>
         <comps>
             <li>
                 <compClass>ArtificialBeings.CompArtificialPawn</compClass>

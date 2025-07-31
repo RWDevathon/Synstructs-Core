@@ -249,9 +249,24 @@
                 <li>ABF_HediffGiverSet_Synstruct_TemperatureVulnerable</li>
 			</hediffGiverSets>
 		</race>
-        <inspectorTabs>
+        <!-- BasePawn has a bunch of ITabs that Synstructs would never need, like genes, that should be hidden. -->
+        <inspectorTabs Inherit="False">
+            <li>ITab_Pawn_Health</li>
+            <li>ITab_Pawn_Needs</li>
+            <li>ITab_Pawn_Character</li>
+            <li>ITab_Pawn_Social</li>
+            <li>ITab_Pawn_Guest</li>
+            <li>ITab_Pawn_Prisoner</li>
+            <li MayRequire="Ludeon.RimWorld.Ideology">ITab_Pawn_Slave</li>
+            <li>ITab_Pawn_FormingCaravan</li>
+            <li>ITab_Pawn_Gear</li>
+            <li>ITab_Pawn_Log</li>
             <li>ArtificialBeings.ITab_Programming</li>
         </inspectorTabs>
+        <recipes>
+            <li>AdministerMechSerumHealer</li>
+            <li MayRequire="Ludeon.RimWorld.Odyssey">RemovePorcupineQuill</li>
+        </recipes>
         <comps>
             <li>
                 <compClass>ArtificialBeings.CompArtificialPawn</compClass>
