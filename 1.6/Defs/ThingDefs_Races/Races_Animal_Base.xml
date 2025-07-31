@@ -9,8 +9,6 @@
 			<MeatAmount>0</MeatAmount>
 			<LeatherAmount>0</LeatherAmount>
             <PainShockThreshold>1</PainShockThreshold>
-			<ComfyTemperatureMin>-40</ComfyTemperatureMin>
-			<ComfyTemperatureMax>120</ComfyTemperatureMax>
             <Wildness>0</Wildness>
 		</statBases>
 		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
