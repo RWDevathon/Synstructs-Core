@@ -25,7 +25,7 @@ namespace ArtificialBeings
         {
             get
             {
-                return (0.125f * (Mathf.Max(cachedPawnsInRoomCount, 1f) - 1f) / Mathf.Max(cachedActiveChargersInRoomCount, 1f)) + 1;
+                return Mathf.Max((0.125f * (cachedPawnsInRoomCount - cachedActiveChargersInRoomCount) / cachedActiveChargersInRoomCount) + 1f, 1f);
             }
         }
 
@@ -82,8 +82,9 @@ namespace ArtificialBeings
             {
                 cachedPawnEnergyConsumption += GetChargePerDayForPawn(pawn);
             }
-            cachedPowerConsumption = cachedPawnEnergyConsumption * PowerConsumptionModifier;
-            cachedHeatGeneration = 0.5f * cachedPawnsInRoomCount;
+            float powerConsumptionModifier = PowerConsumptionModifier;
+            cachedPowerConsumption = cachedPawnEnergyConsumption * powerConsumptionModifier;
+            cachedHeatGeneration = 0.005f * cachedPowerConsumption; // Generate one heat per second for every 200 Watts of power consumption.
         }
 
         public override void DoChargePulse()
