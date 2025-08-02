@@ -192,7 +192,9 @@
     <Compile Include="Components\SC_MapComponent.cs" />
     <Compile Include="Components\ThingComps\CompAssignableToPawn_EnergyReservoir.cs" />
     <Compile Include="Components\ThingComps\CompDraftableSynstructAnimal.cs" />
+    <Compile Include="Components\ThingComps\CompPowerGridAccessPoint.cs" />
     <Compile Include="Components\ThingComps\CompEnergyReservoir_Powered.cs" />
+    <Compile Include="Components\ThingComps\CompProperties_PowerGridAccessPoint.cs" />
     <Compile Include="Components\ThingComps\CompProperties_EnergyReservoir.cs" />
     <Compile Include="Components\ThingComps\CompProperties_SynstructStimulator.cs" />
     <Compile Include="Components\ThingComps\CompProperties_RoomCharger.cs" />

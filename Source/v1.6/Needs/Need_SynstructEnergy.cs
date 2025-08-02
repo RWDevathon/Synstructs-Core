@@ -87,6 +87,10 @@ namespace ArtificialBeings
             {
                 return new Job(ABF_JobDefOf.ABF_Job_Synstruct_ChargeSelf, new LocalTargetInfo(reservoir));
             }
+            if (SC_Utils.GetAccessPoint(pawn) is Thing point)
+            {
+                return new Job(ABF_JobDefOf.ABF_Job_Synstruct_ChargeSelf, new LocalTargetInfo(point));
+            }
             return base.GetReplenishJob();
         }
 

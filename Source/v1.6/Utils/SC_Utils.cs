@@ -65,7 +65,30 @@ namespace ArtificialBeings
                 return null;
             }
 
-            return GenClosest.ClosestThingReachable(user.PositionHeld, user.MapHeld, ThingRequest.ForGroup(ThingRequestGroup.BuildingArtificial), PathEndMode.Touch, TraverseParms.For(user), 9999f, (Thing b) => b.TryGetComp<CompEnergyReservoir>() is CompEnergyReservoir reservoir && reservoir.AutomaticallyUsableFor(user), user.Map.GetComponent<SC_MapComponent>().reservoirs);
+            HashSet<ThingWithComps> reservoirs = user.Map.GetComponent<SC_MapComponent>().reservoirs;
+            if (reservoirs.NullOrEmpty())
+            {
+                return null;
+            }
+
+            return GenClosest.ClosestThingReachable(user.PositionHeld, user.MapHeld, ThingRequest.ForGroup(ThingRequestGroup.BuildingArtificial), PathEndMode.Touch, TraverseParms.For(user), 9999f, (Thing b) => b.TryGetComp<CompEnergyReservoir>() is CompEnergyReservoir reservoir && reservoir.AutomaticallyUsableFor(user), reservoirs);
+        }
+
+        // Locate the nearest available power grid access point for the given pawn user. 
+        public static Thing GetAccessPoint(Pawn user)
+        {
+            if (user.Map == null)
+            {
+                return null;
+            }
+
+            HashSet<ThingWithComps> accessPoints = user.Map.GetComponent<SC_MapComponent>().accessPoints;
+            if (accessPoints.NullOrEmpty())
+            {
+                return null;
+            }
+
+            return GenClosest.ClosestThingReachable(user.PositionHeld, user.MapHeld, ThingRequest.ForGroup(ThingRequestGroup.BuildingArtificial), PathEndMode.Touch, TraverseParms.For(user), 9999f, (Thing b) => b.TryGetComp<CompPowerGridAccessPoint>() is CompPowerGridAccessPoint accessPoint && accessPoint.Usable, accessPoints);
         }
 
         /* === HEALTH UTILITIES === */

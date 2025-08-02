@@ -9,6 +9,8 @@ namespace ArtificialBeings
 
         public HashSet<ThingWithComps> reservoirs = new HashSet<ThingWithComps>();
 
+        public HashSet<ThingWithComps> accessPoints = new HashSet<ThingWithComps>();
+
         public SC_MapComponent(Map map) : base(map)
         {
         }
