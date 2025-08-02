@@ -80,10 +80,15 @@ namespace ArtificialBeings
             cachedPawnEnergyConsumption = 0;
             foreach (Pawn pawn in roomPawns)
             {
-                cachedPawnEnergyConsumption += GetChargePerDayForPawn(pawn);
+                float chargeRate = GetChargePerDayForPawn(pawn);
+                cachedPawnEnergyConsumption += chargeRate;
+                if (chargeRate <= 0f)
+                {
+                    cachedPawnsInRoomCount--;
+                }
             }
             float powerConsumptionModifier = PowerConsumptionModifier;
-            cachedPowerConsumption = cachedPawnEnergyConsumption * powerConsumptionModifier;
+            cachedPowerConsumption = Mathf.Max(compPowerTrader.Props.PowerConsumption, cachedPawnEnergyConsumption * powerConsumptionModifier);
             cachedHeatGeneration = 0.005f * cachedPowerConsumption; // Generate one heat per second for every 200 Watts of power consumption.
         }
 
@@ -122,7 +127,7 @@ namespace ArtificialBeings
 
             foreach (Pawn pawn in chargingPawns)
             {
-                if (pawn.needs?.TryGetNeed(ABF_NeedDefOf.ABF_Need_Synstruct_Energy) is Need_SynstructEnergy need)
+                if (pawn.needs?.TryGetNeed(ABF_NeedDefOf.ABF_Need_Synstruct_Energy) is Need_SynstructEnergy need && !(need.CurLevelPercentage >= 1 && need.IsStopped))
                 {
                     need.CurLevel += GetChargePerDayForPawn(pawn) / GenDate.TicksPerDay * effectiveTicks;
                 }
@@ -141,14 +146,23 @@ namespace ArtificialBeings
         // Depending on when this is called, it may differ between when used to recalculate caches versus doing charge pulses, due to chargers going offline or pawn energy consumption changing.
         public override float GetChargePerDayForPawn(Pawn pawn)
         {
-            float toChargeForPawn = pawn.GetStatValue(ABF_StatDefOf.ABF_Stat_Synstruct_EnergyConsumption);
-            // If the pawn has less than 90% of its need filled, this building should attempt to charge it up.
-            if (pawn.needs.TryGetNeed(ABF_NeedDefOf.ABF_Need_Synstruct_Energy) is Need_SynstructEnergy energyNeed && energyNeed.CurLevelPercentage < 0.9f)
+            if (pawn.needs.TryGetNeed(ABF_NeedDefOf.ABF_Need_Synstruct_Energy) is Need_SynstructEnergy energyNeed)
             {
-                toChargeForPawn *= 1.5f;
+                if (energyNeed.CurLevelPercentage >= 1 && energyNeed.IsStopped)
+                {
+                    return 0f;
+                }
+
+                float toChargeForPawn = pawn.GetStatValue(ABF_StatDefOf.ABF_Stat_Synstruct_EnergyConsumption);
+                // If the pawn has less than 90% of its need filled, this building should attempt to charge it up.
+                if (energyNeed.CurLevelPercentage < 0.9f)
+                {
+                    toChargeForPawn *= 1.5f;
+                }
+                // Charging should be split evenly between chargers, and should never exceed this building's maximum charge rate per pawn.
+                return Mathf.Min(toChargeForPawn / Mathf.Max(cachedActiveChargersInRoomCount, 1), Props.maxChargeRatePerPawnPerDay);
             }
-            // Charging should be split evenly between chargers, and should never exceed this building's maximum charge rate per pawn.
-            return Mathf.Min(toChargeForPawn / Mathf.Max(cachedActiveChargersInRoomCount, 1), Props.maxChargeRatePerPawnPerDay);
+            return 0f;
         }
     }
 }

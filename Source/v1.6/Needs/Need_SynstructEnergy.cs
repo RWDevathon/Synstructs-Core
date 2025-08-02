@@ -29,6 +29,9 @@ namespace ArtificialBeings
         {
         }
 
+        // IsFrozen is protected instead of public.
+        public virtual bool IsStopped => IsFrozen;
+
         public override void SetInitialLevel()
         {
             CurLevelPercentage = 1.0f;
