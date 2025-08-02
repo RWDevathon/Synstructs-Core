@@ -136,11 +136,11 @@
         <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
     </ThingDef>
 
-    <!-- Enerport -->
+    <!-- Powerjack -->
     <ThingDef ParentName="BuildingBase">
-        <defName>ABF_Thing_Synstruct_Enerport</defName>
-        <label>enerport</label>
-        <description>A specialized docking port for synstructs to swiftly charge from a power network's batteries, albeit at a significant efficiency loss.</description>
+        <defName>ABF_Thing_Synstruct_Powerjack</defName>
+        <label>powerjack</label>
+        <description>A specialized power jack for synstructs to swiftly charge from an energy network's batteries, albeit at a significant efficiency loss.</description>
         <passability>PassThroughOnly</passability>
         <pathCost>20</pathCost>
         <blockWind>false</blockWind>
