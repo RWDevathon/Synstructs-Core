@@ -97,7 +97,7 @@
     <HediffDef>
         <defName>ABF_Hediff_Synstruct_Hypothermia</defName>
         <label>hypothermic reaction</label>
-        <description>While artificial parts do not suffer from frostbite like organic flesh does, cold is an existential threat to machinery. At critical levels, the unit must focus all heat generation to internal systems and power drains at an alarming rate. If the internal mechanisms become freeze, the sytsem will fail and the unit will perish.</description>
+        <description>Hazardous frost development in internal mechanisms. While artificial parts do not suffer from frostbite like organic flesh does, cold is an existential threat to machinery. The unit is forced to expend much more energy and attention to preserve its own functionality as the threat escalates. Failure to return to a safe operating temperature will eventually lead to death.</description>
 		<lethalSeverity>1</lethalSeverity>
         <defaultLabelColor>(0.8, 0.8, 1)</defaultLabelColor>
         <stages>
