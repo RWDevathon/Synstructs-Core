@@ -6,31 +6,37 @@ namespace ArtificialBeings
 {
     public class CompEnergyReservoir_Powered : CompEnergyReservoir
     {
-        public CompPowerTrader compPowerTrader;
+        private CompPowerTrader compPowerTrader;
 
-        public override bool Usable => compPowerTrader.PowerOn && base.Usable;
+        public override bool Usable => CompPowerTrader.PowerOn && base.Usable;
 
-        public override void PostSpawnSetup(bool respawningAfterLoad)
+        public CompPowerTrader CompPowerTrader
         {
-            base.PostSpawnSetup(respawningAfterLoad);
-            compPowerTrader = parent.GetComp<CompPowerTrader>();
+            get
+            {
+                if (compPowerTrader == null)
+                {
+                    compPowerTrader = parent.GetComp<CompPowerTrader>();
+                }
+                return compPowerTrader;
+            }
         }
 
         public override void CompTickRare()
         {
             base.CompTickRare();
-            if (compPowerTrader.PowerOn)
+            if (CompPowerTrader.PowerOn)
             {
                 reserve = Mathf.Clamp(reserve + Mathf.Abs(compPowerTrader.PowerOutput * Props.energyEfficiency * GenTicks.TickRareInterval) / GenDate.TicksPerDay, 0, Props.maximumReserve);
             }
             // If we are at maximum reserve, keep the power consumption much lower.
             if (reserve >= Props.maximumReserve)
             {
-                compPowerTrader.PowerOutput = (0 - compPowerTrader.Props.PowerConsumption) * 0.1f;
+                CompPowerTrader.PowerOutput = (0 - CompPowerTrader.Props.PowerConsumption) * 0.1f;
             }
             else
             {
-                compPowerTrader.PowerOutput = 0 - compPowerTrader.Props.PowerConsumption;
+                CompPowerTrader.PowerOutput = 0 - CompPowerTrader.Props.PowerConsumption;
             }
         }
 
