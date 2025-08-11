@@ -121,6 +121,36 @@
         <removesHediff>ABF_Hediff_Synstruct_Overclocking</removesHediff>
 	</RecipeDef>
 
+	<!-- Surgery to remove implants from synstructs -->
+	<RecipeDef ParentName="ABF_Recipe_Synstruct_SurgeryBase">
+		<defName>ABF_Recipe_Synstruct_RemoveImplant</defName>
+		<label>remove upgrade</label>
+		<description>Removes upgrade.</description>
+		<workerClass>ArtificialBeings.Recipe_RemoveSlotUpgrade</workerClass>
+		<jobString>Removing upgrade.</jobString>
+		<workAmount>1600</workAmount>
+    	<isViolation>true</isViolation>
+		<surgerySuccessChanceFactor>2.5</surgerySuccessChanceFactor>
+		<skillRequirements>
+			<Crafting>4</Crafting>
+		</skillRequirements>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+		</fixedIngredientFilter>
+	</RecipeDef>
+
 	<!-- Surgery to remove body parts from synstructs -->
 	<RecipeDef ParentName="ABF_Recipe_Synstruct_SurgeryBase">
 		<defName>ABF_Recipe_Synstruct_RemoveBodyPart</defName>

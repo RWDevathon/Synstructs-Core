@@ -254,6 +254,7 @@
     <Compile Include="MentalStates\MentalState_Exterminator.cs" />
     <Compile Include="Needs\Need_SynstructEnergy.cs" />
     <Compile Include="PawnRelationWorkers\PawnRelationWorker_Creator.cs" />
+    <Compile Include="Recipes\Recipe_RemoveSlotUpgrade.cs" />
     <Compile Include="Recipes\Recipe_InstallSlotUpgrade.cs" />
     <Compile Include="Recipes\Recipe_MakeBlank.cs" />
     <Compile Include="Recipes\Recipe_MakeReprogrammable.cs" />
