@@ -234,4 +234,57 @@
 		<addsHediff>ABF_Hediff_Synstruct_Chassis_Mobility</addsHediff>
 	</RecipeDef>
 
+    <!-- Voidseal -->
+    <HediffDef ParentName="ABF_Hediff_Synstruct_Chassis_ImplantBase">
+        <defName>ABF_Hediff_Synstruct_Chassis_Voidseal</defName>
+        <label>voidseal chassis</label>
+        <description>A chassis designed for use in vacuum or regions of extreme cold. This chassis has unique design patterns and advanced materials tailored for securing internal functions against extremely adverse conditions. While it cannot allow synstructs to withstand vacuum singlehandedly, it will greatly enhance survival probabilities. It also reduces energy consumption, as less energy is required to maintain internal temperature stability.</description>
+        <stages>
+            <li>
+                <statOffsets>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.6</VacuumResistance>
+                    <ComfyTemperatureMin>-45</ComfyTemperatureMin>
+                </statOffsets>
+                <statFactors>
+                    <ABF_Stat_Synstruct_EnergyConsumption>0.8</ABF_Stat_Synstruct_EnergyConsumption>
+                </statFactors>
+            </li>
+        </stages>
+    </HediffDef>
+
+    <ThingDef ParentName="ABF_Thing_Synstruct_BodyStructureBase">
+        <defName>ABF_Thing_Synstruct_Chassis_Voidseal</defName>
+        <label>voidseal chassis</label>
+        <description>A chassis designed for use in vacuum or regions of extreme cold. This chassis has unique design patterns and advanced materials tailored for securing internal functions against extremely adverse conditions. While it cannot allow synstructs to withstand vacuum singlehandedly, it will greatly enhance survival probabilities. It also reduces energy consumption, as less energy is required to maintain internal temperature stability.</description>
+        <statBases>
+            <MarketValue>200</MarketValue>
+        </statBases>
+        <costList>
+            <Plasteel>20</Plasteel>
+            <ComponentSpacer>1</ComponentSpacer>
+        </costList>
+    </ThingDef>
+
+    <RecipeDef ParentName="ABF_Recipe_Synstruct_Chassis_InstallImplantBase">
+		<defName>ABF_Recipe_Synstruct_Chassis_Voidseal</defName>
+		<label>install voidseal chassis</label>
+		<description>Replaces the chassis of this unit with a voidseal chassis, greatly improving vacuum and low temperature tolerance.</description>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ABF_Thing_Synstruct_Chassis_Voidseal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ABF_Thing_Synstruct_Chassis_Voidseal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>ABF_Hediff_Synstruct_Chassis_Voidseal</addsHediff>
+	</RecipeDef>
+
 </Defs>

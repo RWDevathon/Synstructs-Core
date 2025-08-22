@@ -3,8 +3,8 @@
 
 	<ThingDef ParentName="ABF_Thing_Synstruct_StimulatorBase">
 		<defName>ABF_Thing_Synstruct_ThermalPill</defName>
-		<label>thermal pill</label>
-		<description>A synthetic chemical compound designed to reduce chassis susceptibility to adverse temperature - on both extremes.</description>
+		<label>thermal gel</label>
+		<description>A synthetic chemical compound designed to reduce chassis susceptibility to adverse temperature - on both extremes. The thick, viscous gel can also serve as a sealant against vacuum, should the synstruct need to use it as such.</description>
 		<graphicData>
 			<texPath>Things/Drugs/TemperatureStabilizer</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
@@ -14,7 +14,7 @@
 			<WorkToMake>550</WorkToMake>
 		</statBases>
 		<costList>
-			<Chemfuel>5</Chemfuel>
+			<Chemfuel>15</Chemfuel>
 		</costList>
 		<comps>
 			<li Class="ArtificialBeings.CompProperties_SynstructStimulator">
@@ -26,15 +26,15 @@
 	<HediffDef>
 		<defName>ABF_Hediff_Synstruct_ThermalPill</defName>
 		<hediffClass>HediffWithComps</hediffClass>
-		<label>chassis temperature stabilizer</label>
-		<description>Synthetic chemical compounds designed to reduce chassis susceptibility to adverse temperature - positive and negative - are flowing through the chassis.</description>
+		<label>thermal gel</label>
+		<description>Synthetic chemical compounds designed to reduce chassis susceptibility to vacuum and to the adverse conditions of both temperature extremes are flowing through the chassis.</description>
 		<defaultLabelColor>(0.8,0.8,0.8)</defaultLabelColor>
 		<scenarioCanAdd>true</scenarioCanAdd>
 		<maxSeverity>5.0</maxSeverity>
         <isBad>false</isBad>
 		<comps>
 			<li Class="HediffCompProperties_SeverityPerDay">
-				<severityPerDay>-1</severityPerDay>
+				<severityPerDay>-0.25</severityPerDay>
                 <showHoursToRecover>true</showHoursToRecover>
 			</li>
 		</comps>
@@ -45,11 +45,12 @@
 			</li>
 
 			<li>
-				<minSeverity>0.1</minSeverity>
+				<minSeverity>0.01</minSeverity>
 				<label>minor</label>
 				<statOffsets>
-					<ComfyTemperatureMin>-10</ComfyTemperatureMin>
-					<ComfyTemperatureMax>10</ComfyTemperatureMax>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.54</VacuumResistance>
+					<ComfyTemperatureMin>-40</ComfyTemperatureMin>
+					<ComfyTemperatureMax>25</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
 
@@ -57,8 +58,9 @@
 				<minSeverity>0.25</minSeverity>
 				<label>moderate</label>
 				<statOffsets>
-					<ComfyTemperatureMin>-20</ComfyTemperatureMin>
-					<ComfyTemperatureMax>20</ComfyTemperatureMax>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.56</VacuumResistance>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
+					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
 
@@ -66,7 +68,8 @@
 				<minSeverity>0.5</minSeverity>
 				<label>significant</label>
 				<statOffsets>
-					<ComfyTemperatureMin>-30</ComfyTemperatureMin>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.58</VacuumResistance>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
@@ -75,8 +78,9 @@
 				<minSeverity>0.8</minSeverity>
 				<label>peak</label>
 				<statOffsets>
-					<ComfyTemperatureMin>-40</ComfyTemperatureMin>
-					<ComfyTemperatureMax>40</ComfyTemperatureMax>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.6</VacuumResistance>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
+					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
 		</stages>

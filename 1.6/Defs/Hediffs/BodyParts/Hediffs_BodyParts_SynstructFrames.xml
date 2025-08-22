@@ -180,4 +180,57 @@
 		<addsHediff>ABF_Hediff_Synstruct_Frame_Sanitary</addsHediff>
 	</RecipeDef>
 
+    <!-- Voidseal -->
+    <HediffDef ParentName="ABF_Hediff_Synstruct_Frame_ImplantBase">
+        <defName>ABF_Hediff_Synstruct_Frame_Voidseal</defName>
+        <label>voidseal frame</label>
+        <description>A frame designed for use in vacuum or regions of extreme cold. An altered layout and structure of the external components of the synstruct provides it much greater capability in facing harsh conditions. While it cannot allow synstructs to withstand vacuum singlehandedly, it will greatly enhance survival probabilities. It also reduces energy consumption, as less energy is required to maintain internal temperature stability.</description>
+        <stages>
+            <li>
+                <statOffsets>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.6</VacuumResistance>
+                    <ComfyTemperatureMin>-45</ComfyTemperatureMin>
+                </statOffsets>
+                <statFactors>
+                    <ABF_Stat_Synstruct_EnergyConsumption>0.8</ABF_Stat_Synstruct_EnergyConsumption>
+                </statFactors>
+            </li>
+        </stages>
+    </HediffDef>
+
+    <ThingDef ParentName="ABF_Thing_Synstruct_BodyStructureBase">
+        <defName>ABF_Thing_Synstruct_Frame_Voidseal</defName>
+        <label>voidseal frame</label>
+        <description>A frame designed for use in vacuum or regions of extreme cold. An altered layout and structure of the external components of the synstruct provides it much greater capability in facing harsh conditions. While it cannot allow synstructs to withstand vacuum singlehandedly, it will greatly enhance survival probabilities. It also reduces energy consumption, as less energy is required to maintain internal temperature stability.</description>
+        <statBases>
+            <MarketValue>200</MarketValue>
+        </statBases>
+        <costList>
+            <Plasteel>20</Plasteel>
+            <ComponentSpacer>1</ComponentSpacer>
+        </costList>
+    </ThingDef>
+
+    <RecipeDef ParentName="ABF_Recipe_Synstruct_Frame_InstallImplantBase">
+		<defName>ABF_Recipe_Synstruct_Frame_Voidseal</defName>
+		<label>install voidseal frame</label>
+		<description>Replaces the frame of this unit with a voidseal frame, greatly improving vacuum and low temperature tolerance.</description>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>ABF_Thing_Synstruct_Frame_Voidseal</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>ABF_Thing_Synstruct_Frame_Voidseal</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>ABF_Hediff_Synstruct_Frame_Voidseal</addsHediff>
+	</RecipeDef>
+
 </Defs>
