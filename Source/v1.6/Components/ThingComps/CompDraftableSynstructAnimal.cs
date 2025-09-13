@@ -50,38 +50,44 @@ namespace ArtificialBeings
         // The extra selection overlay for drawing lines for paths only happens for Colonist pawns (ie. humanlikes).
         public override void PostDrawExtraSelectionOverlays()
         {
-            Pawn.pather.curPath?.DrawPath(Pawn);
-            Pawn.jobs.DrawLinesBetweenTargets();
+            if (Pawn.Faction == Faction.OfPlayer)
+            {
+                Pawn.pather.curPath?.DrawPath(Pawn);
+                Pawn.jobs.DrawLinesBetweenTargets();
+            }
         }
 
         public override IEnumerable<Gizmo> CompGetGizmosExtra()
         {
-            if (Drafter.ShowDraftGizmo)
+            if (Pawn.Faction == Faction.OfPlayer)
             {
-                Command_Toggle command_Toggle = new Command_Toggle
+                if (Drafter.ShowDraftGizmo)
                 {
-                    hotKey = KeyBindingDefOf.Command_ColonistDraft,
-                    isActive = () => Drafter.Drafted,
-                    toggleAction = delegate
+                    Command_Toggle command_Toggle = new Command_Toggle
                     {
-                        Drafter.Drafted = !Drafter.Drafted;
-                    },
-                    defaultDesc = "CommandToggleDraftDesc".Translate(),
-                    icon = TexCommand.Draft,
-                    turnOnSound = SoundDefOf.DraftOn,
-                    turnOffSound = SoundDefOf.DraftOff,
-                    groupKeyIgnoreContent = 81729172,
-                    defaultLabel = (Drafter.Drafted ? "CommandUndraftLabel" : "CommandDraftLabel").Translate()
-                };
-                if (Pawn.Downed)
-                {
-                    command_Toggle.Disable("IsIncapped".Translate(Pawn.LabelShort, Pawn));
+                        hotKey = KeyBindingDefOf.Command_ColonistDraft,
+                        isActive = () => Drafter.Drafted,
+                        toggleAction = delegate
+                        {
+                            Drafter.Drafted = !Drafter.Drafted;
+                        },
+                        defaultDesc = "CommandToggleDraftDesc".Translate(),
+                        icon = TexCommand.Draft,
+                        turnOnSound = SoundDefOf.DraftOn,
+                        turnOffSound = SoundDefOf.DraftOff,
+                        groupKeyIgnoreContent = 81729172,
+                        defaultLabel = (Drafter.Drafted ? "CommandUndraftLabel" : "CommandDraftLabel").Translate()
+                    };
+                    if (Pawn.Downed)
+                    {
+                        command_Toggle.Disable("IsIncapped".Translate(Pawn.LabelShort, Pawn));
+                    }
+                    yield return command_Toggle;
                 }
-                yield return command_Toggle;
-            }
-            foreach (Gizmo attackGizmo in PawnAttackGizmoUtility.GetAttackGizmos(Pawn))
-            {
-                yield return attackGizmo;
+                foreach (Gizmo attackGizmo in PawnAttackGizmoUtility.GetAttackGizmos(Pawn))
+                {
+                    yield return attackGizmo;
+                }
             }
         }
     }
