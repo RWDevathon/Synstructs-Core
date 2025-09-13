@@ -15,9 +15,9 @@
                 </statOffsets>
                 <randomMentalState>ABF_MentalState_Synstruct_FriendlyGrassObsession</randomMentalState>
                 <randomMentalStateMtbDaysMoodCurve>
-                  <points>
-                    <li>(0, 50)</li>
-                  </points>
+                    <points>
+                        <li>(0, 50)</li>
+                    </points>
                 </randomMentalStateMtbDaysMoodCurve>
                 <allowedMeditationFocusTypes><li>Natural</li></allowedMeditationFocusTypes>
             </li>
@@ -33,9 +33,9 @@
                 </statFactors>
                 <randomMentalState>ABF_MentalState_Synstruct_HostileGrassObsession</randomMentalState>
                 <randomMentalStateMtbDaysMoodCurve>
-                  <points>
-                    <li>(0, 50)</li>
-                  </points>
+                    <points>
+                        <li>(0, 50)</li>
+                    </points>
                 </randomMentalStateMtbDaysMoodCurve>
             </li>
         </degreeDatas>

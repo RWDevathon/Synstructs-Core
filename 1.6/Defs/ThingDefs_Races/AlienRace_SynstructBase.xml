@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
 
-    <!-- Mechanical Humanlike Base -->
 	<AlienRace.ThingDef_AlienRace Name="ABF_Thing_Synstruct_HumanlikeBase" ParentName="BasePawn" Abstract="True">
 		<soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
 		<statBases>
