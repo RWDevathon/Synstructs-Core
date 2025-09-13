@@ -242,11 +242,11 @@
         <stages>
             <li>
                 <statOffsets>
-                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.6</VacuumResistance>
-                    <ComfyTemperatureMin>-45</ComfyTemperatureMin>
+                    <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
+                    <ComfyTemperatureMin>-30</ComfyTemperatureMin>
                 </statOffsets>
                 <statFactors>
-                    <ABF_Stat_Synstruct_EnergyConsumption>0.8</ABF_Stat_Synstruct_EnergyConsumption>
+                    <ABF_Stat_Synstruct_EnergyConsumption>0.9</ABF_Stat_Synstruct_EnergyConsumption>
                 </statFactors>
             </li>
         </stages>
