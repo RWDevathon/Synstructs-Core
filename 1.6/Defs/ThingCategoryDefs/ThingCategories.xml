@@ -14,4 +14,11 @@
         <iconPath>Things/Drugs/SignalSurge</iconPath>
     </ThingCategoryDef>
 
+    <ThingCategoryDef>
+        <defName>ABF_ThingCategory_Synstruct_RepairTools</defName>
+        <label>repair tools</label>
+        <parent>Manufactured</parent>
+        <iconPath>Things/Items/Manufactured/PartPack</iconPath>
+    </ThingCategoryDef>
+
 </Defs>

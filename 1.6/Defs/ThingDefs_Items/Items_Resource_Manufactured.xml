@@ -6,7 +6,7 @@
         <soundInteract>Standard_Drop</soundInteract>
         <soundDrop>Standard_Drop</soundDrop>
         <thingCategories>
-            <li>Manufactured</li>
+            <li>ABF_ThingCategory_Synstruct_RepairTools</li>
         </thingCategories>
         <techLevel>Industrial</techLevel>
         <recipeMaker>
@@ -44,7 +44,6 @@
             <Plasteel>20</Plasteel>
             <ComponentIndustrial>6</ComponentIndustrial>
         </costList>
-        <tradeability>All</tradeability>
         <recipeMaker>
             <bulkRecipeCount>4</bulkRecipeCount>
             <skillRequirements>
@@ -174,7 +173,7 @@
             <Flammability>0.2</Flammability>
         </statBases>
         <tradeTags>
-          <li>ExoticMisc</li>
+            <li>RestructKits</li>
         </tradeTags>
     </ThingDef>
 
@@ -224,7 +223,6 @@
             </skillRequirements>
             <researchPrerequisite>ABF_ResearchProject_Synstruct_InterchangeableParts</researchPrerequisite>
         </recipeMaker>
-        <tradeability>Sellable</tradeability>
     </ThingDef>
 
     <!-- Resurrection Kit for drone synstructs -->
@@ -273,7 +271,6 @@
             </skillRequirements>
             <researchPrerequisite>ABF_ResearchProject_Synstruct_InterchangeableParts</researchPrerequisite>
         </recipeMaker>
-        <tradeability>Sellable</tradeability>
     </ThingDef>
 
 </Defs>
