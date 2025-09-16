@@ -189,7 +189,7 @@
             <li>
                 <statOffsets>
                     <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
-                    <ComfyTemperatureMin>-30</ComfyTemperatureMin>
+                    <ComfyTemperatureMin>-40</ComfyTemperatureMin>
                 </statOffsets>
                 <statFactors>
                     <ABF_Stat_Synstruct_EnergyConsumption>0.9</ABF_Stat_Synstruct_EnergyConsumption>

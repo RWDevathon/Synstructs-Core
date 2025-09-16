@@ -49,7 +49,7 @@
 				<label>minor</label>
 				<statOffsets>
                     <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">0.94</VacuumResistance>
-					<ComfyTemperatureMin>-30</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-40</ComfyTemperatureMin>
 					<ComfyTemperatureMax>25</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
@@ -59,7 +59,7 @@
 				<label>moderate</label>
 				<statOffsets>
                     <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
-					<ComfyTemperatureMin>-35</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
@@ -69,7 +69,7 @@
 				<label>significant</label>
 				<statOffsets>
                     <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
-					<ComfyTemperatureMin>-35</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
@@ -79,7 +79,7 @@
 				<label>peak</label>
 				<statOffsets>
                     <VacuumResistance MayRequire="Ludeon.RimWorld.Odyssey">1</VacuumResistance>
-					<ComfyTemperatureMin>-35</ComfyTemperatureMin>
+					<ComfyTemperatureMin>-45</ComfyTemperatureMin>
 					<ComfyTemperatureMax>30</ComfyTemperatureMax>
 				</statOffsets>
 			</li>
