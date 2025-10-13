@@ -45,7 +45,11 @@ namespace ArtificialBeings
         {
             if (parent.HitPoints > 0 && parent.Spawned)
             {
-                GenExplosion.DoExplosion(parent.Position, parent.Map, reserve / 2, DamageDefOf.EMP, parent, (int)Mathf.Pow(reserve, 1.5f));
+                // Only explode if there is a decent amount of energy in reserve.
+                if (reserve > Props.maximumReserve * 0.2f)
+                {
+                    GenExplosion.DoExplosion(parent.Position, parent.Map, reserve / 500, DamageDefOf.EMP, parent, (int)reserve / 40);
+                }
                 reserve = 0;
             }
         }
