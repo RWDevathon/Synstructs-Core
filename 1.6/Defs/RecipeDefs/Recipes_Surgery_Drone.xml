@@ -16,7 +16,6 @@
 		<surgerySuccessChanceFactor>0.8</surgerySuccessChanceFactor>
 		<deathOnFailedSurgeryChance>0.4</deathOnFailedSurgeryChance>
         <surgeryOutcomeEffect>ABF_SurgeryOutcomeEffect_Artificial_SurgeryBase</surgeryOutcomeEffect>
-		<addsHediff>ABF_Hediff_Artificial_Incapacitated</addsHediff>
 	</RecipeDef>
 
 	<!-- Surgery to remove programming from a programmed drone -->
