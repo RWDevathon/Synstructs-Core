@@ -34,6 +34,7 @@
     </Reference>
     <Reference Include="AlienRace">
       <HintPath>..\..\..\..\..\..\workshop\content\294100\839005762\1.6\Assemblies\AlienRace.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Artificial Beings Framework">
       <HintPath>..\..\..\Artificial Beings Framework\1.6\Assemblies\Artificial Beings Framework.dll</HintPath>

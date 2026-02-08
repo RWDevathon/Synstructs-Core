@@ -1,6 +1,4 @@
-﻿using RimWorld;
-using System.Linq;
-using Verse;
+﻿using Verse;
 using Verse.AI;
 
 namespace ArtificialBeings
@@ -27,12 +25,7 @@ namespace ArtificialBeings
         protected override IntVec3 GetWanderRoot(Pawn pawn)
         {
             Map map = pawn.Map;
-            return map.listerThings.ThingsInGroup(ThingRequestGroup.NonStumpPlant).RandomElementByWeight(plant => 
-                (pawn.CanReach(plant.Position, PathEndMode.Touch, Danger.Deadly) ? 1 : 0) * // Do not wander near forbidden plant. No touch.
-                (plant.def == ThingDefOf.Plant_Grass ? 3 : 1) * // Prefer grass.
-                (pawn.Map.areaManager.Home.ActiveCells.Contains(plant.Position) ? 8 : 1) * // Prefer plants in the home area.
-                (plant.Position.InAllowedArea(pawn) ? 6 : 1) // Prefer plants in the pawn's allowed area (stacks with home area).
-                ).Position;
+            return GenClosest.ClosestThingReachable(pawn.Position, pawn.Map, ThingRequest.ForGroup(ThingRequestGroup.NonStumpPlant), PathEndMode.Touch, TraverseParms.For(pawn)).Position;
         }
     }
 }
