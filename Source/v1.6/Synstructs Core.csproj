@@ -33,8 +33,7 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="AlienRace">
-      <HintPath>..\..\..\..\..\..\workshop\content\294100\839005762\1.5\Assemblies\AlienRace.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\..\workshop\content\294100\839005762\1.6\Assemblies\AlienRace.dll</HintPath>
     </Reference>
     <Reference Include="Artificial Beings Framework">
       <HintPath>..\..\..\Artificial Beings Framework\1.6\Assemblies\Artificial Beings Framework.dll</HintPath>
@@ -290,6 +289,10 @@
     <Compile Include="Utils\CoherenceUtility.cs" />
     <Compile Include="Utils\SC_Utils.cs" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <PackageReference Include="Krafs.Rimworld.Ref">
+      <Version>1.6.4633</Version>
+    </PackageReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
